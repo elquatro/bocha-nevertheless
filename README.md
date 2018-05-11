@@ -3,6 +3,7 @@
 
 | Название видео | Дата | Тем не менее |
 | -------------- | ---- | ------------:|
+| [Видео На Салфетке: Посылки не для обзоров](https://www.youtube.com/watch?v=LwugdxvTZc0) | 17.05.2016 | 3 |
 | [Загадка ноутбука Acer](https://www.youtube.com/watch?v=9Wu4katF1U8) | 23.03.2016 | 0 |
 | [Видео на салфетке: Алькор и картриджи](https://www.youtube.com/watch?v=bYirajv66uM) | 21.03.2016 | 1 |
 | [(16 бит тому назад S03E06) Minitel](https://www.youtube.com/watch?v=2z-UWw_Scsk) | 14.03.2016 | 0 |
