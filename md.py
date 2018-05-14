@@ -2,7 +2,7 @@
 
 from string import Template
 from datetime import datetime
-import json
+import csv
 
 def sort_by_date(count):
     return sorted(
@@ -14,8 +14,11 @@ def main():
     with open('template.md') as fp:
         base_tpl = Template(fp.read())
 
-    with open('count.json') as fp:
-        count = json.load(fp)
+    count = []
+    with open('data.csv') as fd:
+        reader = csv.reader(fd)
+        for row in reader:
+            count.append(row)
 
     count = sort_by_date(count)
 
