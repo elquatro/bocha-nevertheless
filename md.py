@@ -15,9 +15,10 @@ def main():
         base_tpl = Template(fp.read())
 
     count = []
-    with open('data.csv') as fd:
+    with open('data.csv', newline='') as fd:
         reader = csv.reader(fd)
-        for row in reader:
+        for i, row in enumerate(reader):
+            if i == 0: continue
             count.append(row)
 
     count = sort_by_date(count)
