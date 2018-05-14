@@ -3,7 +3,12 @@
 
 | Название видео | Дата | Тем не менее |
 | -------------- | ---- | ------------:|
+| [Видео на Салфетке: Тёплые ламповые загадки](https://www.youtube.com/watch?v=AdHsnI8w3NU) | 02.06.2016 | 0 |
+| [Видео на Салфетке: Жемчужины в коробках](https://www.youtube.com/watch?v=BP-ufAiR4W0) | 01.06.2016 | 0 |
+| [Видео на Салфетке: Cisco и другой стафф.](https://www.youtube.com/watch?v=iH1VmUhM9hA) | 31.05.2016 | 1 |
+| [Железный Детектив и немного Спектрума](https://www.youtube.com/watch?v=tUf35BeB-Rk) | 20.05.2016 | 1 |
 | [Видео На Салфетке: Посылки не для обзоров](https://www.youtube.com/watch?v=LwugdxvTZc0) | 17.05.2016 | 3 |
+| [10го выпуск на сайте, а я чёрти где](https://www.youtube.com/watch?v=Jer3cs9b2UU) | 09.05.2016 | 1 |
 | [ВнС: SEGA в России вчера и сегодня](https://www.youtube.com/watch?v=2tkPe2GPctw) | 03.05.2016 | 3 |
 | [Железный Детектив На Салфетке: PEAK650VL2](https://www.youtube.com/watch?v=aT1AFhU6xro) | 21.04.2016 | 1 |
 | [Видео на салфетке: Посылка-2](https://www.youtube.com/watch?v=aRb6DJFh4vM) | 15.04.2016 | 0 |
