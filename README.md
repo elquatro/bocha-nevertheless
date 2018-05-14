@@ -4,6 +4,13 @@
 | Название видео | Дата | Тем не менее |
 | -------------- | ---- | ------------:|
 | [Видео На Салфетке: Посылки не для обзоров](https://www.youtube.com/watch?v=LwugdxvTZc0) | 17.05.2016 | 3 |
+| [ВнС: SEGA в России вчера и сегодня](https://www.youtube.com/watch?v=2tkPe2GPctw) | 03.05.2016 | 3 |
+| [Железный Детектив На Салфетке: PEAK650VL2](https://www.youtube.com/watch?v=aT1AFhU6xro) | 21.04.2016 | 1 |
+| [Видео на салфетке: Посылка-2](https://www.youtube.com/watch?v=aRb6DJFh4vM) | 15.04.2016 | 0 |
+| [Железный Детектив: дело транспьютера](https://www.youtube.com/watch?v=ZHUixLDrvfM) | 05.04.2016 | 1 |
+| [Видео на салфетке: Посылка](https://www.youtube.com/watch?v=lW52nB99xBk) | 03.04.2016 | 2 |
+| [Разгадка ноутбука Acer (3/3)](https://www.youtube.com/watch?v=YYjpWWTmKAU) | 29.03.2016 | 1 |
+| [Загадка ноутбука Acer: часть вторая](https://www.youtube.com/watch?v=Ks0J8pLfBf0) | 25.03.2016 | 2 |
 | [Загадка ноутбука Acer](https://www.youtube.com/watch?v=9Wu4katF1U8) | 23.03.2016 | 0 |
 | [Видео на салфетке: Алькор и картриджи](https://www.youtube.com/watch?v=bYirajv66uM) | 21.03.2016 | 1 |
 | [(16 бит тому назад S03E06) Minitel](https://www.youtube.com/watch?v=2z-UWw_Scsk) | 14.03.2016 | 0 |
