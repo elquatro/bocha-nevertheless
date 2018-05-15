@@ -3,6 +3,12 @@
 
 | Название видео | Дата | Тем не менее |
 | -------------- | ---- | ------------:|
+| [[Bocha's WiiU] Donky Kong Country Tropical Freeze](https://www.youtube.com/watch?v=I3ir85yz5-w) | 09.09.2016 | 0 |
+| [[Bocha's WiiU] Ninja Gaiden 3](https://www.youtube.com/watch?v=UTD_dX-idiQ) | 09.09.2016 | 1 |
+| [[Bocha's WiiU] Splinter Cell Blacklist](https://www.youtube.com/watch?v=hVk-XGZ79dU) | 09.09.2016 | 0 |
+| [[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://www.youtube.com/watch?v=uJg1pkciuqA) | 09.09.2016 | 0 |
+| [Amiga Jerry Mouse Adapter и пара посылок](https://www.youtube.com/watch?v=NE2AYg31t4M) | 30.06.2016 | 2 |
+| [Cortex Amiga Floppy USB Emulator](https://www.youtube.com/watch?v=T_GxVA-dnmo) | 23.06.2016 | 1 |
 | [Про Matrox, Amiga, Посылки и Загадки](https://www.youtube.com/watch?v=MNLwH1FKEMo) | 21.06.2016 | 6 |
 | [BeamMachine](https://www.youtube.com/watch?v=cQH0Ruwe8XU) | 16.06.2016 | 2 |
 | [Видео на Салфетке: Тёплые ламповые загадки](https://www.youtube.com/watch?v=AdHsnI8w3NU) | 02.06.2016 | 0 |
