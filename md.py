@@ -4,15 +4,8 @@ from string import Template
 from datetime import datetime
 import csv
 
-def sort_by_date(count):
-    return sorted(
-        count,
-        key=lambda x: datetime.strptime(x[1], '%d.%m.%Y'),
-        reverse=True)
-
 def main():
-    with open('template.md') as fp:
-        base_tpl = Template(fp.read())
+    base_tpl = get_base_template()
 
     count = []
     with open('data.csv', newline='') as fd:
@@ -36,6 +29,23 @@ def main():
 
     with open('README.md', 'w') as fp:
         fp.write(base_tpl.substitute(data='\n'.join(lines)))
+
+
+def get_base_template():
+    return Template(
+'''Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
+----------------------------------------------------------
+
+| Название видео | Дата | Тем не менее |
+| -------------- | ---- | ------------:|
+$data
+''')
+
+def sort_by_date(count):
+    return sorted(
+        count,
+        key=lambda x: datetime.strptime(x[1], '%d.%m.%Y'),
+        reverse=True)
 
 if __name__ == '__main__':
     main()
