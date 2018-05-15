@@ -3,6 +3,7 @@
 
 | Название видео | Дата | Тем не менее |
 | -------------- | ---- | ------------:|
+| [3Dfx Voodoo 2 SLI своими руками](https://www.youtube.com/watch?v=cVgQiulnk5E) | 01.09.2017 | 0 |
 | [[Bocha's WiiU] Donky Kong Country Tropical Freeze](https://www.youtube.com/watch?v=I3ir85yz5-w) | 09.09.2016 | 0 |
 | [[Bocha's WiiU] Ninja Gaiden 3](https://www.youtube.com/watch?v=UTD_dX-idiQ) | 09.09.2016 | 1 |
 | [[Bocha's WiiU] Splinter Cell Blacklist](https://www.youtube.com/watch?v=hVk-XGZ79dU) | 09.09.2016 | 0 |
