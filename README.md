@@ -3,6 +3,8 @@
 
 | Название видео | Дата | Тем не менее |
 | -------------- | ---- | ------------:|
+| [Про Matrox, Amiga, Посылки и Загадки](https://www.youtube.com/watch?v=MNLwH1FKEMo) | 21.06.2016 | 6 |
+| [BeamMachine](https://www.youtube.com/watch?v=cQH0Ruwe8XU) | 16.06.2016 | 2 |
 | [Видео на Салфетке: Тёплые ламповые загадки](https://www.youtube.com/watch?v=AdHsnI8w3NU) | 02.06.2016 | 0 |
 | [Видео на Салфетке: Жемчужины в коробках](https://www.youtube.com/watch?v=BP-ufAiR4W0) | 01.06.2016 | 0 |
 | [Видео на Салфетке: Cisco и другой стафф.](https://www.youtube.com/watch?v=iH1VmUhM9hA) | 31.05.2016 | 1 |
