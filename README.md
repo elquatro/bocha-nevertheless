@@ -8,6 +8,7 @@
 | [[Bocha's WiiU] Ninja Gaiden 3](https://www.youtube.com/watch?v=UTD_dX-idiQ) | 09.09.2016 | 1 |
 | [[Bocha's WiiU] Splinter Cell Blacklist](https://www.youtube.com/watch?v=hVk-XGZ79dU) | 09.09.2016 | 0 |
 | [[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://www.youtube.com/watch?v=uJg1pkciuqA) | 09.09.2016 | 0 |
+| [Практика по PowerMac G4 и посылка](https://www.youtube.com/watch?v=O_oFvOkP4QE) | 27.07.2016 | 3 |
 | [Amiga Jerry Mouse Adapter и пара посылок](https://www.youtube.com/watch?v=NE2AYg31t4M) | 30.06.2016 | 2 |
 | [Cortex Amiga Floppy USB Emulator](https://www.youtube.com/watch?v=T_GxVA-dnmo) | 23.06.2016 | 1 |
 | [Про Matrox, Amiga, Посылки и Загадки](https://www.youtube.com/watch?v=MNLwH1FKEMo) | 21.06.2016 | 6 |
