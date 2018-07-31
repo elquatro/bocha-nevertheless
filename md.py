@@ -20,12 +20,16 @@ def main():
     link_tpl = Template('[$title]($link)')
 
     lines = []
+    total = 0
 
     for r in count:
         if len(r) < 4:
             continue
         title = link_tpl.substitute(title=r[0], link=r[2])
+        total += int(r[3])
         lines.append(row_tpl.substitute(title=title, date=r[1], count=r[3]))
+
+    lines.append(row_tpl.substitute(title='**ИТОГО**', date='', count='**%s**' % total))
 
     with open('README.md', 'w') as fp:
         fp.write(base_tpl.substitute(data='\n'.join(lines)))

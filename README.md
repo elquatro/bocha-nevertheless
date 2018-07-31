@@ -45,3 +45,4 @@
 | [Меня всё время спрашивают про Doom 4 [черновик]](https://www.youtube.com/watch?v=aI8BJY5qoOw) | 23.06.2015 | 0 |
 | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
+| **ИТОГО** |  | **44** |
