@@ -8,7 +8,15 @@
 | [[Bocha's WiiU] Ninja Gaiden 3](https://www.youtube.com/watch?v=UTD_dX-idiQ) | 09.09.2016 | 1 |
 | [[Bocha's WiiU] Splinter Cell Blacklist](https://www.youtube.com/watch?v=hVk-XGZ79dU) | 09.09.2016 | 0 |
 | [[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://www.youtube.com/watch?v=uJg1pkciuqA) | 09.09.2016 | 0 |
+| [(16 бит тому назад S03E12) Nintendo Wii U и NX](https://www.youtube.com/watch?v=uKyqwdTvqco) | 09.09.2016 | 1 |
+| [Посылка и "Поиск Предметов"](https://www.youtube.com/watch?v=rN3txGbFZnc) | 05.09.2016 | 0 |
+| [Ritmix RZX-50 - первое включение](https://www.youtube.com/watch?v=GixlxYlLS3o) | 05.09.2016 | 0 |
+| [(16 бит тому назад S03E11) Atari Lynx](https://www.youtube.com/watch?v=oupFeEN4PgE) | 14.08.2016 | 1 |
+| [И снова посылки и загадки](https://www.youtube.com/watch?v=5wHt5n8zLr0) | 01.08.2016 | 2 |
+| [Анонс интервью](https://www.youtube.com/watch?v=jQmajlj_aQ4) | 30.07.2016 | 0 |
+| [Железный Детектив: Дело Hackintosh](https://www.youtube.com/watch?v=-MwB-ByCJkE) | 28.07.2016 | 0 |
 | [Практика по PowerMac G4 и посылка](https://www.youtube.com/watch?v=O_oFvOkP4QE) | 27.07.2016 | 3 |
+| [(16 бит тому назад S03E10) Трудный путь Apple к Mac OS X](https://www.youtube.com/watch?v=Py-vUSRAcNM) | 14.07.2016 | 3 |
 | [Amiga Jerry Mouse Adapter и пара посылок](https://www.youtube.com/watch?v=NE2AYg31t4M) | 30.06.2016 | 2 |
 | [Cortex Amiga Floppy USB Emulator](https://www.youtube.com/watch?v=T_GxVA-dnmo) | 23.06.2016 | 1 |
 | [Про Matrox, Amiga, Посылки и Загадки](https://www.youtube.com/watch?v=MNLwH1FKEMo) | 21.06.2016 | 6 |
@@ -45,4 +53,4 @@
 | [Меня всё время спрашивают про Doom 4 [черновик]](https://www.youtube.com/watch?v=aI8BJY5qoOw) | 23.06.2015 | 0 |
 | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
-| **ИТОГО** |  | **44** |
+| **ИТОГО** |  | **51** |
