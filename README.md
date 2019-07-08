@@ -4,6 +4,11 @@
 | Название видео | Дата | Тем не менее |
 | -------------- | ---- | ------------:|
 | [3Dfx Voodoo 2 SLI своими руками](https://www.youtube.com/watch?v=cVgQiulnk5E) | 01.09.2017 | 0 |
+| [Roland MT-32 - Подготовка к тестам](https://www.youtube.com/watch?v=R5PeXjCHIu0) | 04.10.2016 | 3 |
+| [Вышел iPhone 7 :-)](https://www.youtube.com/watch?v=51TBfl-kK2g) | 27.09.2016 | 3 |
+| [Ставим Windows 95 на 486](https://www.youtube.com/watch?v=a1RvccBDTw4) | 18.09.2016 | 4 |
+| [Делаем первый upgrade 486му.](https://www.youtube.com/watch?v=TlKsSu2etXY) | 15.09.2016 | 3 |
+| [Собираем 486](https://www.youtube.com/watch?v=8eFUo39_ZZk) | 14.09.2016 | 0 |
 | [[Bocha's WiiU] Donky Kong Country Tropical Freeze](https://www.youtube.com/watch?v=I3ir85yz5-w) | 09.09.2016 | 0 |
 | [[Bocha's WiiU] Ninja Gaiden 3](https://www.youtube.com/watch?v=UTD_dX-idiQ) | 09.09.2016 | 1 |
 | [[Bocha's WiiU] Splinter Cell Blacklist](https://www.youtube.com/watch?v=hVk-XGZ79dU) | 09.09.2016 | 0 |
@@ -53,4 +58,4 @@
 | [Меня всё время спрашивают про Doom 4 [черновик]](https://www.youtube.com/watch?v=aI8BJY5qoOw) | 23.06.2015 | 0 |
 | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
-| **ИТОГО** |  | **51** |
+| **ИТОГО** |  | **64** |
