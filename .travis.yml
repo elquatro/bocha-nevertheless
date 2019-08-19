@@ -1,0 +1,14 @@
+language: python
+python:
+  - "3.7"
+install: skip
+script: python3 md.py
+
+deploy:
+  provider: pages
+  keep_history: true
+  target_branch: master
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: develop
