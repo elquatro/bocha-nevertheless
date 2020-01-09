@@ -6,6 +6,9 @@
 | [3Dfx Voodoo 2 SLI своими руками](https://www.youtube.com/watch?v=cVgQiulnk5E) | 01.09.2017 | 0 |
 | [386й ноутбук возвращается: Звук!](https://www.youtube.com/watch?v=3rtj_jx8bck) | 01.09.2017 | 4 |
 | [Оживляем ThinkPad на Pentium 2](https://www.youtube.com/watch?v=hvo5auh7cqU) | 16.08.2017 | 4 |
+| [(16 бит тому назад S03E14) Сервис Steam](https://www.youtube.com/watch?v=In-2ZiAZTgM) | 14.11.2016 | 5 |
+| [Roland MT-32 vs SoundBlaster AWE64](https://www.youtube.com/watch?v=oTA4pz8eTTU) | 29.10.2016 | 4 |
+| [Тестируем Roland MT-32](https://www.youtube.com/watch?v=ECoC_Kf3Y-Y) | 23.10.2016 | 9 |
 | [(16 бит тому назад S03E13) VR-шлем VFX1](https://www.youtube.com/watch?v=Et3KPENzPYg) | 14.10.2016 | 3 |
 | [Roland MT-32 - Подготовка к тестам](https://www.youtube.com/watch?v=R5PeXjCHIu0) | 04.10.2016 | 3 |
 | [Вышел iPhone 7 :-)](https://www.youtube.com/watch?v=51TBfl-kK2g) | 27.09.2016 | 3 |
@@ -61,4 +64,4 @@
 | [Меня всё время спрашивают про Doom 4 [черновик]](https://www.youtube.com/watch?v=aI8BJY5qoOw) | 23.06.2015 | 0 |
 | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
-| **ИТОГО** |  | **75** |
+| **ИТОГО** |  | **93** |
