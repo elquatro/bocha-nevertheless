@@ -6,6 +6,10 @@
 | [3Dfx Voodoo 2 SLI своими руками](https://www.youtube.com/watch?v=cVgQiulnk5E) | 01.09.2017 | 0 |
 | [386й ноутбук возвращается: Звук!](https://www.youtube.com/watch?v=3rtj_jx8bck) | 01.09.2017 | 4 |
 | [Оживляем ThinkPad на Pentium 2](https://www.youtube.com/watch?v=hvo5auh7cqU) | 16.08.2017 | 4 |
+| [Файлсервер (NAS) на ZFS](https://www.youtube.com/watch?v=EiKafkUcajs) | 27.01.2017 | 6 |
+| ["16 бит тому назад" продолжится?](https://www.youtube.com/watch?v=ZL8Pr2eN4ek) | 19.01.2017 | 4 |
+| [Не пройтись ли по магазинам #2](https://www.youtube.com/watch?v=e1jBCzZuEDw) | 14.01.2017 | 9 |
+| [(16 бит тому назад S03E16) Первая компьютерная игра](https://www.youtube.com/watch?v=aCkZRQx6H0Q) | 25.12.2016 | 4 |
 | [(16 бит тому назад S03E14) Сервис Steam](https://www.youtube.com/watch?v=In-2ZiAZTgM) | 14.11.2016 | 5 |
 | [Roland MT-32 vs SoundBlaster AWE64](https://www.youtube.com/watch?v=oTA4pz8eTTU) | 29.10.2016 | 4 |
 | [Тестируем Roland MT-32](https://www.youtube.com/watch?v=ECoC_Kf3Y-Y) | 23.10.2016 | 9 |
@@ -64,4 +68,4 @@
 | [Меня всё время спрашивают про Doom 4 [черновик]](https://www.youtube.com/watch?v=aI8BJY5qoOw) | 23.06.2015 | 0 |
 | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
-| **ИТОГО** |  | **93** |
+| **ИТОГО** |  | **116** |
