@@ -6,6 +6,10 @@
 | [3Dfx Voodoo 2 SLI своими руками](https://www.youtube.com/watch?v=cVgQiulnk5E) | 01.09.2017 | 0 |
 | [386й ноутбук возвращается: Звук!](https://www.youtube.com/watch?v=3rtj_jx8bck) | 01.09.2017 | 4 |
 | [Оживляем ThinkPad на Pentium 2](https://www.youtube.com/watch?v=hvo5auh7cqU) | 16.08.2017 | 4 |
+| [Nintendo Switch работает на FreeBSD?](https://www.youtube.com/watch?v=hkp_Ik84_l8) | 04.03.2017 | 2 |
+| [Кремниевые Титаны #3. Nintendo Switch](https://www.youtube.com/watch?v=UT2cD4Q5pr0) | 02.03.2017 | 11 |
+| [Кремниевые Титаны #2. DEC часть 2: VAX](https://www.youtube.com/watch?v=XRUfwvH6lEw) | 17.02.2017 | 3 |
+| [Кремниевые Титаны #1. DEC часть 1: PDP](https://www.youtube.com/watch?v=_PUajaZN9no) | 04.02.2017 | 0 |
 | [Файлсервер (NAS) на ZFS](https://www.youtube.com/watch?v=EiKafkUcajs) | 27.01.2017 | 6 |
 | ["16 бит тому назад" продолжится?](https://www.youtube.com/watch?v=ZL8Pr2eN4ek) | 19.01.2017 | 4 |
 | [Не пройтись ли по магазинам #2](https://www.youtube.com/watch?v=e1jBCzZuEDw) | 14.01.2017 | 9 |
@@ -68,4 +72,4 @@
 | [Меня всё время спрашивают про Doom 4 [черновик]](https://www.youtube.com/watch?v=aI8BJY5qoOw) | 23.06.2015 | 0 |
 | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
-| **ИТОГО** |  | **116** |
+| **ИТОГО** |  | **132** |
