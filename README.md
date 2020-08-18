@@ -49,6 +49,7 @@
 | [ВнС: SEGA в России вчера и сегодня](https://www.youtube.com/watch?v=2tkPe2GPctw) | 03.05.2016 | 3 |
 | [Железный Детектив На Салфетке: PEAK650VL2](https://www.youtube.com/watch?v=aT1AFhU6xro) | 21.04.2016 | 1 |
 | [Видео на салфетке: Посылка-2](https://www.youtube.com/watch?v=aRb6DJFh4vM) | 15.04.2016 | 0 |
+| [(16 бит тому назад S03E07) MS-DOS PalmTop HP 200LX](https://www.youtube.com/watch?v=42ZYh1k_bgM) | 14.04.2016 | 3 |
 | [Железный Детектив: дело транспьютера](https://www.youtube.com/watch?v=ZHUixLDrvfM) | 05.04.2016 | 1 |
 | [Видео на салфетке: Посылка](https://www.youtube.com/watch?v=lW52nB99xBk) | 03.04.2016 | 2 |
 | [Разгадка ноутбука Acer (3/3)](https://www.youtube.com/watch?v=YYjpWWTmKAU) | 29.03.2016 | 1 |
@@ -72,4 +73,5 @@
 | [Меня всё время спрашивают про Doom 4 [черновик]](https://www.youtube.com/watch?v=aI8BJY5qoOw) | 23.06.2015 | 0 |
 | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
-| **ИТОГО** |  | **132** |
+| [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
+| **ИТОГО** |  | **137** |
