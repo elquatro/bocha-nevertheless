@@ -3,6 +3,9 @@
 
 | Название видео | Дата | Тем не менее |
 | -------------- | ---- | ------------:|
+| [Тестируем компьютер Эльбрус](https://www.youtube.com/watch?v=buWzWtXHimk) | 14.08.2020 | 19 |
+| [Разбираем компы Эльбрус](https://www.youtube.com/watch?v=58XlDUOTdBI) | 07.08.2020 | 12 |
+| [Видео на салфетке: для затравки...](https://www.youtube.com/watch?v=ZP_ll1qahXQ) | 23.07.2020 | 2 |
 | [3Dfx Voodoo 2 SLI своими руками](https://www.youtube.com/watch?v=cVgQiulnk5E) | 01.09.2017 | 0 |
 | [386й ноутбук возвращается: Звук!](https://www.youtube.com/watch?v=3rtj_jx8bck) | 01.09.2017 | 4 |
 | [Оживляем ThinkPad на Pentium 2](https://www.youtube.com/watch?v=hvo5auh7cqU) | 16.08.2017 | 4 |
@@ -74,4 +77,4 @@
 | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  | **137** |
+| **ИТОГО** |  | **170** |
