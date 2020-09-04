@@ -4,43 +4,54 @@ from string import Template
 from datetime import datetime
 import csv
 import re
+import json
+import base64
 
 
 def main():
     base_tpl = get_base_template()
 
-    count = []
+    rows = []
     with open('data.csv', newline='') as fd:
         reader = csv.reader(fd)
         for i, row in enumerate(reader):
             if i == 0:
                 continue
-            count.append(row)
+            rows.append(row)
 
-    count = sort_by_date(count)
+    rows = sort_by_date(rows)
 
     row_tpl = Template('| $pic | $title | $date | $count |')
     link_tpl = Template('[$title]($link)')
     pic_tpl = Template('![$title]($pic_link)')
 
     lines = []
+    labels = []
+    values = []
     total = 0
 
-    for r in count:
-        if len(r) < 4:
+    for row in rows:
+        if len(row) < 4:
             continue
-        title = link_tpl.substitute(title=r[0], link=r[2])
+        title = link_tpl.substitute(title=row[0], link=row[2])
         pic = pic_tpl.substitute(
-            title=r[0], pic_link=get_img_link(get_id_from_link(r[2])))
-        total += int(r[3])
+            title=row[0], pic_link=get_img_link(get_id_from_link(row[2])))
+        total += int(row[3])
+        year = datetime.strptime(row[1], '%d.%m.%Y').year
         lines.append(row_tpl.substitute(
-            title=title, date=r[1], count=r[3], pic=pic))
+            title=title, date=row[1], count=row[3], pic=pic))
+        values.append(int(row[3]))
+        labels.append(str(year))
 
     lines.append(row_tpl.substitute(
-        title='**ИТОГО**', date='', count='**%s**' % total, pic=''))
+        title='', date='', count='**%s**' % total, pic='**ИТОГО**'))
+
+    values.reverse()
+    labels.reverse()
 
     with open('README.md', 'w') as fp:
-        fp.write(base_tpl.substitute(data='\n'.join(lines)))
+        fp.write(base_tpl.substitute(data='\n'.join(
+            lines), chart=get_chart(values, labels)))
 
 
 def get_base_template():
@@ -51,7 +62,35 @@ def get_base_template():
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
 $data
+
+$chart
 ''')
+
+
+def get_chart(values, labels):
+    chart = {
+        'type': 'line',
+        'data': {
+            'labels': labels,
+            'datasets': [
+                {
+                    'data': values,
+                    'fill': False,
+                    'pointRadius': 1
+                }
+            ]
+        },
+        'options': {
+            'legend': {
+                'display': False
+            }
+        }
+    }
+
+    ch = "https://quickchart.io/chart?c=%s&devicePixelRatio=1&encoding=base64" % str(
+        base64.b64encode(bytes(json.dumps(chart), "utf-8")), "utf-8")
+
+    return '![Nevertheless Chart](%s)' % ch
 
 
 def sort_by_date(count):
