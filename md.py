@@ -47,10 +47,11 @@ def main():
 
     labels = list(map(lambda x: str(x), reversed(list(data.keys()))))
     values = list(map(lambda x: sum(data[int(x)]), labels))
+    averages = list(map(lambda x: average(data[int(x)]), labels))
 
     with open('README.md', 'w') as fp:
         fp.write(base_tpl.substitute(data='\n'.join(
-            lines), chart=get_chart(values, labels)))
+            lines), chart=get_chart(values, averages, labels)))
 
 
 def get_base_template():
@@ -66,23 +67,29 @@ $chart
 ''')
 
 
-def get_chart(values, labels):
+def get_chart(values, averages, labels):
     chart = {
         'type': 'line',
         'data': {
             'labels': labels,
             'datasets': [
                 {
+                    'label': 'Всего',
+                    'backgroundColor': 'red',
+                    'borderColor': 'red',
                     'data': values,
+                    'fill': False,
+                    'pointRadius': 1
+                },
+                {
+                    'label': 'Среднее',
+                    'backgroundColor': 'blue',
+                    'borderColor': 'blue',
+                    'data': averages,
                     'fill': False,
                     'pointRadius': 1
                 }
             ]
-        },
-        'options': {
-            'legend': {
-                'display': False
-            }
         }
     }
 
@@ -105,6 +112,10 @@ def get_img_link(id):
 
 def get_id_from_link(link):
     return re.search('/?v=(.+)$', link).groups()[0]
+
+
+def average(values):
+    return int(round(sum(values)/float(len(values))))
 
 
 if __name__ == '__main__':
