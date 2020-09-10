@@ -1,5 +1,6 @@
 #! /usr/bin/env python3
 
+from collections import defaultdict
 from string import Template
 from datetime import datetime
 import csv
@@ -26,9 +27,8 @@ def main():
     pic_tpl = Template('![$title]($pic_link)')
 
     lines = []
-    labels = []
-    values = []
     total = 0
+    data = defaultdict(list)
 
     for row in rows:
         if len(row) < 4:
@@ -38,16 +38,15 @@ def main():
             title=row[0], pic_link=get_img_link(get_id_from_link(row[2])))
         total += int(row[3])
         year = datetime.strptime(row[1], '%d.%m.%Y').year
+        data[year].append(int(row[3]))
         lines.append(row_tpl.substitute(
             title=title, date=row[1], count=row[3], pic=pic))
-        values.append(int(row[3]))
-        labels.append(str(year))
 
     lines.append(row_tpl.substitute(
         title='', date='', count='**%s**' % total, pic='**ИТОГО**'))
 
-    values.reverse()
-    labels.reverse()
+    labels = list(map(lambda x: str(x), reversed(list(data.keys()))))
+    values = list(map(lambda x: sum(data[int(x)]), labels))
 
     with open('README.md', 'w') as fp:
         fp.write(base_tpl.substitute(data='\n'.join(
