@@ -43,7 +43,7 @@ def main():
             title=title, date=row[1], count=row[3], pic=pic))
 
     lines.append(row_tpl.substitute(
-        title='', date='', count='**%s**' % total, pic='**ИТОГО**'))
+        title='', date='', count=f'**{total}**', pic='**ИТОГО**'))
 
     labels = list(map(lambda x: str(x), reversed(list(data.keys()))))
     values = list(map(lambda x: sum(data[int(x)]), labels))
@@ -93,10 +93,12 @@ def get_chart(values, averages, labels):
         }
     }
 
-    ch = "https://quickchart.io/chart?c=%s&devicePixelRatio=1&encoding=base64" % str(
-        base64.b64encode(bytes(json.dumps(chart), "utf-8")), "utf-8")
+    base64_chart = str(
+        base64.b64encode(bytes(json.dumps(chart), 'utf-8')), 'utf-8')
 
-    return '![Nevertheless Chart](%s)' % ch
+    ch = f'https://quickchart.io/chart?c={base64_chart}&devicePixelRatio=1&encoding=base64'
+
+    return f'![Nevertheless Chart]({ch})'
 
 
 def sort_by_date(count):
@@ -107,7 +109,7 @@ def sort_by_date(count):
 
 
 def get_img_link(id):
-    return 'https://img.youtube.com/vi/%s/hqdefault.jpg' % id
+    return f'https://img.youtube.com/vi/{id}/default.jpg'
 
 
 def get_id_from_link(link):
