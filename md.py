@@ -74,7 +74,7 @@ def get_chart(values, averages, labels):
             'labels': labels,
             'datasets': [
                 {
-                    'label': 'Всего',
+                    'label': 'Сумма',
                     'backgroundColor': 'red',
                     'borderColor': 'red',
                     'data': values,
