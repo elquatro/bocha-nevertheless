@@ -51,13 +51,14 @@ def main():
 
     with open('README.md', 'w') as fp:
         fp.write(base_tpl.substitute(data='\n'.join(
-            lines), chart=get_chart(values, averages, labels)))
+            lines), chart=get_chart(values, averages, labels), badge=get_badge(total)))
 
 
 def get_base_template():
     return Template(
         '''Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
+$badge
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -65,6 +66,10 @@ $data
 
 $chart
 ''')
+
+
+def get_badge(total):
+    return f'![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-{total}-green)'
 
 
 def get_chart(values, averages, labels):
