@@ -33,9 +33,9 @@ def main():
     for row in rows:
         if len(row) < 4:
             continue
-        title = link_tpl.substitute(title=row[0], link=row[2])
+        title = link_tpl.substitute(title=md_escape(row[0]), link=row[2])
         pic = pic_tpl.substitute(
-            title=row[0], pic_link=get_img_link(get_id_from_link(row[2])))
+            title=md_escape(row[0]), pic_link=get_img_link(get_id_from_link(row[2])))
         total += int(row[3])
         year = datetime.strptime(row[1], '%d.%m.%Y').year
         data[year].append(int(row[3]))
@@ -118,6 +118,10 @@ def get_id_from_link(link):
 
 def average(values):
     return int(round(sum(values)/float(len(values))))
+
+
+def md_escape(text):
+    return text.replace("|", r"\|")
 
 
 if __name__ == '__main__':
