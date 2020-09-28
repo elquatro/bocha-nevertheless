@@ -8,12 +8,14 @@ import re
 import json
 import base64
 
+ENCODING = 'utf8'
+
 
 def main():
     base_tpl = get_base_template()
 
     rows = []
-    with open('data.csv', newline='') as fd:
+    with open('data.csv', newline='', encoding=ENCODING) as fd:
         reader = csv.reader(fd)
         for i, row in enumerate(reader):
             if i == 0:
@@ -49,7 +51,7 @@ def main():
     values = list(map(lambda x: sum(data[int(x)]), labels))
     averages = list(map(lambda x: average(data[int(x)]), labels))
 
-    with open('README.md', 'w') as fp:
+    with open('README.md', 'w', encoding=ENCODING) as fp:
         fp.write(base_tpl.substitute(data='\n'.join(
             lines), chart=get_chart(values, averages, labels), badge=get_badge(total)))
 
