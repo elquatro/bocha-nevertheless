@@ -7,7 +7,7 @@ branches:
     - develop
 
 install: skip
-script: python3 md.py
+script: python3 make-readme.py
 
 deploy:
   provider: pages
