@@ -1,9 +1,10 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-352-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-354-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| ![Cyberpunk 2077 исправление ошибки Illegal Opcode [видео на салфетке]](https://img.youtube.com/vi/PahP9mPZNbU/default.jpg) | [Cyberpunk 2077 исправление ошибки Illegal Opcode [видео на салфетке]](https://www.youtube.com/watch?v=PahP9mPZNbU) | 12.12.2020 | 2 |
 | ![Купил еще пять ноутов...](https://img.youtube.com/vi/EI4Q2zQ8zKg/default.jpg) | [Купил еще пять ноутов...](https://www.youtube.com/watch?v=EI4Q2zQ8zKg) | 07.12.2020 | 4 |
 | ![Выбираю ноут для RDP](https://img.youtube.com/vi/MvnYMIFrEBc/default.jpg) | [Выбираю ноут для RDP](https://www.youtube.com/watch?v=MvnYMIFrEBc) | 18.11.2020 | 7 |
 | ![Два ноутбука. [vlog]](https://img.youtube.com/vi/vFwHfvbPkwE/default.jpg) | [Два ноутбука. [vlog]](https://www.youtube.com/watch?v=vFwHfvbPkwE) | 26.08.2020 | 6 |
@@ -102,6 +103,6 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **352** |
+| **ИТОГО** |  |  | **354** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCJdLCAiZGF0YXNldHMiOiBbeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDNcdTA0M2NcdTA0M2NcdTA0MzAiLCAiYmFja2dyb3VuZENvbG9yIjogInJlZCIsICJib3JkZXJDb2xvciI6ICJyZWQiLCAiZGF0YSI6IFsxMiwgODIsIDQzLCAyMiwgMTAwLCA5M10sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMSwgMiwgNCwgMTEsIDksIDddLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCJdLCAiZGF0YXNldHMiOiBbeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDNcdTA0M2NcdTA0M2NcdTA0MzAiLCAiYmFja2dyb3VuZENvbG9yIjogInJlZCIsICJib3JkZXJDb2xvciI6ICJyZWQiLCAiZGF0YSI6IFsxMiwgODIsIDQzLCAyMiwgMTAwLCA5NV0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMSwgMiwgNCwgMTEsIDksIDZdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
