@@ -1,12 +1,13 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-380-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-451-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
 | ![Компьютер Atari 800xl часть вторая - sio2pc](https://img.youtube.com/vi/09SW0dIvLuk/default.jpg) | [Компьютер Atari 800xl часть вторая - sio2pc](https://www.youtube.com/watch?v=09SW0dIvLuk) | 01.03.2021 | 10 |
 | ![Компьютер Atari 800XL](https://img.youtube.com/vi/WMc3cNEp6vE/default.jpg) | [Компьютер Atari 800XL](https://www.youtube.com/watch?v=WMc3cNEp6vE) | 18.02.2021 | 9 |
 | ![Кремниевые Титаны #33: Adobe Flash](https://img.youtube.com/vi/n36SBtx0-rU/default.jpg) | [Кремниевые Титаны #33: Adobe Flash](https://www.youtube.com/watch?v=n36SBtx0-rU) | 22.01.2021 | 0 |
+| ![Вместо новогодних передач на ТВ - 2021](https://img.youtube.com/vi/yV_fNArmKhs/default.jpg) | [Вместо новогодних передач на ТВ - 2021](https://www.youtube.com/watch?v=yV_fNArmKhs) | 31.12.2020 | 71 |
 | ![Ретроноутбук для ретроавтомобилей](https://img.youtube.com/vi/Fz22-yiw9l8/default.jpg) | [Ретроноутбук для ретроавтомобилей](https://www.youtube.com/watch?v=Fz22-yiw9l8) | 29.12.2020 | 7 |
 | ![Cyberpunk 2077 исправление ошибки Illegal Opcode [видео на салфетке]](https://img.youtube.com/vi/PahP9mPZNbU/default.jpg) | [Cyberpunk 2077 исправление ошибки Illegal Opcode [видео на салфетке]](https://www.youtube.com/watch?v=PahP9mPZNbU) | 12.12.2020 | 2 |
 | ![Купил еще пять ноутов...](https://img.youtube.com/vi/EI4Q2zQ8zKg/default.jpg) | [Купил еще пять ноутов...](https://www.youtube.com/watch?v=EI4Q2zQ8zKg) | 07.12.2020 | 4 |
@@ -107,6 +108,6 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **380** |
+| **ИТОГО** |  |  | **451** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzEyLCA4MiwgNDMsIDIyLCAxMDAsIDEwMiwgMTldLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDQsIDExLCA5LCA2LCA2XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX1dfX0=&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzEyLCA4MiwgNDMsIDIyLCAxMDAsIDE3MywgMTldLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDQsIDExLCA5LCAxMCwgNl0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
