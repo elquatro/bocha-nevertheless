@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-498-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-507-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -95,6 +95,7 @@
 | ![(16 бит тому назад S03E06) Minitel](https://img.youtube.com/vi/2z-UWw_Scsk/default.jpg) | [(16 бит тому назад S03E06) Minitel](https://www.youtube.com/watch?v=2z-UWw_Scsk) | 14.03.2016 | 0 |
 | ![Видео на салфетке: 20 лет QTest](https://img.youtube.com/vi/3AOlhy7G9yY/default.jpg) | [Видео на салфетке: 20 лет QTest](https://www.youtube.com/watch?v=3AOlhy7G9yY) | 25.02.2016 | 1 |
 | ![(16 бит тому назад S03E05) Jedi Engine](https://img.youtube.com/vi/9tc0JarVWuI/default.jpg) | [(16 бит тому назад S03E05) Jedi Engine](https://www.youtube.com/watch?v=9tc0JarVWuI) | 14.02.2016 | 0 |
+| ![The Journeyman Project Turbo (rus) Live-прохождение](https://img.youtube.com/vi/_SYxhFpcp4w/default.jpg) | [The Journeyman Project Turbo (rus) Live-прохождение](https://www.youtube.com/watch?v=_SYxhFpcp4w) | 31.01.2016 | 9 |
 | ![Проходим новый уровень Doom от Джона Ромеро](https://img.youtube.com/vi/B9defZRTWdQ/default.jpg) | [Проходим новый уровень Doom от Джона Ромеро](https://www.youtube.com/watch?v=B9defZRTWdQ) | 18.01.2016 | 1 |
 | ![Я и MTV - 2](https://img.youtube.com/vi/gDF8JuFQlqg/default.jpg) | [Я и MTV - 2](https://www.youtube.com/watch?v=gDF8JuFQlqg) | 18.01.2016 | 0 |
 | ![(16 бит тому назад S03E04) Компьютер FM Towns и консоль Marty](https://img.youtube.com/vi/BAqVHaRtUDg/default.jpg) | [(16 бит тому назад S03E04) Компьютер FM Towns и консоль Marty](https://www.youtube.com/watch?v=BAqVHaRtUDg) | 14.01.2016 | 0 |
@@ -120,6 +121,6 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **498** |
+| **ИТОГО** |  |  | **507** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCA4MiwgNDMsIDIyLCAxMDAsIDE3MywgMzhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzIsIDIsIDQsIDExLCA5LCAxMCwgOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCA5MSwgNDMsIDIyLCAxMDAsIDE3MywgMzhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzIsIDIsIDQsIDExLCA5LCAxMCwgOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
