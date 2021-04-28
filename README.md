@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-507-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-512-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -83,6 +83,7 @@
 | ![Видео На Салфетке: Посылки не для обзоров](https://img.youtube.com/vi/LwugdxvTZc0/default.jpg) | [Видео На Салфетке: Посылки не для обзоров](https://www.youtube.com/watch?v=LwugdxvTZc0) | 17.05.2016 | 3 |
 | ![10го выпуск на сайте, а я чёрти где](https://img.youtube.com/vi/Jer3cs9b2UU/default.jpg) | [10го выпуск на сайте, а я чёрти где](https://www.youtube.com/watch?v=Jer3cs9b2UU) | 09.05.2016 | 1 |
 | ![ВнС: SEGA в России вчера и сегодня](https://img.youtube.com/vi/2tkPe2GPctw/default.jpg) | [ВнС: SEGA в России вчера и сегодня](https://www.youtube.com/watch?v=2tkPe2GPctw) | 03.05.2016 | 3 |
+| ![Стрим от 26.04.2016 S.T.A.L.K.E.R.: Lost Alpha](https://img.youtube.com/vi/yIDN7lz1E5M/default.jpg) | [Стрим от 26.04.2016 S.T.A.L.K.E.R.: Lost Alpha](https://www.youtube.com/watch?v=yIDN7lz1E5M) | 28.04.2016 | 5 |
 | ![Железный Детектив На Салфетке: PEAK650VL2](https://img.youtube.com/vi/aT1AFhU6xro/default.jpg) | [Железный Детектив На Салфетке: PEAK650VL2](https://www.youtube.com/watch?v=aT1AFhU6xro) | 21.04.2016 | 1 |
 | ![Видео на салфетке: Посылка-2](https://img.youtube.com/vi/aRb6DJFh4vM/default.jpg) | [Видео на салфетке: Посылка-2](https://www.youtube.com/watch?v=aRb6DJFh4vM) | 15.04.2016 | 0 |
 | ![(16 бит тому назад S03E07) MS-DOS PalmTop HP 200LX](https://img.youtube.com/vi/42ZYh1k_bgM/default.jpg) | [(16 бит тому назад S03E07) MS-DOS PalmTop HP 200LX](https://www.youtube.com/watch?v=42ZYh1k_bgM) | 14.04.2016 | 3 |
@@ -121,6 +122,6 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **507** |
+| **ИТОГО** |  |  | **512** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCA5MSwgNDMsIDIyLCAxMDAsIDE3MywgMzhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzIsIDIsIDQsIDExLCA5LCAxMCwgOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCA5NiwgNDMsIDIyLCAxMDAsIDE3MywgMzhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzIsIDIsIDQsIDExLCA5LCAxMCwgOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
