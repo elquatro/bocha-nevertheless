@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-512-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-518-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -39,7 +39,7 @@
 | ![#10YearChallenge \| обзор десяти лет съемок](https://img.youtube.com/vi/14hdLY7XK4I/default.jpg) | [#10YearChallenge \| обзор десяти лет съемок](https://www.youtube.com/watch?v=14hdLY7XK4I) | 05.02.2019 | 12 |
 | ![Установка IRIX 6.5 на Silicon Graphics O2](https://img.youtube.com/vi/nBew3_3d1Ts/default.jpg) | [Установка IRIX 6.5 на Silicon Graphics O2](https://www.youtube.com/watch?v=nBew3_3d1Ts) | 18.10.2018 | 9 |
 | ![Оживляем Sun Blade 1500 (Часть 3)](https://img.youtube.com/vi/-64f2CeYLGs/default.jpg) | [Оживляем Sun Blade 1500 (Часть 3)](https://www.youtube.com/watch?v=-64f2CeYLGs) | 15.08.2018 | 13 |
-| ![3Dfx Voodoo 2 SLI своими руками](https://img.youtube.com/vi/cVgQiulnk5E/default.jpg) | [3Dfx Voodoo 2 SLI своими руками](https://www.youtube.com/watch?v=cVgQiulnk5E) | 01.09.2017 | 0 |
+| ![3Dfx Voodoo 2 SLI своими руками](https://img.youtube.com/vi/cVgQiulnk5E/default.jpg) | [3Dfx Voodoo 2 SLI своими руками](https://www.youtube.com/watch?v=cVgQiulnk5E) | 02.09.2017 | 0 |
 | ![386й ноутбук возвращается: Звук!](https://img.youtube.com/vi/3rtj_jx8bck/default.jpg) | [386й ноутбук возвращается: Звук!](https://www.youtube.com/watch?v=3rtj_jx8bck) | 01.09.2017 | 4 |
 | ![Оживляем ThinkPad на Pentium 2](https://img.youtube.com/vi/hvo5auh7cqU/default.jpg) | [Оживляем ThinkPad на Pentium 2](https://www.youtube.com/watch?v=hvo5auh7cqU) | 16.08.2017 | 4 |
 | ![Nintendo Switch работает на FreeBSD?](https://img.youtube.com/vi/hkp_Ik84_l8/default.jpg) | [Nintendo Switch работает на FreeBSD?](https://www.youtube.com/watch?v=hkp_Ik84_l8) | 04.03.2017 | 2 |
@@ -59,11 +59,11 @@
 | ![Ставим Windows 95 на 486](https://img.youtube.com/vi/a1RvccBDTw4/default.jpg) | [Ставим Windows 95 на 486](https://www.youtube.com/watch?v=a1RvccBDTw4) | 18.09.2016 | 4 |
 | ![Делаем первый upgrade 486му.](https://img.youtube.com/vi/TlKsSu2etXY/default.jpg) | [Делаем первый upgrade 486му.](https://www.youtube.com/watch?v=TlKsSu2etXY) | 15.09.2016 | 3 |
 | ![Собираем 486](https://img.youtube.com/vi/8eFUo39_ZZk/default.jpg) | [Собираем 486](https://www.youtube.com/watch?v=8eFUo39_ZZk) | 14.09.2016 | 0 |
+| ![[Bocha's WiiU] Donky Kong Country Tropical Freeze](https://img.youtube.com/vi/I3ir85yz5-w/default.jpg) | [[Bocha's WiiU] Donky Kong Country Tropical Freeze](https://www.youtube.com/watch?v=I3ir85yz5-w) | 10.09.2016 | 0 |
+| ![[Bocha's WiiU] Ninja Gaiden 3](https://img.youtube.com/vi/UTD_dX-idiQ/default.jpg) | [[Bocha's WiiU] Ninja Gaiden 3](https://www.youtube.com/watch?v=UTD_dX-idiQ) | 10.09.2016 | 1 |
+| ![[Bocha's WiiU] Splinter Cell Blacklist](https://img.youtube.com/vi/hVk-XGZ79dU/default.jpg) | [[Bocha's WiiU] Splinter Cell Blacklist](https://www.youtube.com/watch?v=hVk-XGZ79dU) | 10.09.2016 | 0 |
+| ![[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://img.youtube.com/vi/uJg1pkciuqA/default.jpg) | [[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://www.youtube.com/watch?v=uJg1pkciuqA) | 10.09.2016 | 0 |
 | ![(16 бит тому назад S03E12) Nintendo Wii U и NX](https://img.youtube.com/vi/uKyqwdTvqco/default.jpg) | [(16 бит тому назад S03E12) Nintendo Wii U и NX](https://www.youtube.com/watch?v=uKyqwdTvqco) | 09.09.2016 | 1 |
-| ![[Bocha's WiiU] Donky Kong Country Tropical Freeze](https://img.youtube.com/vi/I3ir85yz5-w/default.jpg) | [[Bocha's WiiU] Donky Kong Country Tropical Freeze](https://www.youtube.com/watch?v=I3ir85yz5-w) | 09.09.2016 | 0 |
-| ![[Bocha's WiiU] Ninja Gaiden 3](https://img.youtube.com/vi/UTD_dX-idiQ/default.jpg) | [[Bocha's WiiU] Ninja Gaiden 3](https://www.youtube.com/watch?v=UTD_dX-idiQ) | 09.09.2016 | 1 |
-| ![[Bocha's WiiU] Splinter Cell Blacklist](https://img.youtube.com/vi/hVk-XGZ79dU/default.jpg) | [[Bocha's WiiU] Splinter Cell Blacklist](https://www.youtube.com/watch?v=hVk-XGZ79dU) | 09.09.2016 | 0 |
-| ![[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://img.youtube.com/vi/uJg1pkciuqA/default.jpg) | [[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://www.youtube.com/watch?v=uJg1pkciuqA) | 09.09.2016 | 0 |
 | ![Посылка и "Поиск Предметов"](https://img.youtube.com/vi/rN3txGbFZnc/default.jpg) | [Посылка и "Поиск Предметов"](https://www.youtube.com/watch?v=rN3txGbFZnc) | 05.09.2016 | 0 |
 | ![Ritmix RZX-50 - первое включение](https://img.youtube.com/vi/GixlxYlLS3o/default.jpg) | [Ritmix RZX-50 - первое включение](https://www.youtube.com/watch?v=GixlxYlLS3o) | 05.09.2016 | 0 |
 | ![(16 бит тому назад S03E11) Atari Lynx](https://img.youtube.com/vi/oupFeEN4PgE/default.jpg) | [(16 бит тому назад S03E11) Atari Lynx](https://www.youtube.com/watch?v=oupFeEN4PgE) | 14.08.2016 | 1 |
@@ -76,11 +76,13 @@
 | ![Cortex Amiga Floppy USB Emulator](https://img.youtube.com/vi/T_GxVA-dnmo/default.jpg) | [Cortex Amiga Floppy USB Emulator](https://www.youtube.com/watch?v=T_GxVA-dnmo) | 23.06.2016 | 1 |
 | ![Про Matrox, Amiga, Посылки и Загадки](https://img.youtube.com/vi/MNLwH1FKEMo/default.jpg) | [Про Matrox, Amiga, Посылки и Загадки](https://www.youtube.com/watch?v=MNLwH1FKEMo) | 21.06.2016 | 6 |
 | ![BeamMachine](https://img.youtube.com/vi/cQH0Ruwe8XU/default.jpg) | [BeamMachine](https://www.youtube.com/watch?v=cQH0Ruwe8XU) | 16.06.2016 | 2 |
+| ![Анонсик стрима](https://img.youtube.com/vi/WxqQy3GKZdw/default.jpg) | [Анонсик стрима](https://www.youtube.com/watch?v=WxqQy3GKZdw) | 03.06.2016 | 0 |
 | ![Видео на Салфетке: Тёплые ламповые загадки](https://img.youtube.com/vi/AdHsnI8w3NU/default.jpg) | [Видео на Салфетке: Тёплые ламповые загадки](https://www.youtube.com/watch?v=AdHsnI8w3NU) | 02.06.2016 | 0 |
 | ![Видео на Салфетке: Жемчужины в коробках](https://img.youtube.com/vi/BP-ufAiR4W0/default.jpg) | [Видео на Салфетке: Жемчужины в коробках](https://www.youtube.com/watch?v=BP-ufAiR4W0) | 01.06.2016 | 0 |
 | ![Видео на Салфетке: Cisco и другой стафф.](https://img.youtube.com/vi/iH1VmUhM9hA/default.jpg) | [Видео на Салфетке: Cisco и другой стафф.](https://www.youtube.com/watch?v=iH1VmUhM9hA) | 31.05.2016 | 1 |
 | ![Железный Детектив и немного Спектрума](https://img.youtube.com/vi/tUf35BeB-Rk/default.jpg) | [Железный Детектив и немного Спектрума](https://www.youtube.com/watch?v=tUf35BeB-Rk) | 20.05.2016 | 1 |
 | ![Видео На Салфетке: Посылки не для обзоров](https://img.youtube.com/vi/LwugdxvTZc0/default.jpg) | [Видео На Салфетке: Посылки не для обзоров](https://www.youtube.com/watch?v=LwugdxvTZc0) | 17.05.2016 | 3 |
+| ![(16 бит тому назад S03E08) Windows CE и NEC MobilePro 900](https://img.youtube.com/vi/Kcba3Ogr3hk/default.jpg) | [(16 бит тому назад S03E08) Windows CE и NEC MobilePro 900](https://www.youtube.com/watch?v=Kcba3Ogr3hk) | 15.05.2016 | 6 |
 | ![10го выпуск на сайте, а я чёрти где](https://img.youtube.com/vi/Jer3cs9b2UU/default.jpg) | [10го выпуск на сайте, а я чёрти где](https://www.youtube.com/watch?v=Jer3cs9b2UU) | 09.05.2016 | 1 |
 | ![ВнС: SEGA в России вчера и сегодня](https://img.youtube.com/vi/2tkPe2GPctw/default.jpg) | [ВнС: SEGA в России вчера и сегодня](https://www.youtube.com/watch?v=2tkPe2GPctw) | 03.05.2016 | 3 |
 | ![Стрим от 26.04.2016 S.T.A.L.K.E.R.: Lost Alpha](https://img.youtube.com/vi/yIDN7lz1E5M/default.jpg) | [Стрим от 26.04.2016 S.T.A.L.K.E.R.: Lost Alpha](https://www.youtube.com/watch?v=yIDN7lz1E5M) | 28.04.2016 | 5 |
@@ -122,6 +124,6 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **512** |
+| **ИТОГО** |  |  | **518** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCA5NiwgNDMsIDIyLCAxMDAsIDE3MywgMzhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzIsIDIsIDQsIDExLCA5LCAxMCwgOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxMDIsIDQzLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA0LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
