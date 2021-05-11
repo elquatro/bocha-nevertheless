@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-518-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-524-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -77,6 +77,7 @@
 | ![Про Matrox, Amiga, Посылки и Загадки](https://img.youtube.com/vi/MNLwH1FKEMo/default.jpg) | [Про Matrox, Amiga, Посылки и Загадки](https://www.youtube.com/watch?v=MNLwH1FKEMo) | 21.06.2016 | 6 |
 | ![BeamMachine](https://img.youtube.com/vi/cQH0Ruwe8XU/default.jpg) | [BeamMachine](https://www.youtube.com/watch?v=cQH0Ruwe8XU) | 16.06.2016 | 2 |
 | ![Анонсик стрима](https://img.youtube.com/vi/WxqQy3GKZdw/default.jpg) | [Анонсик стрима](https://www.youtube.com/watch?v=WxqQy3GKZdw) | 03.06.2016 | 0 |
+| ![Стрим от 03.06.2016 - Serf City: Life is Feudal (Settlers-1)](https://img.youtube.com/vi/agUmjNQahFg/default.jpg) | [Стрим от 03.06.2016 - Serf City: Life is Feudal (Settlers-1)](https://www.youtube.com/watch?v=agUmjNQahFg) | 03.06.2016 | 6 |
 | ![Видео на Салфетке: Тёплые ламповые загадки](https://img.youtube.com/vi/AdHsnI8w3NU/default.jpg) | [Видео на Салфетке: Тёплые ламповые загадки](https://www.youtube.com/watch?v=AdHsnI8w3NU) | 02.06.2016 | 0 |
 | ![Видео на Салфетке: Жемчужины в коробках](https://img.youtube.com/vi/BP-ufAiR4W0/default.jpg) | [Видео на Салфетке: Жемчужины в коробках](https://www.youtube.com/watch?v=BP-ufAiR4W0) | 01.06.2016 | 0 |
 | ![Видео на Салфетке: Cisco и другой стафф.](https://img.youtube.com/vi/iH1VmUhM9hA/default.jpg) | [Видео на Салфетке: Cisco и другой стафф.](https://www.youtube.com/watch?v=iH1VmUhM9hA) | 31.05.2016 | 1 |
@@ -124,6 +125,6 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **518** |
+| **ИТОГО** |  |  | **524** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxMDIsIDQzLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA0LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxMDgsIDQzLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA0LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
