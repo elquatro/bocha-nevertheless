@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-524-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-532-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -59,10 +59,10 @@
 | ![Ставим Windows 95 на 486](https://img.youtube.com/vi/a1RvccBDTw4/default.jpg) | [Ставим Windows 95 на 486](https://www.youtube.com/watch?v=a1RvccBDTw4) | 18.09.2016 | 4 |
 | ![Делаем первый upgrade 486му.](https://img.youtube.com/vi/TlKsSu2etXY/default.jpg) | [Делаем первый upgrade 486му.](https://www.youtube.com/watch?v=TlKsSu2etXY) | 15.09.2016 | 3 |
 | ![Собираем 486](https://img.youtube.com/vi/8eFUo39_ZZk/default.jpg) | [Собираем 486](https://www.youtube.com/watch?v=8eFUo39_ZZk) | 14.09.2016 | 0 |
+| ![[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://img.youtube.com/vi/uJg1pkciuqA/default.jpg) | [[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://www.youtube.com/watch?v=uJg1pkciuqA) | 10.09.2016 | 0 |
 | ![[Bocha's WiiU] Donky Kong Country Tropical Freeze](https://img.youtube.com/vi/I3ir85yz5-w/default.jpg) | [[Bocha's WiiU] Donky Kong Country Tropical Freeze](https://www.youtube.com/watch?v=I3ir85yz5-w) | 10.09.2016 | 0 |
 | ![[Bocha's WiiU] Ninja Gaiden 3](https://img.youtube.com/vi/UTD_dX-idiQ/default.jpg) | [[Bocha's WiiU] Ninja Gaiden 3](https://www.youtube.com/watch?v=UTD_dX-idiQ) | 10.09.2016 | 1 |
 | ![[Bocha's WiiU] Splinter Cell Blacklist](https://img.youtube.com/vi/hVk-XGZ79dU/default.jpg) | [[Bocha's WiiU] Splinter Cell Blacklist](https://www.youtube.com/watch?v=hVk-XGZ79dU) | 10.09.2016 | 0 |
-| ![[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://img.youtube.com/vi/uJg1pkciuqA/default.jpg) | [[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://www.youtube.com/watch?v=uJg1pkciuqA) | 10.09.2016 | 0 |
 | ![(16 бит тому назад S03E12) Nintendo Wii U и NX](https://img.youtube.com/vi/uKyqwdTvqco/default.jpg) | [(16 бит тому назад S03E12) Nintendo Wii U и NX](https://www.youtube.com/watch?v=uKyqwdTvqco) | 09.09.2016 | 1 |
 | ![Посылка и "Поиск Предметов"](https://img.youtube.com/vi/rN3txGbFZnc/default.jpg) | [Посылка и "Поиск Предметов"](https://www.youtube.com/watch?v=rN3txGbFZnc) | 05.09.2016 | 0 |
 | ![Ritmix RZX-50 - первое включение](https://img.youtube.com/vi/GixlxYlLS3o/default.jpg) | [Ritmix RZX-50 - первое включение](https://www.youtube.com/watch?v=GixlxYlLS3o) | 05.09.2016 | 0 |
@@ -76,6 +76,7 @@
 | ![Cortex Amiga Floppy USB Emulator](https://img.youtube.com/vi/T_GxVA-dnmo/default.jpg) | [Cortex Amiga Floppy USB Emulator](https://www.youtube.com/watch?v=T_GxVA-dnmo) | 23.06.2016 | 1 |
 | ![Про Matrox, Amiga, Посылки и Загадки](https://img.youtube.com/vi/MNLwH1FKEMo/default.jpg) | [Про Matrox, Amiga, Посылки и Загадки](https://www.youtube.com/watch?v=MNLwH1FKEMo) | 21.06.2016 | 6 |
 | ![BeamMachine](https://img.youtube.com/vi/cQH0Ruwe8XU/default.jpg) | [BeamMachine](https://www.youtube.com/watch?v=cQH0Ruwe8XU) | 16.06.2016 | 2 |
+| ![(16 бит тому назад S03E09) Nokia](https://img.youtube.com/vi/Xr8jjSZgSRM/default.jpg) | [(16 бит тому назад S03E09) Nokia](https://www.youtube.com/watch?v=Xr8jjSZgSRM) | 09.06.2016 | 8 |
 | ![Анонсик стрима](https://img.youtube.com/vi/WxqQy3GKZdw/default.jpg) | [Анонсик стрима](https://www.youtube.com/watch?v=WxqQy3GKZdw) | 03.06.2016 | 0 |
 | ![Стрим от 03.06.2016 - Serf City: Life is Feudal (Settlers-1)](https://img.youtube.com/vi/agUmjNQahFg/default.jpg) | [Стрим от 03.06.2016 - Serf City: Life is Feudal (Settlers-1)](https://www.youtube.com/watch?v=agUmjNQahFg) | 03.06.2016 | 6 |
 | ![Видео на Салфетке: Тёплые ламповые загадки](https://img.youtube.com/vi/AdHsnI8w3NU/default.jpg) | [Видео на Салфетке: Тёплые ламповые загадки](https://www.youtube.com/watch?v=AdHsnI8w3NU) | 02.06.2016 | 0 |
@@ -105,13 +106,13 @@
 | ![(16 бит тому назад S03E04) Компьютер FM Towns и консоль Marty](https://img.youtube.com/vi/BAqVHaRtUDg/default.jpg) | [(16 бит тому назад S03E04) Компьютер FM Towns и консоль Marty](https://www.youtube.com/watch?v=BAqVHaRtUDg) | 14.01.2016 | 0 |
 | ![Вместо новогодних передач на ТВ - 2016](https://img.youtube.com/vi/IksXK70fqNE/default.jpg) | [Вместо новогодних передач на ТВ - 2016](https://www.youtube.com/watch?v=IksXK70fqNE) | 31.12.2015 | 19 |
 | ![(16 бит тому назад S03E03) Raspberry Pi 2](https://img.youtube.com/vi/ZgiD35JrF9g/default.jpg) | [(16 бит тому назад S03E03) Raspberry Pi 2](https://www.youtube.com/watch?v=ZgiD35JrF9g) | 12.12.2015 | 6 |
+| ![Сетевые технологии с Дмитрием Бачило: Маршрутизаторы](https://img.youtube.com/vi/gNheLMP9oNM/default.jpg) | [Сетевые технологии с Дмитрием Бачило: Маршрутизаторы](https://www.youtube.com/watch?v=gNheLMP9oNM) | 12.12.2015 | 1 |
 | ![Сетевые технологии с Дмитрием Бачило: DICOM](https://img.youtube.com/vi/QIAsGYTLuzU/default.jpg) | [Сетевые технологии с Дмитрием Бачило: DICOM](https://www.youtube.com/watch?v=QIAsGYTLuzU) | 12.12.2015 | 0 |
 | ![Сетевые технологии с Дмитрием Бачило: DNS](https://img.youtube.com/vi/9FQ8cHrFMbo/default.jpg) | [Сетевые технологии с Дмитрием Бачило: DNS](https://www.youtube.com/watch?v=9FQ8cHrFMbo) | 12.12.2015 | 1 |
 | ![Сетевые технологии с Дмитрием Бачило: E-Mail](https://img.youtube.com/vi/7ffnrKKd24o/default.jpg) | [Сетевые технологии с Дмитрием Бачило: E-Mail](https://www.youtube.com/watch?v=7ffnrKKd24o) | 12.12.2015 | 1 |
 | ![Сетевые технологии с Дмитрием Бачило: Ethernet](https://img.youtube.com/vi/U11ZpVOQAI8/default.jpg) | [Сетевые технологии с Дмитрием Бачило: Ethernet](https://www.youtube.com/watch?v=U11ZpVOQAI8) | 12.12.2015 | 1 |
-| ![Сетевые технологии с Дмитрием Бачило: Mosix](https://img.youtube.com/vi/-TqYul6LOyQ/default.jpg) | [Сетевые технологии с Дмитрием Бачило: Mosix](https://www.youtube.com/watch?v=-TqYul6LOyQ) | 12.12.2015 | 2 |
 | ![Сетевые технологии с Дмитрием Бачило: FTP, SMB, NFS](https://img.youtube.com/vi/IQnfG1Uf1Yo/default.jpg) | [Сетевые технологии с Дмитрием Бачило: FTP, SMB, NFS](https://www.youtube.com/watch?v=IQnfG1Uf1Yo) | 12.12.2015 | 0 |
-| ![Сетевые технологии с Дмитрием Бачило: Маршрутизаторы](https://img.youtube.com/vi/gNheLMP9oNM/default.jpg) | [Сетевые технологии с Дмитрием Бачило: Маршрутизаторы](https://www.youtube.com/watch?v=gNheLMP9oNM) | 12.12.2015 | 1 |
+| ![Сетевые технологии с Дмитрием Бачило: Mosix](https://img.youtube.com/vi/-TqYul6LOyQ/default.jpg) | [Сетевые технологии с Дмитрием Бачило: Mosix](https://www.youtube.com/watch?v=-TqYul6LOyQ) | 12.12.2015 | 2 |
 | ![Сетевые технологии с Дмитрием Бачило: MPLS VPN](https://img.youtube.com/vi/A0U9dzgXH20/default.jpg) | [Сетевые технологии с Дмитрием Бачило: MPLS VPN](https://www.youtube.com/watch?v=A0U9dzgXH20) | 12.12.2015 | 0 |
 | ![Сетевые технологии с Дмитрием Бачило: Wi-Fi](https://img.youtube.com/vi/qmsV9ExYIoY/default.jpg) | [Сетевые технологии с Дмитрием Бачило: Wi-Fi](https://www.youtube.com/watch?v=qmsV9ExYIoY) | 12.12.2015 | 3 |
 | ![Fallout 4](https://img.youtube.com/vi/XAY195NoRjM/default.jpg) | [Fallout 4](https://www.youtube.com/watch?v=XAY195NoRjM) | 24.10.2015 | 1 |
@@ -125,6 +126,6 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **524** |
+| **ИТОГО** |  |  | **532** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxMDgsIDQzLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA0LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxMTYsIDQzLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA0LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
