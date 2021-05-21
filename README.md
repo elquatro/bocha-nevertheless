@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-532-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-539-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -66,6 +66,7 @@
 | ![(16 бит тому назад S03E12) Nintendo Wii U и NX](https://img.youtube.com/vi/uKyqwdTvqco/default.jpg) | [(16 бит тому назад S03E12) Nintendo Wii U и NX](https://www.youtube.com/watch?v=uKyqwdTvqco) | 09.09.2016 | 1 |
 | ![Посылка и "Поиск Предметов"](https://img.youtube.com/vi/rN3txGbFZnc/default.jpg) | [Посылка и "Поиск Предметов"](https://www.youtube.com/watch?v=rN3txGbFZnc) | 05.09.2016 | 0 |
 | ![Ritmix RZX-50 - первое включение](https://img.youtube.com/vi/GixlxYlLS3o/default.jpg) | [Ritmix RZX-50 - первое включение](https://www.youtube.com/watch?v=GixlxYlLS3o) | 05.09.2016 | 0 |
+| ![Общаемся (ну и OpenTTD на фоне)](https://img.youtube.com/vi/WOSC2dhE4zE/default.jpg) | [Общаемся (ну и OpenTTD на фоне)](https://www.youtube.com/watch?v=WOSC2dhE4zE) | 24.08.2016 | 7 |
 | ![(16 бит тому назад S03E11) Atari Lynx](https://img.youtube.com/vi/oupFeEN4PgE/default.jpg) | [(16 бит тому назад S03E11) Atari Lynx](https://www.youtube.com/watch?v=oupFeEN4PgE) | 14.08.2016 | 1 |
 | ![И снова посылки и загадки](https://img.youtube.com/vi/5wHt5n8zLr0/default.jpg) | [И снова посылки и загадки](https://www.youtube.com/watch?v=5wHt5n8zLr0) | 01.08.2016 | 2 |
 | ![Анонс интервью](https://img.youtube.com/vi/jQmajlj_aQ4/default.jpg) | [Анонс интервью](https://www.youtube.com/watch?v=jQmajlj_aQ4) | 30.07.2016 | 0 |
@@ -126,6 +127,6 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **532** |
+| **ИТОГО** |  |  | **539** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxMTYsIDQzLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA0LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxMjMsIDQzLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA0LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
