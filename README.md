@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-539-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-544-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -72,6 +72,7 @@
 | ![Анонс интервью](https://img.youtube.com/vi/jQmajlj_aQ4/default.jpg) | [Анонс интервью](https://www.youtube.com/watch?v=jQmajlj_aQ4) | 30.07.2016 | 0 |
 | ![Железный Детектив: Дело Hackintosh](https://img.youtube.com/vi/-MwB-ByCJkE/default.jpg) | [Железный Детектив: Дело Hackintosh](https://www.youtube.com/watch?v=-MwB-ByCJkE) | 28.07.2016 | 0 |
 | ![Практика по PowerMac G4 и посылка](https://img.youtube.com/vi/O_oFvOkP4QE/default.jpg) | [Практика по PowerMac G4 и посылка](https://www.youtube.com/watch?v=O_oFvOkP4QE) | 27.07.2016 | 3 |
+| ![Стрим от 21.07.2016 - Sim City 2000](https://img.youtube.com/vi/GS0bgJenrfc/default.jpg) | [Стрим от 21.07.2016 - Sim City 2000](https://www.youtube.com/watch?v=GS0bgJenrfc) | 21.07.2016 | 5 |
 | ![(16 бит тому назад S03E10) Трудный путь Apple к Mac OS X](https://img.youtube.com/vi/Py-vUSRAcNM/default.jpg) | [(16 бит тому назад S03E10) Трудный путь Apple к Mac OS X](https://www.youtube.com/watch?v=Py-vUSRAcNM) | 14.07.2016 | 3 |
 | ![Amiga Jerry Mouse Adapter и пара посылок](https://img.youtube.com/vi/NE2AYg31t4M/default.jpg) | [Amiga Jerry Mouse Adapter и пара посылок](https://www.youtube.com/watch?v=NE2AYg31t4M) | 30.06.2016 | 2 |
 | ![Cortex Amiga Floppy USB Emulator](https://img.youtube.com/vi/T_GxVA-dnmo/default.jpg) | [Cortex Amiga Floppy USB Emulator](https://www.youtube.com/watch?v=T_GxVA-dnmo) | 23.06.2016 | 1 |
@@ -127,6 +128,6 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **539** |
+| **ИТОГО** |  |  | **544** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxMjMsIDQzLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA0LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxMjgsIDQzLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA0LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
