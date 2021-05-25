@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-553-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-566-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -49,11 +49,13 @@
 | ![Файлсервер (NAS) на ZFS](https://img.youtube.com/vi/EiKafkUcajs/default.jpg) | [Файлсервер (NAS) на ZFS](https://www.youtube.com/watch?v=EiKafkUcajs) | 27.01.2017 | 6 |
 | !["16 бит тому назад" продолжится?](https://img.youtube.com/vi/ZL8Pr2eN4ek/default.jpg) | ["16 бит тому назад" продолжится?](https://www.youtube.com/watch?v=ZL8Pr2eN4ek) | 19.01.2017 | 4 |
 | ![Не пройтись ли по магазинам #2](https://img.youtube.com/vi/e1jBCzZuEDw/default.jpg) | [Не пройтись ли по магазинам #2](https://www.youtube.com/watch?v=e1jBCzZuEDw) | 14.01.2017 | 9 |
+| ![[Стрим] Играем в Streets Of Rage 2](https://img.youtube.com/vi/NNel6X9okGE/default.jpg) | [[Стрим] Играем в Streets Of Rage 2](https://www.youtube.com/watch?v=NNel6X9okGE) | 08.01.2017 | 8 |
 | ![(16 бит тому назад S03E16) Первая компьютерная игра](https://img.youtube.com/vi/aCkZRQx6H0Q/default.jpg) | [(16 бит тому назад S03E16) Первая компьютерная игра](https://www.youtube.com/watch?v=aCkZRQx6H0Q) | 25.12.2016 | 4 |
 | ![(16 бит тому назад S03E14) Сервис Steam](https://img.youtube.com/vi/In-2ZiAZTgM/default.jpg) | [(16 бит тому назад S03E14) Сервис Steam](https://www.youtube.com/watch?v=In-2ZiAZTgM) | 14.11.2016 | 5 |
 | ![Roland MT-32 vs SoundBlaster AWE64](https://img.youtube.com/vi/oTA4pz8eTTU/default.jpg) | [Roland MT-32 vs SoundBlaster AWE64](https://www.youtube.com/watch?v=oTA4pz8eTTU) | 29.10.2016 | 4 |
 | ![Тестируем Roland MT-32](https://img.youtube.com/vi/ECoC_Kf3Y-Y/default.jpg) | [Тестируем Roland MT-32](https://www.youtube.com/watch?v=ECoC_Kf3Y-Y) | 23.10.2016 | 9 |
 | ![(16 бит тому назад S03E13) VR-шлем VFX1](https://img.youtube.com/vi/Et3KPENzPYg/default.jpg) | [(16 бит тому назад S03E13) VR-шлем VFX1](https://www.youtube.com/watch?v=Et3KPENzPYg) | 14.10.2016 | 3 |
+| ![Знакомство (а не обзор) с Ritmix RZX-50 [стрим]](https://img.youtube.com/vi/sFJ66R1mYDU/default.jpg) | [Знакомство (а не обзор) с Ritmix RZX-50 [стрим]](https://www.youtube.com/watch?v=sFJ66R1mYDU) | 05.10.2016 | 5 |
 | ![Roland MT-32 - Подготовка к тестам](https://img.youtube.com/vi/R5PeXjCHIu0/default.jpg) | [Roland MT-32 - Подготовка к тестам](https://www.youtube.com/watch?v=R5PeXjCHIu0) | 04.10.2016 | 3 |
 | ![Вышел iPhone 7 :-)](https://img.youtube.com/vi/51TBfl-kK2g/default.jpg) | [Вышел iPhone 7 :-)](https://www.youtube.com/watch?v=51TBfl-kK2g) | 27.09.2016 | 3 |
 | ![RDP-клиент в качестве рабочего компьютера (Доклад на Дне Свободного ПО в Екатеринбурге 24.09.2016)](https://img.youtube.com/vi/Hf8yOYwPwDQ/default.jpg) | [RDP-клиент в качестве рабочего компьютера (Доклад на Дне Свободного ПО в Екатеринбурге 24.09.2016)](https://www.youtube.com/watch?v=Hf8yOYwPwDQ) | 27.09.2016 | 9 |
@@ -129,6 +131,17 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **553** |
+| **ИТОГО** |  |  | **566** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxMzcsIDQzLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA0LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxNDIsIDUxLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA1LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+
+| Год | Видео | Тем не менее | Среднее |
+| ---:| -----:| ------------:| -------:|
+| 2015 | 22 | 40 | 1.82 |
+| 2016 | 59 | 142 | 2.41 |
+| 2017 | 11 | 51 | 4.64 |
+| 2018 | 2 | 22 | 11.0 |
+| 2019 | 11 | 100 | 9.09 |
+| 2020 | 17 | 173 | 10.18 |
+| 2021 | 5 | 38 | 7.6 |
+
