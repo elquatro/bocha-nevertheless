@@ -27,6 +27,7 @@ def main():
     row_tpl = Template('| $pic | $title | $date | $count |')
     link_tpl = Template('[$title]($link)')
     pic_tpl = Template('![$title]($pic_link)')
+    year_data_tpl = Template('| $year | $video_count | $count | $average |')
 
     lines = []
     total = 0
@@ -51,9 +52,18 @@ def main():
     values = list(map(lambda x: sum(data[int(x)]), labels))
     averages = list(map(lambda x: average(data[int(x)]), labels))
 
+    years_data_lines = []
+    for year in reversed(data.keys()):
+        video_count = len(data[year])
+        count = sum(data[year])
+        year_average = round(count / video_count, 2)
+        years_data_lines.append(year_data_tpl.substitute(
+            year=year, video_count=video_count, count=count, average=year_average))
+
+    years_data = '\n'.join(years_data_lines)
     with open('README.md', 'w', encoding=ENCODING) as fp:
         fp.write(base_tpl.substitute(data='\n'.join(
-            lines), chart=get_chart(values, averages, labels), badge=get_badge(total)))
+            lines), chart=get_chart(values, averages, labels), badge=get_badge(total), years_data=years_data))
 
 
 def get_base_template():
@@ -67,6 +77,11 @@ $badge
 $data
 
 $chart
+
+| Год | Видео | Тем не менее | Среднее |
+| ---:| -----:| ------------:| -------:|
+$years_data
+
 ''')
 
 
