@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-544-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-553-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -56,6 +56,7 @@
 | ![(16 бит тому назад S03E13) VR-шлем VFX1](https://img.youtube.com/vi/Et3KPENzPYg/default.jpg) | [(16 бит тому назад S03E13) VR-шлем VFX1](https://www.youtube.com/watch?v=Et3KPENzPYg) | 14.10.2016 | 3 |
 | ![Roland MT-32 - Подготовка к тестам](https://img.youtube.com/vi/R5PeXjCHIu0/default.jpg) | [Roland MT-32 - Подготовка к тестам](https://www.youtube.com/watch?v=R5PeXjCHIu0) | 04.10.2016 | 3 |
 | ![Вышел iPhone 7 :-)](https://img.youtube.com/vi/51TBfl-kK2g/default.jpg) | [Вышел iPhone 7 :-)](https://www.youtube.com/watch?v=51TBfl-kK2g) | 27.09.2016 | 3 |
+| ![RDP-клиент в качестве рабочего компьютера (Доклад на Дне Свободного ПО в Екатеринбурге 24.09.2016)](https://img.youtube.com/vi/Hf8yOYwPwDQ/default.jpg) | [RDP-клиент в качестве рабочего компьютера (Доклад на Дне Свободного ПО в Екатеринбурге 24.09.2016)](https://www.youtube.com/watch?v=Hf8yOYwPwDQ) | 27.09.2016 | 9 |
 | ![Ставим Windows 95 на 486](https://img.youtube.com/vi/a1RvccBDTw4/default.jpg) | [Ставим Windows 95 на 486](https://www.youtube.com/watch?v=a1RvccBDTw4) | 18.09.2016 | 4 |
 | ![Делаем первый upgrade 486му.](https://img.youtube.com/vi/TlKsSu2etXY/default.jpg) | [Делаем первый upgrade 486му.](https://www.youtube.com/watch?v=TlKsSu2etXY) | 15.09.2016 | 3 |
 | ![Собираем 486](https://img.youtube.com/vi/8eFUo39_ZZk/default.jpg) | [Собираем 486](https://www.youtube.com/watch?v=8eFUo39_ZZk) | 14.09.2016 | 0 |
@@ -128,6 +129,6 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **544** |
+| **ИТОГО** |  |  | **553** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxMjgsIDQzLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA0LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAxMzcsIDQzLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCAyLCA0LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
