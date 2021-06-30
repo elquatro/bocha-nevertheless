@@ -23,11 +23,9 @@ jobs:
         run: |
           git config --local user.email "github-actions@users.noreply.github.com"
           git config --local user.name "github-actions"
+          mv README.md README_.md
+          git checkout master
+          mv README_.md README.md
           git add README.md
           git commit -m "update" -a
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          branch: "master"
-          force: true
+          git push origin master
