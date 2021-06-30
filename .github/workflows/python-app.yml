@@ -27,4 +27,4 @@ jobs:
         with:
           publish_branch: master
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          enable_jekyll: false
+          disable_nojekyll: true
