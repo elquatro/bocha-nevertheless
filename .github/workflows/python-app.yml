@@ -18,3 +18,7 @@ jobs:
 
       - name: Make README.md
         run: python3 make-readme.py
+      
+      - name: List
+        run: ls
+        
