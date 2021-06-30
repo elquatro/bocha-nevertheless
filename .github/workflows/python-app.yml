@@ -20,7 +20,7 @@ jobs:
         run: python3 make-readme.py
       
       - name: push
-        uses: dciborow/commit@0.0.2
+        uses: dciborow/commit@0.0.1
         with:
           push-branch: master
           commit-message: update
