@@ -4,7 +4,7 @@
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
-| ![Конференция DevPro 2021](https://img.youtube.com/vi/AYa1PhTExjE/default.jpg) | [Конференция DevPro 2021](https://www.youtube.com/watch?v=AYa1PhTExjE) | 19.04.2021 | 6 |
+| ![Конференция DevPro 2022](https://img.youtube.com/vi/AYa1PhTExjE/default.jpg) | [Конференция DevPro 2022](https://www.youtube.com/watch?v=AYa1PhTExjE) | 19.04.2021 | 6 |
 | ![Amiga Vampire 500 V2+](https://img.youtube.com/vi/TWlv6zOFLTQ/default.jpg) | [Amiga Vampire 500 V2+](https://www.youtube.com/watch?v=TWlv6zOFLTQ) | 14.04.2021 | 13 |
 | ![Компьютер Atari 800xl часть вторая - sio2pc](https://img.youtube.com/vi/09SW0dIvLuk/default.jpg) | [Компьютер Atari 800xl часть вторая - sio2pc](https://www.youtube.com/watch?v=09SW0dIvLuk) | 01.03.2021 | 10 |
 | ![Компьютер Atari 800XL](https://img.youtube.com/vi/WMc3cNEp6vE/default.jpg) | [Компьютер Atari 800XL](https://www.youtube.com/watch?v=WMc3cNEp6vE) | 18.02.2021 | 9 |
