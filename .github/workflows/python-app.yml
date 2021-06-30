@@ -28,4 +28,4 @@ jobs:
           mv README_.md README.md
           git add README.md
           git commit -m "update" -a
-          git push origin master
+          git push
