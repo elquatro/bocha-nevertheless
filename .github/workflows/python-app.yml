@@ -17,15 +17,10 @@ jobs:
           python-version: 3.9
 
       - name: Make README.md
-        run: python3 make-readme.py
-      
-      - name: push
-        uses: dciborow/commit@0.0.1
-        with:
-          push-branch: master
-          commit-message: update
-          force-add: true
-          force-push: true
-          files: README.md
-          name: github-actions
-          email: actions@github.com
+        run: |
+          python3 make-readme.py
+          mkdir public
+          cp README.md ./public
+        
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
