@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-646-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-742-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -39,6 +39,7 @@
 | ![#10YearChallenge \| обзор десяти лет съемок](https://img.youtube.com/vi/14hdLY7XK4I/default.jpg) | [#10YearChallenge \| обзор десяти лет съемок](https://www.youtube.com/watch?v=14hdLY7XK4I) | 05.02.2019 | 12 |
 | ![Установка IRIX 6.5 на Silicon Graphics O2](https://img.youtube.com/vi/nBew3_3d1Ts/default.jpg) | [Установка IRIX 6.5 на Silicon Graphics O2](https://www.youtube.com/watch?v=nBew3_3d1Ts) | 18.10.2018 | 9 |
 | ![Оживляем Sun Blade 1500 (Часть 3)](https://img.youtube.com/vi/-64f2CeYLGs/default.jpg) | [Оживляем Sun Blade 1500 (Часть 3)](https://www.youtube.com/watch?v=-64f2CeYLGs) | 15.08.2018 | 13 |
+| ![Вместо новогодних передач на ТВ - 2018](https://img.youtube.com/vi/8OhhyBLoJI4/default.jpg) | [Вместо новогодних передач на ТВ - 2018](https://www.youtube.com/watch?v=8OhhyBLoJI4) | 31.12.2017 | 96 |
 | ![3Dfx Voodoo 2 SLI своими руками](https://img.youtube.com/vi/cVgQiulnk5E/default.jpg) | [3Dfx Voodoo 2 SLI своими руками](https://www.youtube.com/watch?v=cVgQiulnk5E) | 02.09.2017 | 0 |
 | ![386й ноутбук возвращается: Звук!](https://img.youtube.com/vi/3rtj_jx8bck/default.jpg) | [386й ноутбук возвращается: Звук!](https://www.youtube.com/watch?v=3rtj_jx8bck) | 01.09.2017 | 4 |
 | ![Оживляем ThinkPad на Pentium 2](https://img.youtube.com/vi/hvo5auh7cqU/default.jpg) | [Оживляем ThinkPad на Pentium 2](https://www.youtube.com/watch?v=hvo5auh7cqU) | 16.08.2017 | 4 |
@@ -132,15 +133,15 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **646** |
+| **ИТОГО** |  |  | **742** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAyMjIsIDUxLCAyMiwgMTAwLCAxNzMsIDM4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsyLCA0LCA1LCAxMSwgOSwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAyMjIsIDE0NywgMjIsIDEwMCwgMTczLCAzOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMiwgNCwgMTIsIDExLCA5LCAxMCwgOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
 | 2015 | 22 | 40 | 1.82 |
 | 2016 | 60 | 222 | 3.7 |
-| 2017 | 11 | 51 | 4.64 |
+| 2017 | 12 | 147 | 12.25 |
 | 2018 | 2 | 22 | 11.0 |
 | 2019 | 11 | 100 | 9.09 |
 | 2020 | 17 | 173 | 10.18 |
