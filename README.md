@@ -1,9 +1,10 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-868-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-879-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| ![Кремниевые Титаны #34: LG](https://img.youtube.com/vi/JWSaD5NtNLQ/default.jpg) | [Кремниевые Титаны #34: LG](https://www.youtube.com/watch?v=JWSaD5NtNLQ) | 25.05.2021 | 3 |
 | ![Конференция DevPro 2021](https://img.youtube.com/vi/AYa1PhTExjE/default.jpg) | [Конференция DevPro 2021](https://www.youtube.com/watch?v=AYa1PhTExjE) | 19.04.2021 | 6 |
 | ![Amiga Vampire 500 V2+](https://img.youtube.com/vi/TWlv6zOFLTQ/default.jpg) | [Amiga Vampire 500 V2+](https://www.youtube.com/watch?v=TWlv6zOFLTQ) | 14.04.2021 | 13 |
 | ![Компьютер Atari 800xl часть вторая - sio2pc](https://img.youtube.com/vi/09SW0dIvLuk/default.jpg) | [Компьютер Atari 800xl часть вторая - sio2pc](https://www.youtube.com/watch?v=09SW0dIvLuk) | 01.03.2021 | 10 |
@@ -11,14 +12,18 @@
 | ![Кремниевые Титаны #33: Adobe Flash](https://img.youtube.com/vi/n36SBtx0-rU/default.jpg) | [Кремниевые Титаны #33: Adobe Flash](https://www.youtube.com/watch?v=n36SBtx0-rU) | 22.01.2021 | 0 |
 | ![Вместо новогодних передач на ТВ - 2021](https://img.youtube.com/vi/yV_fNArmKhs/default.jpg) | [Вместо новогодних передач на ТВ - 2021](https://www.youtube.com/watch?v=yV_fNArmKhs) | 31.12.2020 | 71 |
 | ![Ретроноутбук для ретроавтомобилей](https://img.youtube.com/vi/Fz22-yiw9l8/default.jpg) | [Ретроноутбук для ретроавтомобилей](https://www.youtube.com/watch?v=Fz22-yiw9l8) | 29.12.2020 | 7 |
+| ![Кремниевые Титаны #32: Xbox One](https://img.youtube.com/vi/R8emUgwyQOY/default.jpg) | [Кремниевые Титаны #32: Xbox One](https://www.youtube.com/watch?v=R8emUgwyQOY) | 13.12.2020 | 2 |
 | ![Cyberpunk 2077 исправление ошибки Illegal Opcode [видео на салфетке]](https://img.youtube.com/vi/PahP9mPZNbU/default.jpg) | [Cyberpunk 2077 исправление ошибки Illegal Opcode [видео на салфетке]](https://www.youtube.com/watch?v=PahP9mPZNbU) | 12.12.2020 | 2 |
 | ![Купил еще пять ноутов...](https://img.youtube.com/vi/EI4Q2zQ8zKg/default.jpg) | [Купил еще пять ноутов...](https://www.youtube.com/watch?v=EI4Q2zQ8zKg) | 07.12.2020 | 4 |
 | ![Выбираю ноут для RDP](https://img.youtube.com/vi/MvnYMIFrEBc/default.jpg) | [Выбираю ноут для RDP](https://www.youtube.com/watch?v=MvnYMIFrEBc) | 18.11.2020 | 7 |
+| ![[Инфобез] Мошенники "из Сбербанка"](https://img.youtube.com/vi/wgOWQVVk1_M/default.jpg) | [[Инфобез] Мошенники "из Сбербанка"](https://www.youtube.com/watch?v=wgOWQVVk1_M) | 08.10.2020 | 0 |
 | ![Два ноутбука. [vlog]](https://img.youtube.com/vi/vFwHfvbPkwE/default.jpg) | [Два ноутбука. [vlog]](https://www.youtube.com/watch?v=vFwHfvbPkwE) | 26.08.2020 | 6 |
 | ![[Стрим] Пытаюсь запустить OBS на Эльбрусе](https://img.youtube.com/vi/I70_OwzHX98/default.jpg) | [[Стрим] Пытаюсь запустить OBS на Эльбрусе](https://www.youtube.com/watch?v=I70_OwzHX98) | 24.08.2020 | 3 |
 | ![Тестируем компьютер Эльбрус](https://img.youtube.com/vi/buWzWtXHimk/default.jpg) | [Тестируем компьютер Эльбрус](https://www.youtube.com/watch?v=buWzWtXHimk) | 14.08.2020 | 19 |
 | ![Разбираем компы Эльбрус](https://img.youtube.com/vi/58XlDUOTdBI/default.jpg) | [Разбираем компы Эльбрус](https://www.youtube.com/watch?v=58XlDUOTdBI) | 07.08.2020 | 12 |
+| ![Кремниевые Титаны #31: Эльбрус](https://img.youtube.com/vi/LS6HloN09g4/default.jpg) | [Кремниевые Титаны #31: Эльбрус](https://www.youtube.com/watch?v=LS6HloN09g4) | 30.07.2020 | 4 |
 | ![Видео на салфетке: для затравки...](https://img.youtube.com/vi/ZP_ll1qahXQ/default.jpg) | [Видео на салфетке: для затравки...](https://www.youtube.com/watch?v=ZP_ll1qahXQ) | 23.07.2020 | 2 |
+| ![Кремниевые Титаны #30: Nintendo 64](https://img.youtube.com/vi/YqoRLMjTOxA/default.jpg) | [Кремниевые Титаны #30: Nintendo 64](https://www.youtube.com/watch?v=YqoRLMjTOxA) | 17.07.2020 | 2 |
 | ![DosBox, но аппаратный.](https://img.youtube.com/vi/EbnDqni5LEk/default.jpg) | [DosBox, но аппаратный.](https://www.youtube.com/watch?v=EbnDqni5LEk) | 30.06.2020 | 14 |
 | ![Кремниевые Титаны #29: New World Computing](https://img.youtube.com/vi/-ZQ7jm5rra8/default.jpg) | [Кремниевые Титаны #29: New World Computing](https://www.youtube.com/watch?v=-ZQ7jm5rra8) | 21.05.2020 | 1 |
 | ![Кремниевые Титаны #28: KolibriOS](https://img.youtube.com/vi/xusd09WtnzA/default.jpg) | [Кремниевые Титаны #28: KolibriOS](https://www.youtube.com/watch?v=xusd09WtnzA) | 02.05.2020 | 1 |
@@ -135,9 +140,9 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **868** |
+| **ИТОГО** |  |  | **879** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAyMjIsIDE0NywgODIsIDE2NiwgMTczLCAzOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMiwgNCwgMTIsIDI3LCAxNCwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAyMjIsIDE0NywgODIsIDE2NiwgMTgxLCA0MV0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMiwgNCwgMTIsIDI3LCAxNCwgOSwgN10sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
@@ -146,6 +151,6 @@
 | 2017 | 12 | 147 | 12.25 |
 | 2018 | 3 | 82 | 27.33 |
 | 2019 | 12 | 166 | 13.83 |
-| 2020 | 17 | 173 | 10.18 |
-| 2021 | 5 | 38 | 7.6 |
+| 2020 | 21 | 181 | 8.62 |
+| 2021 | 6 | 41 | 6.83 |
 
