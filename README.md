@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-802-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-868-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -26,6 +26,7 @@
 | ![Видео на Салфетке: Книга про 3Dfx](https://img.youtube.com/vi/RZ4vODytgEc/default.jpg) | [Видео на Салфетке: Книга про 3Dfx](https://www.youtube.com/watch?v=RZ4vODytgEc) | 02.03.2020 | 0 |
 | ![Ремонт ноутбука HP Pavilion G7 [vlog]](https://img.youtube.com/vi/ODYw-gmPecU/default.jpg) | [Ремонт ноутбука HP Pavilion G7 [vlog]](https://www.youtube.com/watch?v=ODYw-gmPecU) | 25.02.2020 | 6 |
 | ![[vlog] Собираем сервер репозитория AllUnix Desktop](https://img.youtube.com/vi/WXfcV2iH7eg/default.jpg) | [[vlog] Собираем сервер репозитория AllUnix Desktop](https://www.youtube.com/watch?v=WXfcV2iH7eg) | 07.01.2020 | 5 |
+| ![Вместо новогодних передач на ТВ - 2020](https://img.youtube.com/vi/wSUT-hppNk0/default.jpg) | [Вместо новогодних передач на ТВ - 2020](https://www.youtube.com/watch?v=wSUT-hppNk0) | 31.12.2019 | 66 |
 | ![Собираем ноут на линуксе в подарок [vlog]](https://img.youtube.com/vi/bK-j6qFlReo/default.jpg) | [Собираем ноут на линуксе в подарок [vlog]](https://www.youtube.com/watch?v=bK-j6qFlReo) | 20.12.2019 | 15 |
 | ![[VLOG] Level Up Days 2019 Новосибирск](https://img.youtube.com/vi/12NnQ-rGOrc/default.jpg) | [[VLOG] Level Up Days 2019 Новосибирск](https://www.youtube.com/watch?v=12NnQ-rGOrc) | 29.09.2019 | 0 |
 | ![[VLOG] ACA500plus - разгоняем Амигу](https://img.youtube.com/vi/gTRhr6Ut28g/default.jpg) | [[VLOG] ACA500plus - разгоняем Амигу](https://www.youtube.com/watch?v=gTRhr6Ut28g) | 11.09.2019 | 17 |
@@ -134,9 +135,9 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **802** |
+| **ИТОГО** |  |  | **868** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAyMjIsIDE0NywgODIsIDEwMCwgMTczLCAzOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMiwgNCwgMTIsIDI3LCA5LCAxMCwgOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAyMjIsIDE0NywgODIsIDE2NiwgMTczLCAzOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMiwgNCwgMTIsIDI3LCAxNCwgMTAsIDhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
@@ -144,7 +145,7 @@
 | 2016 | 60 | 222 | 3.7 |
 | 2017 | 12 | 147 | 12.25 |
 | 2018 | 3 | 82 | 27.33 |
-| 2019 | 11 | 100 | 9.09 |
+| 2019 | 12 | 166 | 13.83 |
 | 2020 | 17 | 173 | 10.18 |
 | 2021 | 5 | 38 | 7.6 |
 
