@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-883-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-895-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -52,6 +52,10 @@
 | ![3Dfx Voodoo 2 SLI своими руками](https://img.youtube.com/vi/cVgQiulnk5E/default.jpg) | [3Dfx Voodoo 2 SLI своими руками](https://www.youtube.com/watch?v=cVgQiulnk5E) | 02.09.2017 | 0 |
 | ![386й ноутбук возвращается: Звук!](https://img.youtube.com/vi/3rtj_jx8bck/default.jpg) | [386й ноутбук возвращается: Звук!](https://www.youtube.com/watch?v=3rtj_jx8bck) | 01.09.2017 | 4 |
 | ![Оживляем ThinkPad на Pentium 2](https://img.youtube.com/vi/hvo5auh7cqU/default.jpg) | [Оживляем ThinkPad на Pentium 2](https://www.youtube.com/watch?v=hvo5auh7cqU) | 16.08.2017 | 4 |
+| ![Кремниевые Титаны #7: MorphOS](https://img.youtube.com/vi/5QpQg5Sty1Y/default.jpg) | [Кремниевые Титаны #7: MorphOS](https://www.youtube.com/watch?v=5QpQg5Sty1Y) | 10.08.2017 | 9 |
+| ![Кремниевые Титаны #6: AmigaOS](https://img.youtube.com/vi/Sl68PdHgE2M/default.jpg) | [Кремниевые Титаны #6: AmigaOS](https://www.youtube.com/watch?v=Sl68PdHgE2M) | 03.08.2017 | 2 |
+| ![Кремниевые Титаны #5: Fairchild Semiconductor](https://img.youtube.com/vi/APRQ2gvc7tc/default.jpg) | [Кремниевые Титаны #5: Fairchild Semiconductor](https://www.youtube.com/watch?v=APRQ2gvc7tc) | 14.05.2017 | 0 |
+| ![Кремниевые Титаны #4. Intel: начало](https://img.youtube.com/vi/OpVyN6YCllk/default.jpg) | [Кремниевые Титаны #4. Intel: начало](https://www.youtube.com/watch?v=OpVyN6YCllk) | 21.04.2017 | 1 |
 | ![Nintendo Switch работает на FreeBSD?](https://img.youtube.com/vi/hkp_Ik84_l8/default.jpg) | [Nintendo Switch работает на FreeBSD?](https://www.youtube.com/watch?v=hkp_Ik84_l8) | 04.03.2017 | 2 |
 | ![Кремниевые Титаны #3. Nintendo Switch](https://img.youtube.com/vi/UT2cD4Q5pr0/default.jpg) | [Кремниевые Титаны #3. Nintendo Switch](https://www.youtube.com/watch?v=UT2cD4Q5pr0) | 02.03.2017 | 11 |
 | ![Кремниевые Титаны #2. DEC часть 2: VAX](https://img.youtube.com/vi/XRUfwvH6lEw/default.jpg) | [Кремниевые Титаны #2. DEC часть 2: VAX](https://www.youtube.com/watch?v=XRUfwvH6lEw) | 17.02.2017 | 3 |
@@ -142,15 +146,15 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **883** |
+| **ИТОГО** |  |  | **895** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAyMjIsIDE0NywgODIsIDE2NiwgMTg1LCA0MV0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMiwgNCwgMTIsIDI3LCAxNCwgOCwgN10sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAyMjIsIDE1OSwgODIsIDE2NiwgMTg1LCA0MV0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMiwgNCwgMTAsIDI3LCAxNCwgOCwgN10sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
 | 2015 | 22 | 40 | 1.82 |
 | 2016 | 60 | 222 | 3.7 |
-| 2017 | 12 | 147 | 12.25 |
+| 2017 | 16 | 159 | 9.94 |
 | 2018 | 3 | 82 | 27.33 |
 | 2019 | 12 | 166 | 13.83 |
 | 2020 | 23 | 185 | 8.04 |
