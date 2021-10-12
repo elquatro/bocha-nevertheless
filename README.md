@@ -5,7 +5,7 @@
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
 | ![Тестируем компьютер Байкал](https://img.youtube.com/vi/qgmmh0Zjr2E/default.jpg) | [Тестируем компьютер Байкал](https://www.youtube.com/watch?v=qgmmh0Zjr2E) | 26.08.2021 | 11 |
-| ![Скоро учебный год. А что у вас в компьютерном классе?](https://img.youtube.com/vi/buJusamMFEs/default.jpg) | [Скоро учебный год. А что у вас в компьютерном классе?](https://www.youtube.com/watch?v=buJusamMFEs) | 19.08.2021 | 15 |
+| ![Распаковываем компьютер Байкал](https://img.youtube.com/vi/buJusamMFEs/default.jpg) | [Распаковываем компьютер Байкал](https://www.youtube.com/watch?v=buJusamMFEs) | 19.08.2021 | 15 |
 | ![Рассуждения насчет Steam Deck](https://img.youtube.com/vi/NiNKxzMI4K0/default.jpg) | [Рассуждения насчет Steam Deck](https://www.youtube.com/watch?v=NiNKxzMI4K0) | 26.07.2021 | 10 |
 | ![ДеньРожденьческий Стрим](https://img.youtube.com/vi/U05JqbzB2sw/default.jpg) | [ДеньРожденьческий Стрим](https://www.youtube.com/watch?v=U05JqbzB2sw) | 10.06.2021 | 10 |
 | ![Кремниевые Титаны #34: LG](https://img.youtube.com/vi/JWSaD5NtNLQ/default.jpg) | [Кремниевые Титаны #34: LG](https://www.youtube.com/watch?v=JWSaD5NtNLQ) | 25.05.2021 | 3 |
