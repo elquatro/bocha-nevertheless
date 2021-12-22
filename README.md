@@ -4,6 +4,7 @@
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| ![Кремниевые Титаны #35: Samsung](https://img.youtube.com/vi/9BX5VJB2qt8/default.jpg) | [Кремниевые Титаны #35: Samsung](https://www.youtube.com/watch?v=9BX5VJB2qt8) | 05.12.2021 | 0 |
 | ![Приём вопросов и финал с Байкалом](https://img.youtube.com/vi/IfhodP0BXQY/default.jpg) | [Приём вопросов и финал с Байкалом](https://www.youtube.com/watch?v=IfhodP0BXQY) | 08.11.2021 | 5 |
 | ![Приключения внешней видеокарты в компьютере Байкал](https://img.youtube.com/vi/_S9-dL5ayTc/default.jpg) | [Приключения внешней видеокарты в компьютере Байкал](https://www.youtube.com/watch?v=_S9-dL5ayTc) | 03.10.2021 | 14 |
 | ![Тестируем компьютер Байкал](https://img.youtube.com/vi/qgmmh0Zjr2E/default.jpg) | [Тестируем компьютер Байкал](https://www.youtube.com/watch?v=qgmmh0Zjr2E) | 26.08.2021 | 11 |
@@ -167,7 +168,7 @@
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
 | **ИТОГО** |  |  | **980** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAyMjIsIDE2NiwgOTMsIDE2OCwgMTg1LCAxMDZdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzIsIDQsIDgsIDgsIDEzLCA4LCA5XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX1dfX0=&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAyMjIsIDE2NiwgOTMsIDE2OCwgMTg1LCAxMDZdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzIsIDQsIDgsIDgsIDEzLCA4LCA4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX1dfX0=&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
@@ -177,5 +178,5 @@
 | 2018 | 11 | 93 | 8.45 |
 | 2019 | 13 | 168 | 12.92 |
 | 2020 | 23 | 185 | 8.04 |
-| 2021 | 12 | 106 | 8.83 |
+| 2021 | 13 | 106 | 8.15 |
 
