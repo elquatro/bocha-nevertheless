@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1046-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1057-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -167,12 +167,31 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
-| **ИТОГО** |  |  | **1046** |
+| ![16 бит тому назад - Intel VS AMD часть вторая: AMD rises.](https://img.youtube.com/vi/h7sKgt2rESw/default.jpg) | [16 бит тому назад - Intel VS AMD часть вторая: AMD rises.](https://www.youtube.com/watch?v=h7sKgt2rESw) | 04.10.2012 | 0 |
+| ![16 бит тому назад - Intel VS AMD часть первая: x86](https://img.youtube.com/vi/3tBJ4qCK010/default.jpg) | [16 бит тому назад - Intel VS AMD часть первая: x86](https://www.youtube.com/watch?v=3tBJ4qCK010) | 27.09.2012 | 2 |
+| ![16 бит тому назад - ATI Radeon (часть вторая)](https://img.youtube.com/vi/dFSh0GTa0pc/default.jpg) | [16 бит тому назад - ATI Radeon (часть вторая)](https://www.youtube.com/watch?v=dFSh0GTa0pc) | 20.09.2012 | 0 |
+| ![16 бит тому назад - ATi Begins (часть первая)](https://img.youtube.com/vi/438uKzLbJqo/default.jpg) | [16 бит тому назад - ATi Begins (часть первая)](https://www.youtube.com/watch?v=438uKzLbJqo) | 13.09.2012 | 1 |
+| ![16 бит тому назад - nVidia - часть вторая: XXI век](https://img.youtube.com/vi/j1sFDXljeB8/default.jpg) | [16 бит тому назад - nVidia - часть вторая: XXI век](https://www.youtube.com/watch?v=j1sFDXljeB8) | 06.09.2012 | 1 |
+| ![16 бит тому назад - NVIDIA часть первая - XX Век](https://img.youtube.com/vi/Eh5rps86sqo/default.jpg) | [16 бит тому назад - NVIDIA часть первая - XX Век](https://www.youtube.com/watch?v=Eh5rps86sqo) | 30.08.2012 | 0 |
+| ![16 бит тому назад - Движок RenderWare](https://img.youtube.com/vi/NYcCdN7G1U8/default.jpg) | [16 бит тому назад - Движок RenderWare](https://www.youtube.com/watch?v=NYcCdN7G1U8) | 23.08.2012 | 0 |
+| ![16 бит тому назад - Build Engine - движок Duke Nukem 3D](https://img.youtube.com/vi/VavpnVmMhgo/default.jpg) | [16 бит тому назад - Build Engine - движок Duke Nukem 3D](https://www.youtube.com/watch?v=VavpnVmMhgo) | 16.08.2012 | 0 |
+| ![16 бит тому назад - GoldSrc и Source](https://img.youtube.com/vi/SkNvCELTS8I/default.jpg) | [16 бит тому назад - GoldSrc и Source](https://www.youtube.com/watch?v=SkNvCELTS8I) | 09.08.2012 | 2 |
+| ![16 бит тому назад - idTech4 engine](https://img.youtube.com/vi/Sqp5q1lcSiU/default.jpg) | [16 бит тому назад - idTech4 engine](https://www.youtube.com/watch?v=Sqp5q1lcSiU) | 02.08.2012 | 1 |
+| ![16 бит тому назад - idTech3 engine](https://img.youtube.com/vi/YdzT4i7YNdQ/default.jpg) | [16 бит тому назад - idTech3 engine](https://www.youtube.com/watch?v=YdzT4i7YNdQ) | 26.07.2012 | 3 |
+| ![16 бит тому назад - idTech2 Engine](https://img.youtube.com/vi/iy_BgfF99a0/default.jpg) | [16 бит тому назад - idTech2 Engine](https://www.youtube.com/watch?v=iy_BgfF99a0) | 19.07.2012 | 0 |
+| ![16 бит тому назад - Quake Engine](https://img.youtube.com/vi/jMUeI2nadT0/default.jpg) | [16 бит тому назад - Quake Engine](https://www.youtube.com/watch?v=jMUeI2nadT0) | 12.07.2012 | 0 |
+| ![16 бит тому назад - idTech1 (Doom) engine](https://img.youtube.com/vi/rqx7r8TBsD4/default.jpg) | [16 бит тому назад - idTech1 (Doom) engine](https://www.youtube.com/watch?v=rqx7r8TBsD4) | 05.07.2012 | 0 |
+| ![16 бит тому назад - Wolfenstein 3D engine](https://img.youtube.com/vi/eikCTfU6Mms/default.jpg) | [16 бит тому назад - Wolfenstein 3D engine](https://www.youtube.com/watch?v=eikCTfU6Mms) | 28.06.2012 | 0 |
+| ![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
+| ![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
+| ![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
+| **ИТОГО** |  |  | **1057** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDE1IiwgIjIwMTYiLCAiMjAxNyIsICIyMDE4IiwgIjIwMTkiLCAiMjAyMCIsICIyMDIxIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzQwLCAyMjIsIDE2NiwgOTMsIDE2OCwgMTg1LCAxNzJdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzIsIDQsIDgsIDgsIDEzLCA4LCAxMl0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTUiLCAiMjAxNiIsICIyMDE3IiwgIjIwMTgiLCAiMjAxOSIsICIyMDIwIiwgIjIwMjEiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMTEsIDQwLCAyMjIsIDE2NiwgOTMsIDE2OCwgMTg1LCAxNzJdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDQsIDgsIDgsIDEzLCA4LCAxMl0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
+| 2012 | 18 | 11 | 0.61 |
 | 2015 | 22 | 40 | 1.82 |
 | 2016 | 60 | 222 | 3.7 |
 | 2017 | 20 | 166 | 8.3 |
