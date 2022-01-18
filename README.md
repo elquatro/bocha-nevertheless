@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1057-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1072-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -167,6 +167,17 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
+| ![16 бит тому назад - Играем в Linux](https://img.youtube.com/vi/vdO41bADmg4/default.jpg) | [16 бит тому назад - Играем в Linux](https://www.youtube.com/watch?v=vdO41bADmg4) | 20.12.2012 | 2 |
+| ![16 бит тому назад - Играем в UNIX](https://img.youtube.com/vi/tW-60QkrejM/default.jpg) | [16 бит тому назад - Играем в UNIX](https://www.youtube.com/watch?v=tW-60QkrejM) | 13.12.2012 | 2 |
+| ![16 бит тому назад - Windows недавнего прошлого. Эпилог.](https://img.youtube.com/vi/R4JJw0V6qZE/default.jpg) | [16 бит тому назад - Windows недавнего прошлого. Эпилог.](https://www.youtube.com/watch?v=R4JJw0V6qZE) | 06.12.2012 | 2 |
+| ![16 бит тому назад - Windows 98](https://img.youtube.com/vi/ANpqNcAVBrA/default.jpg) | [16 бит тому назад - Windows 98](https://www.youtube.com/watch?v=ANpqNcAVBrA) | 29.11.2012 | 0 |
+| ![16 бит тому назад - Windows 95](https://img.youtube.com/vi/wXhxlzyeIB0/default.jpg) | [16 бит тому назад - Windows 95](https://www.youtube.com/watch?v=wXhxlzyeIB0) | 22.11.2012 | 2 |
+| ![16 бит тому назад - 16-битные версии Windows](https://img.youtube.com/vi/PP6BPe-ryq4/default.jpg) | [16 бит тому назад - 16-битные версии Windows](https://www.youtube.com/watch?v=PP6BPe-ryq4) | 15.11.2012 | 1 |
+| ![16 бит тому назад - DOS](https://img.youtube.com/vi/IvyGL03F5tk/default.jpg) | [16 бит тому назад - DOS](https://www.youtube.com/watch?v=IvyGL03F5tk) | 08.11.2012 | 3 |
+| ![16 бит тому назад - История звука на ПК](https://img.youtube.com/vi/Uh7KGPOC8gc/default.jpg) | [16 бит тому назад - История звука на ПК](https://www.youtube.com/watch?v=Uh7KGPOC8gc) | 01.11.2012 | 2 |
+| ![16 бит тому назад - Intel Core](https://img.youtube.com/vi/4PFQwTMsR5s/default.jpg) | [16 бит тому назад - Intel Core](https://www.youtube.com/watch?v=4PFQwTMsR5s) | 25.10.2012 | 1 |
+| ![16 бит тому назад - Intel VS AMD часть четвертая: AMD64](https://img.youtube.com/vi/GYPbCVS9g9Q/default.jpg) | [16 бит тому назад - Intel VS AMD часть четвертая: AMD64](https://www.youtube.com/watch?v=GYPbCVS9g9Q) | 18.10.2012 | 0 |
+| ![16 бит тому назад - Intel VS AMD часть третья: Athlon](https://img.youtube.com/vi/91ytq7RpuyM/default.jpg) | [16 бит тому назад - Intel VS AMD часть третья: Athlon](https://www.youtube.com/watch?v=91ytq7RpuyM) | 11.10.2012 | 0 |
 | ![16 бит тому назад - Intel VS AMD часть вторая: AMD rises.](https://img.youtube.com/vi/h7sKgt2rESw/default.jpg) | [16 бит тому назад - Intel VS AMD часть вторая: AMD rises.](https://www.youtube.com/watch?v=h7sKgt2rESw) | 04.10.2012 | 0 |
 | ![16 бит тому назад - Intel VS AMD часть первая: x86](https://img.youtube.com/vi/3tBJ4qCK010/default.jpg) | [16 бит тому назад - Intel VS AMD часть первая: x86](https://www.youtube.com/watch?v=3tBJ4qCK010) | 27.09.2012 | 2 |
 | ![16 бит тому назад - ATI Radeon (часть вторая)](https://img.youtube.com/vi/dFSh0GTa0pc/default.jpg) | [16 бит тому назад - ATI Radeon (часть вторая)](https://www.youtube.com/watch?v=dFSh0GTa0pc) | 20.09.2012 | 0 |
@@ -185,13 +196,13 @@
 | ![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | ![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | ![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1057** |
+| **ИТОГО** |  |  | **1072** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTUiLCAiMjAxNiIsICIyMDE3IiwgIjIwMTgiLCAiMjAxOSIsICIyMDIwIiwgIjIwMjEiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMTEsIDQwLCAyMjIsIDE2NiwgOTMsIDE2OCwgMTg1LCAxNzJdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDQsIDgsIDgsIDEzLCA4LCAxMl0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTUiLCAiMjAxNiIsICIyMDE3IiwgIjIwMTgiLCAiMjAxOSIsICIyMDIwIiwgIjIwMjEiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjYsIDQwLCAyMjIsIDE2NiwgOTMsIDE2OCwgMTg1LCAxNzJdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDQsIDgsIDgsIDEzLCA4LCAxMl0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
-| 2012 | 18 | 11 | 0.61 |
+| 2012 | 29 | 26 | 0.9 |
 | 2015 | 22 | 40 | 1.82 |
 | 2016 | 60 | 222 | 3.7 |
 | 2017 | 20 | 166 | 8.3 |
