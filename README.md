@@ -1,9 +1,12 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1072-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1095-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| ![Крутые WADы Doom-а: Hellbound](https://img.youtube.com/vi/lkFoQx4Or9s/default.jpg) | [Крутые WADы Doom-а: Hellbound](https://www.youtube.com/watch?v=lkFoQx4Or9s) | 30.01.2022 | 7 |
+| ![Кремниевые Титаны #36: Sony](https://img.youtube.com/vi/uPtHZIYiru0/default.jpg) | [Кремниевые Титаны #36: Sony](https://www.youtube.com/watch?v=uPtHZIYiru0) | 28.01.2022 | 4 |
+| ![Крутые WADы Doom-а: Hellfire](https://img.youtube.com/vi/pN3sygoQ0xI/default.jpg) | [Крутые WADы Doom-а: Hellfire](https://www.youtube.com/watch?v=pN3sygoQ0xI) | 23.01.2022 | 12 |
 | ![Вместо новогодних передач на ТВ - 2022](https://img.youtube.com/vi/4MKl88WtHTg/default.jpg) | [Вместо новогодних передач на ТВ - 2022](https://www.youtube.com/watch?v=4MKl88WtHTg) | 31.12.2021 | 66 |
 | ![Кремниевые Титаны #35: Samsung](https://img.youtube.com/vi/9BX5VJB2qt8/default.jpg) | [Кремниевые Титаны #35: Samsung](https://www.youtube.com/watch?v=9BX5VJB2qt8) | 05.12.2021 | 0 |
 | ![Приём вопросов и финал с Байкалом](https://img.youtube.com/vi/IfhodP0BXQY/default.jpg) | [Приём вопросов и финал с Байкалом](https://www.youtube.com/watch?v=IfhodP0BXQY) | 08.11.2021 | 5 |
@@ -196,9 +199,9 @@
 | ![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | ![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | ![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1072** |
+| **ИТОГО** |  |  | **1095** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTUiLCAiMjAxNiIsICIyMDE3IiwgIjIwMTgiLCAiMjAxOSIsICIyMDIwIiwgIjIwMjEiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjYsIDQwLCAyMjIsIDE2NiwgOTMsIDE2OCwgMTg1LCAxNzJdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDQsIDgsIDgsIDEzLCA4LCAxMl0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTUiLCAiMjAxNiIsICIyMDE3IiwgIjIwMTgiLCAiMjAxOSIsICIyMDIwIiwgIjIwMjEiLCAiMjAyMiJdLCAiZGF0YXNldHMiOiBbeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDNcdTA0M2NcdTA0M2NcdTA0MzAiLCAiYmFja2dyb3VuZENvbG9yIjogInJlZCIsICJib3JkZXJDb2xvciI6ICJyZWQiLCAiZGF0YSI6IFsyNiwgNDAsIDIyMiwgMTY2LCA5MywgMTY4LCAxODUsIDE3MiwgMjNdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDQsIDgsIDgsIDEzLCA4LCAxMiwgOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
@@ -210,4 +213,5 @@
 | 2019 | 13 | 168 | 12.92 |
 | 2020 | 23 | 185 | 8.04 |
 | 2021 | 14 | 172 | 12.29 |
+| 2022 | 3 | 23 | 7.67 |
 
