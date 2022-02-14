@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1095-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1103-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -170,6 +170,14 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
+| ![16 бит тому назад - События в истории Atari 2600](https://img.youtube.com/vi/1R5dt6HT0dA/default.jpg) | [16 бит тому назад - События в истории Atari 2600](https://www.youtube.com/watch?v=1R5dt6HT0dA) | 28.02.2013 | 0 |
+| ![16 бит тому назад - История XBox](https://img.youtube.com/vi/bXLr5HsLCbE/default.jpg) | [16 бит тому назад - История XBox](https://www.youtube.com/watch?v=bXLr5HsLCbE) | 21.02.2013 | 3 |
+| ![16 бит тому назад - История DirectX](https://img.youtube.com/vi/gsDGqybtsuc/default.jpg) | [16 бит тому назад - История DirectX](https://www.youtube.com/watch?v=gsDGqybtsuc) | 14.02.2013 | 1 |
+| ![16 бит тому назад - Как появился OpenGL](https://img.youtube.com/vi/BdwXar8VnM0/default.jpg) | [16 бит тому назад - Как появился OpenGL](https://www.youtube.com/watch?v=BdwXar8VnM0) | 07.02.2013 | 0 |
+| ![16 бит тому назад - Компьютерные накопители](https://img.youtube.com/vi/8enYYXJwBuw/default.jpg) | [16 бит тому назад - Компьютерные накопители](https://www.youtube.com/watch?v=8enYYXJwBuw) | 31.01.2013 | 2 |
+| ![16 бит тому назад - История брэнда ARM](https://img.youtube.com/vi/ig7PPwLC288/default.jpg) | [16 бит тому назад - История брэнда ARM](https://www.youtube.com/watch?v=ig7PPwLC288) | 24.01.2013 | 0 |
+| ![16 бит тому назад - Трекерная музыка](https://img.youtube.com/vi/c1fHfytFn50/default.jpg) | [16 бит тому назад - Трекерная музыка](https://www.youtube.com/watch?v=c1fHfytFn50) | 17.01.2013 | 1 |
+| ![16 бит тому назад - Вопросы и Ответы](https://img.youtube.com/vi/ufULVRqV2No/default.jpg) | [16 бит тому назад - Вопросы и Ответы](https://www.youtube.com/watch?v=ufULVRqV2No) | 27.12.2012 | 1 |
 | ![16 бит тому назад - Играем в Linux](https://img.youtube.com/vi/vdO41bADmg4/default.jpg) | [16 бит тому назад - Играем в Linux](https://www.youtube.com/watch?v=vdO41bADmg4) | 20.12.2012 | 2 |
 | ![16 бит тому назад - Играем в UNIX](https://img.youtube.com/vi/tW-60QkrejM/default.jpg) | [16 бит тому назад - Играем в UNIX](https://www.youtube.com/watch?v=tW-60QkrejM) | 13.12.2012 | 2 |
 | ![16 бит тому назад - Windows недавнего прошлого. Эпилог.](https://img.youtube.com/vi/R4JJw0V6qZE/default.jpg) | [16 бит тому назад - Windows недавнего прошлого. Эпилог.](https://www.youtube.com/watch?v=R4JJw0V6qZE) | 06.12.2012 | 2 |
@@ -199,13 +207,14 @@
 | ![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | ![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | ![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1095** |
+| **ИТОГО** |  |  | **1103** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTUiLCAiMjAxNiIsICIyMDE3IiwgIjIwMTgiLCAiMjAxOSIsICIyMDIwIiwgIjIwMjEiLCAiMjAyMiJdLCAiZGF0YXNldHMiOiBbeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDNcdTA0M2NcdTA0M2NcdTA0MzAiLCAiYmFja2dyb3VuZENvbG9yIjogInJlZCIsICJib3JkZXJDb2xvciI6ICJyZWQiLCAiZGF0YSI6IFsyNiwgNDAsIDIyMiwgMTY2LCA5MywgMTY4LCAxODUsIDE3MiwgMjNdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDQsIDgsIDgsIDEzLCA4LCAxMiwgOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzI3LCA3LCA0MCwgMjIyLCAxNjYsIDkzLCAxNjgsIDE4NSwgMTcyLCAyM10sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMSwgMSwgMiwgNCwgOCwgOCwgMTMsIDgsIDEyLCA4XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX1dfX0=&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
-| 2012 | 29 | 26 | 0.9 |
+| 2012 | 30 | 27 | 0.9 |
+| 2013 | 7 | 7 | 1.0 |
 | 2015 | 22 | 40 | 1.82 |
 | 2016 | 60 | 222 | 3.7 |
 | 2017 | 20 | 166 | 8.3 |
