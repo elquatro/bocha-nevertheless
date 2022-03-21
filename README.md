@@ -1,9 +1,10 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1116-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1141-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| ![Эльбрус-2с3 [Часть 1. Распаковка и разборка]](https://img.youtube.com/vi/tlKhvsMsqq0/default.jpg) | [Эльбрус-2с3 [Часть 1. Распаковка и разборка]](https://www.youtube.com/watch?v=tlKhvsMsqq0) | 19.03.2022 | 5 |
 | ![Крутые WADы Doom-а: Hellbound](https://img.youtube.com/vi/lkFoQx4Or9s/default.jpg) | [Крутые WADы Doom-а: Hellbound](https://www.youtube.com/watch?v=lkFoQx4Or9s) | 30.01.2022 | 7 |
 | ![Кремниевые Титаны #36: Sony](https://img.youtube.com/vi/uPtHZIYiru0/default.jpg) | [Кремниевые Титаны #36: Sony](https://www.youtube.com/watch?v=uPtHZIYiru0) | 28.01.2022 | 4 |
 | ![Крутые WADы Doom-а: Hellfire](https://img.youtube.com/vi/pN3sygoQ0xI/default.jpg) | [Крутые WADы Doom-а: Hellfire](https://www.youtube.com/watch?v=pN3sygoQ0xI) | 23.01.2022 | 12 |
@@ -170,6 +171,16 @@
 | ![[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://img.youtube.com/vi/tmDL6fydGBo/default.jpg) | [[Игры Dreamcast] быстрый взгляд на Mortal Kombat 4](https://www.youtube.com/watch?v=tmDL6fydGBo) | 22.06.2015 | 0 |
 | ![[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://img.youtube.com/vi/PyejcDTPMco/default.jpg) | [[Игры Dreamcast] Быстрый взгляд на Unreal Tournament](https://www.youtube.com/watch?v=PyejcDTPMco) | 19.06.2015 | 0 |
 | ![(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://img.youtube.com/vi/ebKTmpsoUQM/default.jpg) | [(16 бит тому назад S03E01) - Обзор советских компьютеров "Искра"](https://www.youtube.com/watch?v=ebKTmpsoUQM) | 17.06.2015 | 2 |
+| ![16 бит тому назад - Sega Master System](https://img.youtube.com/vi/_Zv4fjF3Fy8/default.jpg) | [16 бит тому назад - Sega Master System](https://www.youtube.com/watch?v=_Zv4fjF3Fy8) | 06.06.2013 | 4 |
+| ![16 бит тому назад - Советские домашние компьютеры (БК)](https://img.youtube.com/vi/i9zXNtoT0J0/default.jpg) | [16 бит тому назад - Советские домашние компьютеры (БК)](https://www.youtube.com/watch?v=i9zXNtoT0J0) | 31.05.2013 | 1 |
+| ![16 бит тому назад - История SEGA SG-1000](https://img.youtube.com/vi/DNqPqbzuJxs/default.jpg) | [16 бит тому назад - История SEGA SG-1000](https://www.youtube.com/watch?v=DNqPqbzuJxs) | 23.05.2013 | 3 |
+| ![16 бит тому назад - История стандарта MSX](https://img.youtube.com/vi/a4jQ-ThtOHQ/default.jpg) | [16 бит тому назад - История стандарта MSX](https://www.youtube.com/watch?v=a4jQ-ThtOHQ) | 16.05.2013 | 0 |
+| ![16 бит тому назад - Nintendo Gamecube и наболевшее.](https://img.youtube.com/vi/hl-GCo69VaU/default.jpg) | [16 бит тому назад - Nintendo Gamecube и наболевшее.](https://www.youtube.com/watch?v=hl-GCo69VaU) | 09.05.2013 | 9 |
+| ![16 бит тому назад - История Atari ST](https://img.youtube.com/vi/YP6O7RuyJJc/default.jpg) | [16 бит тому назад - История Atari ST](https://www.youtube.com/watch?v=YP6O7RuyJJc) | 02.05.2013 | 1 |
+| ![16 бит тому назад - 8-битные компьютеры Atari 400/800](https://img.youtube.com/vi/SAvHQlM7A4o/default.jpg) | [16 бит тому назад - 8-битные компьютеры Atari 400/800](https://www.youtube.com/watch?v=SAvHQlM7A4o) | 25.04.2013 | 0 |
+| ![16 бит тому назад - История Commodore Amiga](https://img.youtube.com/vi/DNL7-5TPTzQ/default.jpg) | [16 бит тому назад - История Commodore Amiga](https://www.youtube.com/watch?v=DNL7-5TPTzQ) | 18.04.2013 | 0 |
+| ![16 бит тому назад - Внутренности Playstation 2](https://img.youtube.com/vi/xmmoECyo4Qc/default.jpg) | [16 бит тому назад - Внутренности Playstation 2](https://www.youtube.com/watch?v=xmmoECyo4Qc) | 11.04.2013 | 0 |
+| ![16 бит тому назад - История Commodore 64](https://img.youtube.com/vi/xW6-ine5L08/default.jpg) | [16 бит тому назад - История Commodore 64](https://www.youtube.com/watch?v=xW6-ine5L08) | 04.04.2013 | 2 |
 | ![16 бит тому назад - Commodore PET и VIC-20](https://img.youtube.com/vi/IbGArD7H6bw/default.jpg) | [16 бит тому назад - Commodore PET и VIC-20](https://www.youtube.com/watch?v=IbGArD7H6bw) | 28.03.2013 | 2 |
 | ![16 бит тому назад - История TurboGrafx-16/PC-Engine](https://img.youtube.com/vi/xUEwY2r8OLc/default.jpg) | [16 бит тому назад - История TurboGrafx-16/PC-Engine](https://www.youtube.com/watch?v=xUEwY2r8OLc) | 21.03.2013 | 4 |
 | ![16 бит тому назад - Super Nintendo и её друзья](https://img.youtube.com/vi/aNHMQP8EwiU/default.jpg) | [16 бит тому назад - Super Nintendo и её друзья](https://www.youtube.com/watch?v=aNHMQP8EwiU) | 14.03.2013 | 3 |
@@ -211,14 +222,14 @@
 | ![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | ![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | ![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1116** |
+| **ИТОГО** |  |  | **1141** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzI3LCAyMCwgNDAsIDIyMiwgMTY2LCA5MywgMTY4LCAxODUsIDE3MiwgMjNdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDIsIDQsIDgsIDgsIDEzLCA4LCAxMiwgOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzI3LCA0MCwgNDAsIDIyMiwgMTY2LCA5MywgMTY4LCAxODUsIDE3MiwgMjhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDIsIDQsIDgsIDgsIDEzLCA4LCAxMiwgN10sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
 | 2012 | 30 | 27 | 0.9 |
-| 2013 | 11 | 20 | 1.82 |
+| 2013 | 21 | 40 | 1.9 |
 | 2015 | 22 | 40 | 1.82 |
 | 2016 | 60 | 222 | 3.7 |
 | 2017 | 20 | 166 | 8.3 |
@@ -226,5 +237,5 @@
 | 2019 | 13 | 168 | 12.92 |
 | 2020 | 23 | 185 | 8.04 |
 | 2021 | 14 | 172 | 12.29 |
-| 2022 | 3 | 23 | 7.67 |
+| 2022 | 4 | 28 | 7.0 |
 
