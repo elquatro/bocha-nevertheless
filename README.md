@@ -1,9 +1,11 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1141-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1188-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| ![Эльбрус-2с3 [Часть 3. Играем и ставим Windows]](https://img.youtube.com/vi/mZ2yZ-Ya57w/default.jpg) | [Эльбрус-2с3 [Часть 3. Играем и ставим Windows]](https://www.youtube.com/watch?v=mZ2yZ-Ya57w) | 20.04.2022 | 22 |
+| ![Эльбрус-2с3 [Часть 2. Настраиваем и играем]](https://img.youtube.com/vi/eKOSPrDCRZM/default.jpg) | [Эльбрус-2с3 [Часть 2. Настраиваем и играем]](https://www.youtube.com/watch?v=eKOSPrDCRZM) | 12.04.2022 | 25 |
 | ![Эльбрус-2с3 [Часть 1. Распаковка и разборка]](https://img.youtube.com/vi/tlKhvsMsqq0/default.jpg) | [Эльбрус-2с3 [Часть 1. Распаковка и разборка]](https://www.youtube.com/watch?v=tlKhvsMsqq0) | 19.03.2022 | 5 |
 | ![Крутые WADы Doom-а: Hellbound](https://img.youtube.com/vi/lkFoQx4Or9s/default.jpg) | [Крутые WADы Doom-а: Hellbound](https://www.youtube.com/watch?v=lkFoQx4Or9s) | 30.01.2022 | 7 |
 | ![Кремниевые Титаны #36: Sony](https://img.youtube.com/vi/uPtHZIYiru0/default.jpg) | [Кремниевые Титаны #36: Sony](https://www.youtube.com/watch?v=uPtHZIYiru0) | 28.01.2022 | 4 |
@@ -222,9 +224,9 @@
 | ![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | ![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | ![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1141** |
+| **ИТОГО** |  |  | **1188** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzI3LCA0MCwgNDAsIDIyMiwgMTY2LCA5MywgMTY4LCAxODUsIDE3MiwgMjhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDIsIDQsIDgsIDgsIDEzLCA4LCAxMiwgN10sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzI3LCA0MCwgNDAsIDIyMiwgMTY2LCA5MywgMTY4LCAxODUsIDE3MiwgNzVdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDIsIDQsIDgsIDgsIDEzLCA4LCAxMiwgMTJdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
@@ -237,5 +239,5 @@
 | 2019 | 13 | 168 | 12.92 |
 | 2020 | 23 | 185 | 8.04 |
 | 2021 | 14 | 172 | 12.29 |
-| 2022 | 4 | 28 | 7.0 |
+| 2022 | 6 | 75 | 12.5 |
 
