@@ -1,9 +1,10 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1199-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1235-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| ![Музей ретрокомпьютеров в Технопарке](https://img.youtube.com/vi/GKNPC22esks/default.jpg) | [Музей ретрокомпьютеров в Технопарке](https://www.youtube.com/watch?v=GKNPC22esks) | 22.05.2022 | 2 |
 | ![Делаем Steam Deck из обычного ПК](https://img.youtube.com/vi/Xfc0Fl7GsfU/default.jpg) | [Делаем Steam Deck из обычного ПК](https://www.youtube.com/watch?v=Xfc0Fl7GsfU) | 05.05.2022 | 11 |
 | ![Эльбрус-2с3 [Часть 3. Играем и ставим Windows]](https://img.youtube.com/vi/mZ2yZ-Ya57w/default.jpg) | [Эльбрус-2с3 [Часть 3. Играем и ставим Windows]](https://www.youtube.com/watch?v=mZ2yZ-Ya57w) | 20.04.2022 | 22 |
 | ![Эльбрус-2с3 [Часть 2. Настраиваем и играем]](https://img.youtube.com/vi/eKOSPrDCRZM/default.jpg) | [Эльбрус-2с3 [Часть 2. Настраиваем и играем]](https://www.youtube.com/watch?v=eKOSPrDCRZM) | 12.04.2022 | 25 |
@@ -74,6 +75,8 @@
 | ![Кремниевые Титаны #12: 3Dfx [Часть 1]](https://img.youtube.com/vi/qm5qCqk8X-g/default.jpg) | [Кремниевые Титаны #12: 3Dfx [Часть 1]](https://www.youtube.com/watch?v=qm5qCqk8X-g) | 01.03.2018 | 0 |
 | ![Вместо новогодних передач на ТВ - 2018](https://img.youtube.com/vi/8OhhyBLoJI4/default.jpg) | [Вместо новогодних передач на ТВ - 2018](https://www.youtube.com/watch?v=8OhhyBLoJI4) | 31.12.2017 | 96 |
 | ![Кремниевые Титаны #11: Sinclair Research](https://img.youtube.com/vi/OkiqCVRmO4Y/default.jpg) | [Кремниевые Титаны #11: Sinclair Research](https://www.youtube.com/watch?v=OkiqCVRmO4Y) | 07.12.2017 | 1 |
+| ![Практика по Texas Instruments 99/4A](https://img.youtube.com/vi/QP5zhDMECEM/default.jpg) | [Практика по Texas Instruments 99/4A](https://www.youtube.com/watch?v=QP5zhDMECEM) | 20.11.2017 | 20 |
+| ![Играем на Philips CDi (практика к Титанам №10)](https://img.youtube.com/vi/tooz7w56cvM/default.jpg) | [Играем на Philips CDi (практика к Титанам №10)](https://www.youtube.com/watch?v=tooz7w56cvM) | 10.11.2017 | 14 |
 | ![Кремниевые Титаны #10: Philips CDi](https://img.youtube.com/vi/cK-d3qb2SZI/default.jpg) | [Кремниевые Титаны #10: Philips CDi](https://www.youtube.com/watch?v=cK-d3qb2SZI) | 31.10.2017 | 0 |
 | ![Кремниевые титаны #9: Эволюция основных накопителей](https://img.youtube.com/vi/00761SMNoqM/default.jpg) | [Кремниевые титаны #9: Эволюция основных накопителей](https://www.youtube.com/watch?v=00761SMNoqM) | 07.10.2017 | 3 |
 | ![Кремниевые Титаны #8: Texas Instruments](https://img.youtube.com/vi/DneDeNHxvUY/default.jpg) | [Кремниевые Титаны #8: Texas Instruments](https://www.youtube.com/watch?v=DneDeNHxvUY) | 21.09.2017 | 3 |
@@ -225,9 +228,9 @@
 | ![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | ![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | ![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1199** |
+| **ИТОГО** |  |  | **1235** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzI3LCA0MCwgNDAsIDIyMiwgMTY2LCA5MywgMTY4LCAxODUsIDE3MiwgODZdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDIsIDQsIDgsIDgsIDEzLCA4LCAxMiwgMTJdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzI3LCA0MCwgNDAsIDIyMiwgMjAwLCA5MywgMTY4LCAxODUsIDE3MiwgODhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDIsIDQsIDksIDgsIDEzLCA4LCAxMiwgMTFdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
@@ -235,10 +238,10 @@
 | 2013 | 21 | 40 | 1.9 |
 | 2015 | 22 | 40 | 1.82 |
 | 2016 | 60 | 222 | 3.7 |
-| 2017 | 20 | 166 | 8.3 |
+| 2017 | 22 | 200 | 9.09 |
 | 2018 | 11 | 93 | 8.45 |
 | 2019 | 13 | 168 | 12.92 |
 | 2020 | 23 | 185 | 8.04 |
 | 2021 | 14 | 172 | 12.29 |
-| 2022 | 7 | 86 | 12.29 |
+| 2022 | 8 | 88 | 11.0 |
 
