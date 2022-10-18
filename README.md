@@ -1,14 +1,22 @@
-Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"`
+Сколько раз Дмитрий Бачило произнес фразу `"тем не менее" (Есть определенное утверждение, однако, не смотря на него, бла-бла-бла)`
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1235-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1307-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| ![Еще про Zhaoxin и Unchartevice 6640MA](https://img.youtube.com/vi/JYyTTPN_km8/default.jpg) | [Еще про Zhaoxin и Unchartevice 6640MA](https://www.youtube.com/watch?v=JYyTTPN_km8) | 08.10.2022 | 12 |
+| ![Zhaoxin: китайский x86 процессор](https://img.youtube.com/vi/Cn8Xuj_ifYU/default.jpg) | [Zhaoxin: китайский x86 процессор](https://www.youtube.com/watch?v=Cn8Xuj_ifYU) | 06.10.2022 | 19 |
+| ![Кремниевые Титаны #40: Qualcomm](https://img.youtube.com/vi/Beg66LL-8go/default.jpg) | [Кремниевые Титаны #40: Qualcomm](https://www.youtube.com/watch?v=Beg66LL-8go) | 22.09.2022 | 0 |
+| ![Кремниевые Титаны #39: Intel Optane](https://img.youtube.com/vi/ySO1nxf0MQw/default.jpg) | [Кремниевые Титаны #39: Intel Optane](https://www.youtube.com/watch?v=ySO1nxf0MQw) | 15.09.2022 | 0 |
+| ![Compaq LTE 5000 - ноут или десктоп?](https://img.youtube.com/vi/tUdUCHrttkc/default.jpg) | [Compaq LTE 5000 - ноут или десктоп?](https://www.youtube.com/watch?v=tUdUCHrttkc) | 12.09.2022 | 26 |
+| ![Кремниевые Титаны #38: Cisco](https://img.youtube.com/vi/0ihePADgztE/default.jpg) | [Кремниевые Титаны #38: Cisco](https://www.youtube.com/watch?v=0ihePADgztE) | 08.09.2022 | 0 |
+| ![ОСнова. Тест российского Линукса.](https://img.youtube.com/vi/BlN0J2XjDK4/default.jpg) | [ОСнова. Тест российского Линукса.](https://www.youtube.com/watch?v=BlN0J2XjDK4) | 17.08.2022 | 14 |
 | ![Музей ретрокомпьютеров в Технопарке](https://img.youtube.com/vi/GKNPC22esks/default.jpg) | [Музей ретрокомпьютеров в Технопарке](https://www.youtube.com/watch?v=GKNPC22esks) | 22.05.2022 | 2 |
 | ![Делаем Steam Deck из обычного ПК](https://img.youtube.com/vi/Xfc0Fl7GsfU/default.jpg) | [Делаем Steam Deck из обычного ПК](https://www.youtube.com/watch?v=Xfc0Fl7GsfU) | 05.05.2022 | 11 |
 | ![Эльбрус-2с3 [Часть 3. Играем и ставим Windows]](https://img.youtube.com/vi/mZ2yZ-Ya57w/default.jpg) | [Эльбрус-2с3 [Часть 3. Играем и ставим Windows]](https://www.youtube.com/watch?v=mZ2yZ-Ya57w) | 20.04.2022 | 22 |
 | ![Эльбрус-2с3 [Часть 2. Настраиваем и играем]](https://img.youtube.com/vi/eKOSPrDCRZM/default.jpg) | [Эльбрус-2с3 [Часть 2. Настраиваем и играем]](https://www.youtube.com/watch?v=eKOSPrDCRZM) | 12.04.2022 | 25 |
 | ![Эльбрус-2с3 [Часть 1. Распаковка и разборка]](https://img.youtube.com/vi/tlKhvsMsqq0/default.jpg) | [Эльбрус-2с3 [Часть 1. Распаковка и разборка]](https://www.youtube.com/watch?v=tlKhvsMsqq0) | 19.03.2022 | 5 |
+| ![Кремниевые Титаны #37: Chasm: The Rift engine](https://img.youtube.com/vi/onkJkQmju3I/default.jpg) | [Кремниевые Титаны #37: Chasm: The Rift engine](https://www.youtube.com/watch?v=onkJkQmju3I) | 25.02.2022 | 1 |
 | ![Крутые WADы Doom-а: Hellbound](https://img.youtube.com/vi/lkFoQx4Or9s/default.jpg) | [Крутые WADы Doom-а: Hellbound](https://www.youtube.com/watch?v=lkFoQx4Or9s) | 30.01.2022 | 7 |
 | ![Кремниевые Титаны #36: Sony](https://img.youtube.com/vi/uPtHZIYiru0/default.jpg) | [Кремниевые Титаны #36: Sony](https://www.youtube.com/watch?v=uPtHZIYiru0) | 28.01.2022 | 4 |
 | ![Крутые WADы Doom-а: Hellfire](https://img.youtube.com/vi/pN3sygoQ0xI/default.jpg) | [Крутые WADы Doom-а: Hellfire](https://www.youtube.com/watch?v=pN3sygoQ0xI) | 23.01.2022 | 12 |
@@ -228,9 +236,9 @@
 | ![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | ![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | ![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1235** |
+| **ИТОГО** |  |  | **1307** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzI3LCA0MCwgNDAsIDIyMiwgMjAwLCA5MywgMTY4LCAxODUsIDE3MiwgODhdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDIsIDQsIDksIDgsIDEzLCA4LCAxMiwgMTFdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIl0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzI3LCA0MCwgNDAsIDIyMiwgMjAwLCA5MywgMTY4LCAxODUsIDE3MiwgMTYwXSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDEwXSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX1dfX0=&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
@@ -243,5 +251,5 @@
 | 2019 | 13 | 168 | 12.92 |
 | 2020 | 23 | 185 | 8.04 |
 | 2021 | 14 | 172 | 12.29 |
-| 2022 | 8 | 88 | 11.0 |
+| 2022 | 16 | 160 | 10.0 |
 
