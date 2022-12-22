@@ -11,17 +11,17 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: Set up Python 3.9
+      - name: Set up Python 3.11
         uses: actions/setup-python@v2
         with:
-          python-version: 3.9
+          python-version: 3.11
 
       - name: Make README.md
         run: |
           python3 make-readme.py
           mkdir public
           cp README.md ./public
-        
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
