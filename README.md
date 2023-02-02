@@ -1,9 +1,11 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"` (Есть определенное утверждение, однако, не смотря на него, бла-бла-бла)
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1346-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1351-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| ![Vlog компьютерного музея #04](https://img.youtube.com/vi/N1CooYLG3uo/default.jpg) | [Vlog компьютерного музея #04](https://www.youtube.com/watch?v=N1CooYLG3uo) | 01.02.2023 | 4 |
+| ![Кремниевые Титаны #42: Zyxel](https://img.youtube.com/vi/R0HvijCb4sI/default.jpg) | [Кремниевые Титаны #42: Zyxel](https://www.youtube.com/watch?v=R0HvijCb4sI) | 25.01.2023 | 1 |
 | ![Vlog компьютерного музея #03](https://img.youtube.com/vi/ebutgySioOo/default.jpg) | [Vlog компьютерного музея #03](https://www.youtube.com/watch?v=ebutgySioOo) | 09.01.2023 | 2 |
 | ![Вместо новогодних передач на ТВ - 2023](https://img.youtube.com/vi/pXtAMbK4IoY/default.jpg) | [Вместо новогодних передач на ТВ - 2023](https://www.youtube.com/watch?v=pXtAMbK4IoY) | 31.12.2022 | 14 |
 | ![Vlog компьютерного музея #02](https://img.youtube.com/vi/QmVkk9DuEoA/default.jpg) | [Vlog компьютерного музея #02](https://www.youtube.com/watch?v=QmVkk9DuEoA) | 20.12.2022 | 3 |
@@ -242,9 +244,9 @@
 | ![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | ![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | ![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1346** |
+| **ИТОГО** |  |  | **1351** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMDAsIDkzLCAxNjgsIDE4NSwgMTcyLCAxOTcsIDJdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDIsIDQsIDksIDgsIDEzLCA4LCAxMiwgOSwgMl0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMDAsIDkzLCAxNjgsIDE4NSwgMTcyLCAxOTcsIDddLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDIsIDQsIDksIDgsIDEzLCA4LCAxMiwgOSwgMl0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
@@ -258,5 +260,5 @@
 | 2020 | 23 | 185 | 8.04 |
 | 2021 | 14 | 172 | 12.29 |
 | 2022 | 21 | 197 | 9.38 |
-| 2023 | 1 | 2 | 2.0 |
+| 2023 | 3 | 7 | 2.33 |
 
