@@ -9,6 +9,7 @@ import json
 import base64
 
 ENCODING = 'utf8'
+DATE_FORMAT = '%d.%m.%Y'
 
 
 def main():
@@ -40,7 +41,7 @@ def main():
         pic = pic_tpl.substitute(
             title=md_escape(row[0]), pic_link=get_img_link(get_id_from_link(row[2])))
         total += int(row[3])
-        year = datetime.strptime(row[1], '%d.%m.%Y').year
+        year = datetime.strptime(row[1], DATE_FORMAT).year
         data[year].append(int(row[3]))
         lines.append(row_tpl.substitute(
             title=title, date=row[1], count=row[3], pic=pic))
@@ -126,7 +127,7 @@ def get_chart(values, averages, labels):
 def sort_by_date(count):
     return sorted(
         count,
-        key=lambda x: datetime.strptime(x[1], '%d.%m.%Y'),
+        key=lambda x: datetime.strptime(x[1], DATE_FORMAT),
         reverse=True)
 
 
