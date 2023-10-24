@@ -1,9 +1,16 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"` (Есть определенное утверждение, однако, не смотря на него, бла-бла-бла)
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1380-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1406-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| ![Vlog компьютерного музея #08 - Поездка в Unigine](https://img.youtube.com/vi/6xcubMACt_o/default.jpg) | [Vlog компьютерного музея #08 - Поездка в Unigine](https://www.youtube.com/watch?v=6xcubMACt_o) | 18.10.2023 | 4 |
+| ![Кремниевые Титаны #44: Агат](https://img.youtube.com/vi/brO5QOTxBbE/default.jpg) | [Кремниевые Титаны #44: Агат](https://www.youtube.com/watch?v=brO5QOTxBbE) | 13.10.2023 | 0 |
+| ![Vlog компьютерного музея #07 - расписание и адская дичь](https://img.youtube.com/vi/U0BT-JEQL6g/default.jpg) | [Vlog компьютерного музея #07 - расписание и адская дичь](https://www.youtube.com/watch?v=U0BT-JEQL6g) | 27.07.2023 | 7 |
+| ![RepkaPi. Наш ответ Малинке )](https://img.youtube.com/vi/lINlezXtaNc/default.jpg) | [RepkaPi. Наш ответ Малинке )](https://www.youtube.com/watch?v=lINlezXtaNc) | 30.06.2023 | 5 |
+| ![Советская игровая консоль Видеоспорт](https://img.youtube.com/vi/IKQlPV19J6o/default.jpg) | [Советская игровая консоль Видеоспорт](https://www.youtube.com/watch?v=IKQlPV19J6o) | 16.06.2023 | 4 |
+| ![Кремниевые Титаны #43: Acorn](https://img.youtube.com/vi/VGf0_tQCx6Q/default.jpg) | [Кремниевые Титаны #43: Acorn](https://www.youtube.com/watch?v=VGf0_tQCx6Q) | 07.05.2023 | 2 |
+| ![Эльбрус V7 и V8 в разработке. Теперь я видел всё.](https://img.youtube.com/vi/O2VcGGbualY/default.jpg) | [Эльбрус V7 и V8 в разработке. Теперь я видел всё.](https://www.youtube.com/watch?v=O2VcGGbualY) | 07.04.2023 | 4 |
 | ![Ray Tracing на Эльбрусе](https://img.youtube.com/vi/MtKLC5DNh-8/default.jpg) | [Ray Tracing на Эльбрусе](https://www.youtube.com/watch?v=MtKLC5DNh-8) | 20.03.2023 | 3 |
 | ![Vlog компьютерного музея #06 - Посылочки и апгрейд](https://img.youtube.com/vi/5zHL3qBx1TY/default.jpg) | [Vlog компьютерного музея #06 - Посылочки и апгрейд](https://www.youtube.com/watch?v=5zHL3qBx1TY) | 17.03.2023 | 1 |
 | ![...или Эльбрус - не тупик? Интервью с И. Голосовым (УниПРО)](https://img.youtube.com/vi/Sw7BzjSmuqg/default.jpg) | [...или Эльбрус - не тупик? Интервью с И. Голосовым (УниПРО)](https://www.youtube.com/watch?v=Sw7BzjSmuqg) | 14.03.2023 | 4 |
@@ -251,9 +258,9 @@
 | ![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | ![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | ![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1380** |
+| **ИТОГО** |  |  | **1406** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMDAsIDkzLCAxNjgsIDE4NSwgMTcyLCAxOTcsIDM2XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDksIDRdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMDAsIDkzLCAxNjgsIDE4NSwgMTcyLCAxOTcsIDYyXSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDksIDRdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
 
 | Год | Видео | Тем не менее | Среднее |
 | ---:| -----:| ------------:| -------:|
@@ -267,5 +274,5 @@
 | 2020 | 23 | 185 | 8.04 |
 | 2021 | 14 | 172 | 12.29 |
 | 2022 | 21 | 197 | 9.38 |
-| 2023 | 10 | 36 | 3.6 |
+| 2023 | 17 | 62 | 3.65 |
 
