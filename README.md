@@ -1,9 +1,13 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"` (Есть определенное утверждение, однако, не смотря на него, бла-бла-бла)
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1440-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1462-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| ![Тестируем Gravis Ultrasound... ну почти.](https://img.youtube.com/vi/GN0wRY7tCpk/default.jpg) | [Тестируем Gravis Ultrasound... ну почти.](https://www.youtube.com/watch?v=GN0wRY7tCpk) | 03.05.2024 | 7 |
+| ![Прошиваем XBox360 через Raspberry Pi](https://img.youtube.com/vi/6CV0D9OO4EE/default.jpg) | [Прошиваем XBox360 через Raspberry Pi](https://www.youtube.com/watch?v=6CV0D9OO4EE) | 14.04.2024 | 6 |
+| ![Внезапный прямой телеэфир из Музея](https://img.youtube.com/vi/a0UGNwlKI-U/default.jpg) | [Внезапный прямой телеэфир из Музея](https://www.youtube.com/watch?v=a0UGNwlKI-U) | 10.04.2024 | 1 |
+| ![Стоит ли брать планшет на Авроре?](https://img.youtube.com/vi/AmeNhyoU7T8/default.jpg) | [Стоит ли брать планшет на Авроре?](https://www.youtube.com/watch?v=AmeNhyoU7T8) | 06.04.2024 | 8 |
 | ![Вместо новогодних передач на ТВ - 2024](https://img.youtube.com/vi/ZKuJgLrnXHk/default.jpg) | [Вместо новогодних передач на ТВ - 2024](https://www.youtube.com/watch?v=ZKuJgLrnXHk) | 31.12.2023 | 11 |
 | ![Кремниевые Титаны #45: Hewlett-Packard](https://img.youtube.com/vi/j7X2_ahYiDE/default.jpg) | [Кремниевые Титаны #45: Hewlett-Packard](https://www.youtube.com/watch?v=j7X2_ahYiDE) | 30.12.2023 | 2 |
 | ![Чипируем музейный Gamecube с гидом Андреем](https://img.youtube.com/vi/k64ML7980So/default.jpg) | [Чипируем музейный Gamecube с гидом Андреем](https://www.youtube.com/watch?v=k64ML7980So) | 12.12.2023 | 9 |
@@ -263,21 +267,22 @@
 | ![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | ![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | ![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1440** |
+| **ИТОГО** |  |  | **1462** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMDAsIDkzLCAxNjgsIDE4NSwgMTcyLCAxOTcsIDk2XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDksIDRdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCJdLCAiZGF0YXNldHMiOiBbeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDNcdTA0M2NcdTA0M2NcdTA0MzAiLCAiYmFja2dyb3VuZENvbG9yIjogInJlZCIsICJib3JkZXJDb2xvciI6ICJyZWQiLCAiZGF0YSI6IFsyNywgNDAsIDQwLCAyMjIsIDIwMCwgOTMsIDE2OCwgMTg1LCAxNzIsIDE5NywgOTYsIDIyXSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDksIDQsIDZdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
 
-| Год | Видео | Тем не менее | Среднее |
-| ---:| -----:| ------------:| -------:|
-| 2012 | 30 | 27 | 0.9 |
-| 2013 | 21 | 40 | 1.9 |
-| 2015 | 22 | 40 | 1.82 |
-| 2016 | 60 | 222 | 3.7 |
-| 2017 | 22 | 200 | 9.09 |
-| 2018 | 11 | 93 | 8.45 |
-| 2019 | 13 | 168 | 12.92 |
-| 2020 | 23 | 185 | 8.04 |
-| 2021 | 14 | 172 | 12.29 |
-| 2022 | 21 | 197 | 9.38 |
-| 2023 | 22 | 96 | 4.36 |
-
+```
+ Год       Видео        Тем не менее        Среднее
+2012          30                  27           0.90
+2013          21                  40           1.90
+2015          22                  40           1.82
+2016          60                 222           3.70
+2017          22                 200           9.09
+2018          11                  93           8.45
+2019          13                 168          12.92
+2020          23                 185           8.04
+2021          14                 172          12.29
+2022          21                 197           9.38
+2023          22                  96           4.36
+2024           4                  22           5.50
+```
