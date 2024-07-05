@@ -47,17 +47,25 @@ def main():
 
     lines.append(row_tpl.substitute(
         title='', date='', count=f'**{total}**', pic='**ИТОГО**'))
+    
+    years = data.keys()
 
-    labels = list(map(lambda x: str(x), reversed(list(data.keys()))))
+    labels = list(map(lambda x: str(x), reversed(list(years))))
     values = list(map(lambda x: sum(data[int(x)]), labels))
     averages = list(map(lambda x: average(data[int(x)]), labels))
 
+    max_year = max(years)
+    min_year = min(years)
+
 
     years_data_lines = []
-    for year in reversed(data.keys()):
+    for year in range(min_year, max_year + 1):
         video_count = len(data[year])
         count = sum(data[year])
-        year_average = count / video_count
+        if (count==0):
+            year_average = 0
+        else:
+            year_average = count / video_count
         years_data_lines.append('%d % 11d % 19d % 14.2f' % (year, video_count, count, year_average))
 
     years_data = '\n'.join(years_data_lines)
