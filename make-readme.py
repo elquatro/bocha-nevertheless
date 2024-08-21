@@ -18,9 +18,7 @@ def main():
     rows = []
     with open("data.csv", newline="", encoding=ENCODING) as fd:
         reader = csv.reader(fd)
-        for i, row in enumerate(reader):
-            if i == 0:
-                continue
+        for row in enumerate(reader):
             rows.append(row)
 
     rows = sort_by_date(rows)
@@ -50,7 +48,8 @@ def main():
         )
 
     lines.append(
-        row_tpl.substitute(title="", date="", count=f"**{total}**", pic="**ИТОГО**")
+        row_tpl.substitute(title="", date="",
+                           count=f"**{total}**", pic="**ИТОГО**")
     )
 
     years = data.keys()
@@ -140,7 +139,8 @@ def get_chart(values, averages, labels):
         },
     }
 
-    base64_chart = str(base64.b64encode(bytes(json.dumps(chart), "utf-8")), "utf-8")
+    base64_chart = str(base64.b64encode(
+        bytes(json.dumps(chart), "utf-8")), "utf-8")
 
     ch = f"https://quickchart.io/chart?c={base64_chart}&devicePixelRatio=1&encoding=base64"
 
