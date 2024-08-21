@@ -4,6 +4,8 @@
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| [![Кремниевые титаны #46: Apple Lisa](https://img.youtube.com/vi/5JnajOoag1k/default.jpg)](https://www.youtube.com/watch?v=5JnajOoag1k) | [Кремниевые титаны #46: Apple Lisa](https://www.youtube.com/watch?v=5JnajOoag1k) | 18.08.2024 | 0 |
+| [![Началась трансляция со Дня Рождения Музея](https://img.youtube.com/vi/euFBjuhjRKU/default.jpg)](https://www.youtube.com/watch?v=euFBjuhjRKU) | [Началась трансляция со Дня Рождения Музея](https://www.youtube.com/watch?v=euFBjuhjRKU) | 17.08.2024 | 0 |
 | [![Новодельный ноутбук Pocket386](https://img.youtube.com/vi/bgj-LdE3DB4/default.jpg)](https://www.youtube.com/watch?v=bgj-LdE3DB4) | [Новодельный ноутбук Pocket386](https://www.youtube.com/watch?v=bgj-LdE3DB4) | 25.07.2024 | 8 |
 | [![PA-RISC рабочая станция HP Visualize](https://img.youtube.com/vi/bnG4fepjSGI/default.jpg)](https://www.youtube.com/watch?v=bnG4fepjSGI) | [PA-RISC рабочая станция HP Visualize](https://www.youtube.com/watch?v=bnG4fepjSGI) | 04.07.2024 | 10 |
 | [![Мультиплеер на Sega Megadrive](https://img.youtube.com/vi/w7h0uTDiexA/default.jpg)](https://www.youtube.com/watch?v=w7h0uTDiexA) | [Мультиплеер на Sega Megadrive](https://www.youtube.com/watch?v=w7h0uTDiexA) | 17.05.2024 | 4 |
@@ -272,7 +274,7 @@
 | [![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg)](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
 | **ИТОГО** |  |  | **1484** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCJdLCAiZGF0YXNldHMiOiBbeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDNcdTA0M2NcdTA0M2NcdTA0MzAiLCAiYmFja2dyb3VuZENvbG9yIjogInJlZCIsICJib3JkZXJDb2xvciI6ICJyZWQiLCAiZGF0YSI6IFsyNywgNDAsIDQwLCAyMjIsIDIwMCwgOTMsIDE2OCwgMTg1LCAxNzIsIDE5NywgOTYsIDQ0XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDksIDQsIDZdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCJdLCAiZGF0YXNldHMiOiBbeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDNcdTA0M2NcdTA0M2NcdTA0MzAiLCAiYmFja2dyb3VuZENvbG9yIjogInJlZCIsICJib3JkZXJDb2xvciI6ICJyZWQiLCAiZGF0YSI6IFsyNywgNDAsIDQwLCAyMjIsIDIwMCwgOTMsIDE2OCwgMTg1LCAxNzIsIDE5NywgOTYsIDQ0XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDksIDQsIDVdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
 
 ```
 ===================================================
@@ -290,6 +292,6 @@
 2021          14                 172          12.29
 2022          21                 197           9.38
 2023          22                  96           4.36
-2024           7                  44           6.29
+2024           9                  44           4.89
 ===================================================
 ```
