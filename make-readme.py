@@ -18,7 +18,7 @@ def main():
     rows = []
     with open("data.csv", newline="", encoding=ENCODING) as fd:
         reader = csv.reader(fd)
-        for row in enumerate(reader):
+        for row in reader:
             rows.append(row)
 
     rows = sort_by_date(rows)
