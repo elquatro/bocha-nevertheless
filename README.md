@@ -1,9 +1,11 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"` (Есть определенное утверждение, однако, не смотря на него, бла-бла-бла)
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1484-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1496-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| [![Pocket386 часть 2я: ISA.](https://img.youtube.com/vi/JEycTveOSVU/default.jpg)](https://www.youtube.com/watch?v=JEycTveOSVU) | [Pocket386 часть 2я: ISA.](https://www.youtube.com/watch?v=JEycTveOSVU) | 11.10.2024 | 11 |
+| [![Vlog компьютерного музея #10 - День рождения. 1,5 года.](https://img.youtube.com/vi/p-euH4u_b-c/default.jpg)](https://www.youtube.com/watch?v=p-euH4u_b-c) | [Vlog компьютерного музея #10 - День рождения. 1,5 года.](https://www.youtube.com/watch?v=p-euH4u_b-c) | 06.09.2024 | 1 |
 | [![Кремниевые титаны #46: Apple Lisa](https://img.youtube.com/vi/5JnajOoag1k/default.jpg)](https://www.youtube.com/watch?v=5JnajOoag1k) | [Кремниевые титаны #46: Apple Lisa](https://www.youtube.com/watch?v=5JnajOoag1k) | 18.08.2024 | 0 |
 | [![Началась трансляция со Дня Рождения Музея](https://img.youtube.com/vi/euFBjuhjRKU/default.jpg)](https://www.youtube.com/watch?v=euFBjuhjRKU) | [Началась трансляция со Дня Рождения Музея](https://www.youtube.com/watch?v=euFBjuhjRKU) | 17.08.2024 | 0 |
 | [![Новодельный ноутбук Pocket386](https://img.youtube.com/vi/bgj-LdE3DB4/default.jpg)](https://www.youtube.com/watch?v=bgj-LdE3DB4) | [Новодельный ноутбук Pocket386](https://www.youtube.com/watch?v=bgj-LdE3DB4) | 25.07.2024 | 8 |
@@ -272,9 +274,9 @@
 | [![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg)](https://www.youtube.com/watch?v=LNDIG8RcTQM) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | [![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg)](https://www.youtube.com/watch?v=_K0tYmuqZLk) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | [![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg)](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1484** |
+| **ИТОГО** |  |  | **1496** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCJdLCAiZGF0YXNldHMiOiBbeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDNcdTA0M2NcdTA0M2NcdTA0MzAiLCAiYmFja2dyb3VuZENvbG9yIjogInJlZCIsICJib3JkZXJDb2xvciI6ICJyZWQiLCAiZGF0YSI6IFsyNywgNDAsIDQwLCAyMjIsIDIwMCwgOTMsIDE2OCwgMTg1LCAxNzIsIDE5NywgOTYsIDQ0XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDksIDQsIDVdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCJdLCAiZGF0YXNldHMiOiBbeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDNcdTA0M2NcdTA0M2NcdTA0MzAiLCAiYmFja2dyb3VuZENvbG9yIjogInJlZCIsICJib3JkZXJDb2xvciI6ICJyZWQiLCAiZGF0YSI6IFsyNywgNDAsIDQwLCAyMjIsIDIwMCwgOTMsIDE2OCwgMTg1LCAxNzIsIDE5NywgOTYsIDU2XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDksIDQsIDVdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
 
 ```
 ===================================================
@@ -292,6 +294,6 @@
 2021          14                 172          12.29
 2022          21                 197           9.38
 2023          22                  96           4.36
-2024           9                  44           4.89
+2024          11                  56           5.09
 ===================================================
 ```
