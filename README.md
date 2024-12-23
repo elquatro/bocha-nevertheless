@@ -4,6 +4,7 @@
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| [![Запускаем Doom на NES](https://img.youtube.com/vi/BiFuLVgcuNc/default.jpg)](https://www.youtube.com/watch?v=BiFuLVgcuNc) | [Запускаем Doom на NES](https://www.youtube.com/watch?v=BiFuLVgcuNc) | 10.12.2024 | 0 |
 | [![Pocket386 часть 2я: ISA.](https://img.youtube.com/vi/JEycTveOSVU/default.jpg)](https://www.youtube.com/watch?v=JEycTveOSVU) | [Pocket386 часть 2я: ISA.](https://www.youtube.com/watch?v=JEycTveOSVU) | 11.10.2024 | 11 |
 | [![Vlog компьютерного музея #10 - День рождения. 1,5 года.](https://img.youtube.com/vi/p-euH4u_b-c/default.jpg)](https://www.youtube.com/watch?v=p-euH4u_b-c) | [Vlog компьютерного музея #10 - День рождения. 1,5 года.](https://www.youtube.com/watch?v=p-euH4u_b-c) | 06.09.2024 | 1 |
 | [![Кремниевые титаны #46: Apple Lisa](https://img.youtube.com/vi/5JnajOoag1k/default.jpg)](https://www.youtube.com/watch?v=5JnajOoag1k) | [Кремниевые титаны #46: Apple Lisa](https://www.youtube.com/watch?v=5JnajOoag1k) | 18.08.2024 | 0 |
@@ -294,6 +295,6 @@
 2021          14                 172          12.29
 2022          21                 197           9.38
 2023          22                  96           4.36
-2024          11                  56           5.09
+2024          12                  56           4.67
 ===================================================
 ```
