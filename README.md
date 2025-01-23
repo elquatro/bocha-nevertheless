@@ -1,9 +1,10 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"` (Есть определенное утверждение, однако, не смотря на него, бла-бла-бла)
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1496-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1512-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| [![Вместо новогодних передач на ТВ - 2025](https://img.youtube.com/vi/kmDmdtZWQUA/default.jpg)](https://www.youtube.com/watch?v=kmDmdtZWQUA) | [Вместо новогодних передач на ТВ - 2025](https://www.youtube.com/watch?v=kmDmdtZWQUA) | 31.12.2024 | 16 |
 | [![Запускаем Doom на NES](https://img.youtube.com/vi/BiFuLVgcuNc/default.jpg)](https://www.youtube.com/watch?v=BiFuLVgcuNc) | [Запускаем Doom на NES](https://www.youtube.com/watch?v=BiFuLVgcuNc) | 10.12.2024 | 0 |
 | [![Pocket386 часть 2я: ISA.](https://img.youtube.com/vi/JEycTveOSVU/default.jpg)](https://www.youtube.com/watch?v=JEycTveOSVU) | [Pocket386 часть 2я: ISA.](https://www.youtube.com/watch?v=JEycTveOSVU) | 11.10.2024 | 11 |
 | [![Vlog компьютерного музея #10 - День рождения. 1,5 года.](https://img.youtube.com/vi/p-euH4u_b-c/default.jpg)](https://www.youtube.com/watch?v=p-euH4u_b-c) | [Vlog компьютерного музея #10 - День рождения. 1,5 года.](https://www.youtube.com/watch?v=p-euH4u_b-c) | 06.09.2024 | 1 |
@@ -150,18 +151,18 @@
 | [![(16 бит тому назад S03E13) VR-шлем VFX1](https://img.youtube.com/vi/Et3KPENzPYg/default.jpg)](https://www.youtube.com/watch?v=Et3KPENzPYg) | [(16 бит тому назад S03E13) VR-шлем VFX1](https://www.youtube.com/watch?v=Et3KPENzPYg) | 14.10.2016 | 3 |
 | [![Знакомство (а не обзор) с Ritmix RZX-50 [стрим]](https://img.youtube.com/vi/sFJ66R1mYDU/default.jpg)](https://www.youtube.com/watch?v=sFJ66R1mYDU) | [Знакомство (а не обзор) с Ritmix RZX-50 [стрим]](https://www.youtube.com/watch?v=sFJ66R1mYDU) | 05.10.2016 | 5 |
 | [![Roland MT-32 - Подготовка к тестам](https://img.youtube.com/vi/R5PeXjCHIu0/default.jpg)](https://www.youtube.com/watch?v=R5PeXjCHIu0) | [Roland MT-32 - Подготовка к тестам](https://www.youtube.com/watch?v=R5PeXjCHIu0) | 04.10.2016 | 3 |
-| [![Вышел iPhone 7 :-)](https://img.youtube.com/vi/51TBfl-kK2g/default.jpg)](https://www.youtube.com/watch?v=51TBfl-kK2g) | [Вышел iPhone 7 :-)](https://www.youtube.com/watch?v=51TBfl-kK2g) | 27.09.2016 | 3 |
 | [![RDP-клиент в качестве рабочего компьютера (Доклад на Дне Свободного ПО в Екатеринбурге 24.09.2016)](https://img.youtube.com/vi/Hf8yOYwPwDQ/default.jpg)](https://www.youtube.com/watch?v=Hf8yOYwPwDQ) | [RDP-клиент в качестве рабочего компьютера (Доклад на Дне Свободного ПО в Екатеринбурге 24.09.2016)](https://www.youtube.com/watch?v=Hf8yOYwPwDQ) | 27.09.2016 | 9 |
+| [![Вышел iPhone 7 :-)](https://img.youtube.com/vi/51TBfl-kK2g/default.jpg)](https://www.youtube.com/watch?v=51TBfl-kK2g) | [Вышел iPhone 7 :-)](https://www.youtube.com/watch?v=51TBfl-kK2g) | 27.09.2016 | 3 |
 | [![Ставим Windows 95 на 486](https://img.youtube.com/vi/a1RvccBDTw4/default.jpg)](https://www.youtube.com/watch?v=a1RvccBDTw4) | [Ставим Windows 95 на 486](https://www.youtube.com/watch?v=a1RvccBDTw4) | 18.09.2016 | 4 |
 | [![Делаем первый upgrade 486му.](https://img.youtube.com/vi/TlKsSu2etXY/default.jpg)](https://www.youtube.com/watch?v=TlKsSu2etXY) | [Делаем первый upgrade 486му.](https://www.youtube.com/watch?v=TlKsSu2etXY) | 15.09.2016 | 3 |
 | [![Собираем 486](https://img.youtube.com/vi/8eFUo39_ZZk/default.jpg)](https://www.youtube.com/watch?v=8eFUo39_ZZk) | [Собираем 486](https://www.youtube.com/watch?v=8eFUo39_ZZk) | 14.09.2016 | 0 |
-| [![[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://img.youtube.com/vi/uJg1pkciuqA/default.jpg)](https://www.youtube.com/watch?v=uJg1pkciuqA) | [[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://www.youtube.com/watch?v=uJg1pkciuqA) | 10.09.2016 | 0 |
 | [![[Bocha's WiiU] Donky Kong Country Tropical Freeze](https://img.youtube.com/vi/I3ir85yz5-w/default.jpg)](https://www.youtube.com/watch?v=I3ir85yz5-w) | [[Bocha's WiiU] Donky Kong Country Tropical Freeze](https://www.youtube.com/watch?v=I3ir85yz5-w) | 10.09.2016 | 0 |
 | [![[Bocha's WiiU] Ninja Gaiden 3](https://img.youtube.com/vi/UTD_dX-idiQ/default.jpg)](https://www.youtube.com/watch?v=UTD_dX-idiQ) | [[Bocha's WiiU] Ninja Gaiden 3](https://www.youtube.com/watch?v=UTD_dX-idiQ) | 10.09.2016 | 1 |
 | [![[Bocha's WiiU] Splinter Cell Blacklist](https://img.youtube.com/vi/hVk-XGZ79dU/default.jpg)](https://www.youtube.com/watch?v=hVk-XGZ79dU) | [[Bocha's WiiU] Splinter Cell Blacklist](https://www.youtube.com/watch?v=hVk-XGZ79dU) | 10.09.2016 | 0 |
+| [![[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://img.youtube.com/vi/uJg1pkciuqA/default.jpg)](https://www.youtube.com/watch?v=uJg1pkciuqA) | [[Bocha's WiiU] Установка HomeBrew Channel на WiiU](https://www.youtube.com/watch?v=uJg1pkciuqA) | 10.09.2016 | 0 |
 | [![(16 бит тому назад S03E12) Nintendo Wii U и NX](https://img.youtube.com/vi/uKyqwdTvqco/default.jpg)](https://www.youtube.com/watch?v=uKyqwdTvqco) | [(16 бит тому назад S03E12) Nintendo Wii U и NX](https://www.youtube.com/watch?v=uKyqwdTvqco) | 09.09.2016 | 1 |
-| [![Посылка и "Поиск Предметов"](https://img.youtube.com/vi/rN3txGbFZnc/default.jpg)](https://www.youtube.com/watch?v=rN3txGbFZnc) | [Посылка и "Поиск Предметов"](https://www.youtube.com/watch?v=rN3txGbFZnc) | 05.09.2016 | 0 |
 | [![Ritmix RZX-50 - первое включение](https://img.youtube.com/vi/GixlxYlLS3o/default.jpg)](https://www.youtube.com/watch?v=GixlxYlLS3o) | [Ritmix RZX-50 - первое включение](https://www.youtube.com/watch?v=GixlxYlLS3o) | 05.09.2016 | 0 |
+| [![Посылка и "Поиск Предметов"](https://img.youtube.com/vi/rN3txGbFZnc/default.jpg)](https://www.youtube.com/watch?v=rN3txGbFZnc) | [Посылка и "Поиск Предметов"](https://www.youtube.com/watch?v=rN3txGbFZnc) | 05.09.2016 | 0 |
 | [![Общаемся (ну и OpenTTD на фоне)](https://img.youtube.com/vi/WOSC2dhE4zE/default.jpg)](https://www.youtube.com/watch?v=WOSC2dhE4zE) | [Общаемся (ну и OpenTTD на фоне)](https://www.youtube.com/watch?v=WOSC2dhE4zE) | 24.08.2016 | 7 |
 | [![(16 бит тому назад S03E11) Atari Lynx](https://img.youtube.com/vi/oupFeEN4PgE/default.jpg)](https://www.youtube.com/watch?v=oupFeEN4PgE) | [(16 бит тому назад S03E11) Atari Lynx](https://www.youtube.com/watch?v=oupFeEN4PgE) | 14.08.2016 | 1 |
 | [![И снова посылки и загадки](https://img.youtube.com/vi/5wHt5n8zLr0/default.jpg)](https://www.youtube.com/watch?v=5wHt5n8zLr0) | [И снова посылки и загадки](https://www.youtube.com/watch?v=5wHt5n8zLr0) | 01.08.2016 | 2 |
@@ -204,7 +205,6 @@
 | [![(16 бит тому назад S03E04) Компьютер FM Towns и консоль Marty](https://img.youtube.com/vi/BAqVHaRtUDg/default.jpg)](https://www.youtube.com/watch?v=BAqVHaRtUDg) | [(16 бит тому назад S03E04) Компьютер FM Towns и консоль Marty](https://www.youtube.com/watch?v=BAqVHaRtUDg) | 14.01.2016 | 0 |
 | [![Вместо новогодних передач на ТВ - 2016](https://img.youtube.com/vi/IksXK70fqNE/default.jpg)](https://www.youtube.com/watch?v=IksXK70fqNE) | [Вместо новогодних передач на ТВ - 2016](https://www.youtube.com/watch?v=IksXK70fqNE) | 31.12.2015 | 19 |
 | [![(16 бит тому назад S03E03) Raspberry Pi 2](https://img.youtube.com/vi/ZgiD35JrF9g/default.jpg)](https://www.youtube.com/watch?v=ZgiD35JrF9g) | [(16 бит тому назад S03E03) Raspberry Pi 2](https://www.youtube.com/watch?v=ZgiD35JrF9g) | 12.12.2015 | 6 |
-| [![Сетевые технологии с Дмитрием Бачило: Маршрутизаторы](https://img.youtube.com/vi/gNheLMP9oNM/default.jpg)](https://www.youtube.com/watch?v=gNheLMP9oNM) | [Сетевые технологии с Дмитрием Бачило: Маршрутизаторы](https://www.youtube.com/watch?v=gNheLMP9oNM) | 12.12.2015 | 1 |
 | [![Сетевые технологии с Дмитрием Бачило: DICOM](https://img.youtube.com/vi/QIAsGYTLuzU/default.jpg)](https://www.youtube.com/watch?v=QIAsGYTLuzU) | [Сетевые технологии с Дмитрием Бачило: DICOM](https://www.youtube.com/watch?v=QIAsGYTLuzU) | 12.12.2015 | 0 |
 | [![Сетевые технологии с Дмитрием Бачило: DNS](https://img.youtube.com/vi/9FQ8cHrFMbo/default.jpg)](https://www.youtube.com/watch?v=9FQ8cHrFMbo) | [Сетевые технологии с Дмитрием Бачило: DNS](https://www.youtube.com/watch?v=9FQ8cHrFMbo) | 12.12.2015 | 1 |
 | [![Сетевые технологии с Дмитрием Бачило: E-Mail](https://img.youtube.com/vi/7ffnrKKd24o/default.jpg)](https://www.youtube.com/watch?v=7ffnrKKd24o) | [Сетевые технологии с Дмитрием Бачило: E-Mail](https://www.youtube.com/watch?v=7ffnrKKd24o) | 12.12.2015 | 1 |
@@ -213,6 +213,7 @@
 | [![Сетевые технологии с Дмитрием Бачило: Mosix](https://img.youtube.com/vi/-TqYul6LOyQ/default.jpg)](https://www.youtube.com/watch?v=-TqYul6LOyQ) | [Сетевые технологии с Дмитрием Бачило: Mosix](https://www.youtube.com/watch?v=-TqYul6LOyQ) | 12.12.2015 | 2 |
 | [![Сетевые технологии с Дмитрием Бачило: MPLS VPN](https://img.youtube.com/vi/A0U9dzgXH20/default.jpg)](https://www.youtube.com/watch?v=A0U9dzgXH20) | [Сетевые технологии с Дмитрием Бачило: MPLS VPN](https://www.youtube.com/watch?v=A0U9dzgXH20) | 12.12.2015 | 0 |
 | [![Сетевые технологии с Дмитрием Бачило: Wi-Fi](https://img.youtube.com/vi/qmsV9ExYIoY/default.jpg)](https://www.youtube.com/watch?v=qmsV9ExYIoY) | [Сетевые технологии с Дмитрием Бачило: Wi-Fi](https://www.youtube.com/watch?v=qmsV9ExYIoY) | 12.12.2015 | 3 |
+| [![Сетевые технологии с Дмитрием Бачило: Маршрутизаторы](https://img.youtube.com/vi/gNheLMP9oNM/default.jpg)](https://www.youtube.com/watch?v=gNheLMP9oNM) | [Сетевые технологии с Дмитрием Бачило: Маршрутизаторы](https://www.youtube.com/watch?v=gNheLMP9oNM) | 12.12.2015 | 1 |
 | [![Fallout 4](https://img.youtube.com/vi/XAY195NoRjM/default.jpg)](https://www.youtube.com/watch?v=XAY195NoRjM) | [Fallout 4](https://www.youtube.com/watch?v=XAY195NoRjM) | 24.10.2015 | 1 |
 | [![(16 бит тому назад S03E02) Обзор КПК Cybiko](https://img.youtube.com/vi/hTsjczsiBLc/default.jpg)](https://www.youtube.com/watch?v=hTsjczsiBLc) | [(16 бит тому назад S03E02) Обзор КПК Cybiko](https://www.youtube.com/watch?v=hTsjczsiBLc) | 13.09.2015 | 2 |
 | [![Смотр планшета Asus ZenPad 7.0 C](https://img.youtube.com/vi/XLjEUUJUZ_s/default.jpg)](https://www.youtube.com/watch?v=XLjEUUJUZ_s) | [Смотр планшета Asus ZenPad 7.0 C](https://www.youtube.com/watch?v=XLjEUUJUZ_s) | 06.09.2015 | 0 |
@@ -275,9 +276,9 @@
 | [![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg)](https://www.youtube.com/watch?v=LNDIG8RcTQM) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | [![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg)](https://www.youtube.com/watch?v=_K0tYmuqZLk) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | [![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg)](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1496** |
+| **ИТОГО** |  |  | **1512** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCJdLCAiZGF0YXNldHMiOiBbeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDNcdTA0M2NcdTA0M2NcdTA0MzAiLCAiYmFja2dyb3VuZENvbG9yIjogInJlZCIsICJib3JkZXJDb2xvciI6ICJyZWQiLCAiZGF0YSI6IFsyNywgNDAsIDQwLCAyMjIsIDIwMCwgOTMsIDE2OCwgMTg1LCAxNzIsIDE5NywgOTYsIDU2XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDksIDQsIDVdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCJdLCAiZGF0YXNldHMiOiBbeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDNcdTA0M2NcdTA0M2NcdTA0MzAiLCAiYmFja2dyb3VuZENvbG9yIjogInJlZCIsICJib3JkZXJDb2xvciI6ICJyZWQiLCAiZGF0YSI6IFsyNywgNDAsIDQwLCAyMjIsIDIwMCwgOTMsIDE2OCwgMTg1LCAxNzIsIDE5NywgOTYsIDcyXSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDksIDQsIDZdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
 
 ```
 ===================================================
@@ -295,6 +296,6 @@
 2021          14                 172          12.29
 2022          21                 197           9.38
 2023          22                  96           4.36
-2024          12                  56           4.67
+2024          13                  72           5.54
 ===================================================
 ```
