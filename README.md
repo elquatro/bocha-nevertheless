@@ -1,9 +1,10 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"` (Есть определенное утверждение, однако, не смотря на него, бла-бла-бла)
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1512-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1521-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| [![Игровая приставка ТИА на советских компонентах](https://img.youtube.com/vi/BQlFOl4LVwQ/default.jpg)](https://www.youtube.com/watch?v=BQlFOl4LVwQ) | [Игровая приставка ТИА на советских компонентах](https://www.youtube.com/watch?v=BQlFOl4LVwQ) | 26.02.2025 | 9 |
 | [![Вместо новогодних передач на ТВ - 2025](https://img.youtube.com/vi/kmDmdtZWQUA/default.jpg)](https://www.youtube.com/watch?v=kmDmdtZWQUA) | [Вместо новогодних передач на ТВ - 2025](https://www.youtube.com/watch?v=kmDmdtZWQUA) | 31.12.2024 | 16 |
 | [![Запускаем Doom на NES](https://img.youtube.com/vi/BiFuLVgcuNc/default.jpg)](https://www.youtube.com/watch?v=BiFuLVgcuNc) | [Запускаем Doom на NES](https://www.youtube.com/watch?v=BiFuLVgcuNc) | 10.12.2024 | 0 |
 | [![Pocket386 часть 2я: ISA.](https://img.youtube.com/vi/JEycTveOSVU/default.jpg)](https://www.youtube.com/watch?v=JEycTveOSVU) | [Pocket386 часть 2я: ISA.](https://www.youtube.com/watch?v=JEycTveOSVU) | 11.10.2024 | 11 |
@@ -276,9 +277,9 @@
 | [![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg)](https://www.youtube.com/watch?v=LNDIG8RcTQM) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | [![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg)](https://www.youtube.com/watch?v=_K0tYmuqZLk) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | [![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg)](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1512** |
+| **ИТОГО** |  |  | **1521** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCJdLCAiZGF0YXNldHMiOiBbeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDNcdTA0M2NcdTA0M2NcdTA0MzAiLCAiYmFja2dyb3VuZENvbG9yIjogInJlZCIsICJib3JkZXJDb2xvciI6ICJyZWQiLCAiZGF0YSI6IFsyNywgNDAsIDQwLCAyMjIsIDIwMCwgOTMsIDE2OCwgMTg1LCAxNzIsIDE5NywgOTYsIDcyXSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDksIDQsIDZdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1Il0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzI3LCA0MCwgNDAsIDIyMiwgMjAwLCA5MywgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDldLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfSwgeyJsYWJlbCI6ICJcdTA0MjFcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2RcdTA0MzVcdTA0MzUiLCAiYmFja2dyb3VuZENvbG9yIjogImJsdWUiLCAiYm9yZGVyQ29sb3IiOiAiYmx1ZSIsICJkYXRhIjogWzEsIDIsIDIsIDQsIDksIDgsIDEzLCA4LCAxMiwgOSwgNCwgNiwgOV0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9XX19&devicePixelRatio=1&encoding=base64)
 
 ```
 ===================================================
@@ -297,5 +298,6 @@
 2022          21                 197           9.38
 2023          22                  96           4.36
 2024          13                  72           5.54
+2025           1                   9           9.00
 ===================================================
 ```
