@@ -5,7 +5,7 @@
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
 | [![Виртуальный CD-ROM для 386, туса в Музее и прочее](https://img.youtube.com/vi/EF8XiM41H9E/default.jpg)](https://www.youtube.com/watch?v=EF8XiM41H9E) | [Виртуальный CD-ROM для 386, туса в Музее и прочее](https://www.youtube.com/watch?v=EF8XiM41H9E) | 28.07.2025 | 8 |
-| [![Меняем дисплей на Sega GameGear](https://img.youtube.com/vi/NxMEzBbcjCM/default.jpg)](http://youtube.com/watch?v=NxMEzBbcjCM) | [Меняем дисплей на Sega GameGear](http://youtube.com/watch?v=NxMEzBbcjCM) | 03.05.2025 | 4 |
+| [![Меняем дисплей на Sega GameGear](https://img.youtube.com/vi/NxMEzBbcjCM/default.jpg)](https://youtube.com/watch?v=NxMEzBbcjCM) | [Меняем дисплей на Sega GameGear](https://youtube.com/watch?v=NxMEzBbcjCM) | 03.05.2025 | 4 |
 | [![18 килограмм игрового железа](https://img.youtube.com/vi/l63W4EKyNrE/default.jpg)](https://www.youtube.com/watch?v=l63W4EKyNrE) | [18 килограмм игрового железа](https://www.youtube.com/watch?v=l63W4EKyNrE) | 15.04.2025 | 4 |
 | [![Игровая приставка ТИА на советских компонентах](https://img.youtube.com/vi/BQlFOl4LVwQ/default.jpg)](https://www.youtube.com/watch?v=BQlFOl4LVwQ) | [Игровая приставка ТИА на советских компонентах](https://www.youtube.com/watch?v=BQlFOl4LVwQ) | 26.02.2025 | 9 |
 | [![Вместо новогодних передач на ТВ - 2025](https://img.youtube.com/vi/kmDmdtZWQUA/default.jpg)](https://www.youtube.com/watch?v=kmDmdtZWQUA) | [Вместо новогодних передач на ТВ - 2025](https://www.youtube.com/watch?v=kmDmdtZWQUA) | 31.12.2024 | 16 |
