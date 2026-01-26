@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"` (Есть определенное утверждение, однако, не смотря на него, бла-бла-бла)
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1551-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1578-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -141,6 +141,7 @@
 | [![Оживляем ThinkPad на Pentium 2](https://img.youtube.com/vi/hvo5auh7cqU/default.jpg)](https://www.youtube.com/watch?v=hvo5auh7cqU) | [Оживляем ThinkPad на Pentium 2](https://www.youtube.com/watch?v=hvo5auh7cqU) | 16.08.2017 | 4 |
 | [![Кремниевые Титаны #7: MorphOS](https://img.youtube.com/vi/5QpQg5Sty1Y/default.jpg)](https://www.youtube.com/watch?v=5QpQg5Sty1Y) | [Кремниевые Титаны #7: MorphOS](https://www.youtube.com/watch?v=5QpQg5Sty1Y) | 10.08.2017 | 9 |
 | [![Кремниевые Титаны #6: AmigaOS](https://img.youtube.com/vi/Sl68PdHgE2M/default.jpg)](https://www.youtube.com/watch?v=Sl68PdHgE2M) | [Кремниевые Титаны #6: AmigaOS](https://www.youtube.com/watch?v=Sl68PdHgE2M) | 03.08.2017 | 2 |
+| [![32: игровые консоли, синтезатор и кассовый аппарат](https://img.youtube.com/vi/VuMLy1sGBOI/default.jpg)](https://www.youtube.com/watch?v=VuMLy1sGBOI) | [32: игровые консоли, синтезатор и кассовый аппарат](https://www.youtube.com/watch?v=VuMLy1sGBOI) | 09.06.2017 | 27 |
 | [![Кремниевые Титаны #5: Fairchild Semiconductor](https://img.youtube.com/vi/APRQ2gvc7tc/default.jpg)](https://www.youtube.com/watch?v=APRQ2gvc7tc) | [Кремниевые Титаны #5: Fairchild Semiconductor](https://www.youtube.com/watch?v=APRQ2gvc7tc) | 14.05.2017 | 0 |
 | [![Кремниевые Титаны #4. Intel: начало](https://img.youtube.com/vi/OpVyN6YCllk/default.jpg)](https://www.youtube.com/watch?v=OpVyN6YCllk) | [Кремниевые Титаны #4. Intel: начало](https://www.youtube.com/watch?v=OpVyN6YCllk) | 21.04.2017 | 1 |
 | [![Nintendo Switch работает на FreeBSD?](https://img.youtube.com/vi/hkp_Ik84_l8/default.jpg)](https://www.youtube.com/watch?v=hkp_Ik84_l8) | [Nintendo Switch работает на FreeBSD?](https://www.youtube.com/watch?v=hkp_Ik84_l8) | 04.03.2017 | 2 |
@@ -284,9 +285,9 @@
 | [![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg)](https://www.youtube.com/watch?v=LNDIG8RcTQM) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | [![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg)](https://www.youtube.com/watch?v=_K0tYmuqZLk) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | [![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg)](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1551** |
+| **ИТОГО** |  |  | **1578** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1Il0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzI3LCA0MCwgNDAsIDIyMiwgMjAwLCA5MywgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDM5XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCA5LCA4LCAxMywgOCwgMTIsIDksIDQsIDYsIDVdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1Il0sICJkYXRhc2V0cyI6IFt7ImxhYmVsIjogIlx1MDQyMVx1MDQ0M1x1MDQzY1x1MDQzY1x1MDQzMCIsICJiYWNrZ3JvdW5kQ29sb3IiOiAicmVkIiwgImJvcmRlckNvbG9yIjogInJlZCIsICJkYXRhIjogWzI3LCA0MCwgNDAsIDIyMiwgMjI3LCA5MywgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDM5XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCAxMCwgOCwgMTMsIDgsIDEyLCA5LCA0LCA2LCA1XSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX1dfX0=&devicePixelRatio=1&encoding=base64)
 
 ```
 ===================================================
@@ -297,7 +298,7 @@
 2014           0                   0           0.00
 2015          22                  40           1.82
 2016          60                 222           3.70
-2017          22                 200           9.09
+2017          23                 227           9.87
 2018          11                  93           8.45
 2019          13                 168          12.92
 2020          23                 185           8.04
