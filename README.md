@@ -1,6 +1,6 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"` (Есть определенное утверждение, однако, не смотря на него, бла-бла-бла)
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1596-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1607-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
@@ -128,6 +128,7 @@
 | [![Кремниевые Титаны #16: Creative Sound Blaster](https://img.youtube.com/vi/RuA9i-C0nMs/default.jpg)](https://www.youtube.com/watch?v=RuA9i-C0nMs) | [Кремниевые Титаны #16: Creative Sound Blaster](https://www.youtube.com/watch?v=RuA9i-C0nMs) | 10.06.2018 | 3 |
 | [![Кремниевые Титаны #15: Коротко про AMD](https://img.youtube.com/vi/Rd9ocr-BVMw/default.jpg)](https://www.youtube.com/watch?v=Rd9ocr-BVMw) | [Кремниевые Титаны #15: Коротко про AMD](https://www.youtube.com/watch?v=Rd9ocr-BVMw) | 12.05.2018 | 1 |
 | [![Кремниевые Титаны #14: Почему не получилось с 3DO](https://img.youtube.com/vi/j9E-UhF5qhE/default.jpg)](https://www.youtube.com/watch?v=j9E-UhF5qhE) | [Кремниевые Титаны #14: Почему не получилось с 3DO](https://www.youtube.com/watch?v=j9E-UhF5qhE) | 12.04.2018 | 3 |
+| [![[Почта 2018 - 2] Продолжаем вскрывать коробочки](https://img.youtube.com/vi/CHSiSx4qfPk/default.jpg)](https://www.youtube.com/watch?v=CHSiSx4qfPk) | [[Почта 2018 - 2] Продолжаем вскрывать коробочки](https://www.youtube.com/watch?v=CHSiSx4qfPk) | 29.03.2018 | 11 |
 | [![[Почта 2018 - 1] Начинаем вскрывать новогодние подарки](https://img.youtube.com/vi/m7Jv-Mq-dj4/default.jpg)](https://www.youtube.com/watch?v=m7Jv-Mq-dj4) | [[Почта 2018 - 1] Начинаем вскрывать новогодние подарки](https://www.youtube.com/watch?v=m7Jv-Mq-dj4) | 15.03.2018 | 15 |
 | [![Кремниевые Титаны #13: 3Dfx [Часть 2]](https://img.youtube.com/vi/YuAODdj2S_0/default.jpg)](https://www.youtube.com/watch?v=YuAODdj2S_0) | [Кремниевые Титаны #13: 3Dfx [Часть 2]](https://www.youtube.com/watch?v=YuAODdj2S_0) | 08.03.2018 | 2 |
 | [![Кремниевые Титаны #12: 3Dfx [Часть 1]](https://img.youtube.com/vi/qm5qCqk8X-g/default.jpg)](https://www.youtube.com/watch?v=qm5qCqk8X-g) | [Кремниевые Титаны #12: 3Dfx [Часть 1]](https://www.youtube.com/watch?v=qm5qCqk8X-g) | 01.03.2018 | 0 |
@@ -287,9 +288,9 @@
 | [![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg)](https://www.youtube.com/watch?v=LNDIG8RcTQM) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | [![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg)](https://www.youtube.com/watch?v=_K0tYmuqZLk) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | [![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg)](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1596** |
+| **ИТОГО** |  |  | **1607** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1IiwgIjIwMjYiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMjcsIDEwOCwgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDM5LCAzXSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCAxMCwgOSwgMTMsIDgsIDEyLCA5LCA0LCA2LCA1LCAzXSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX1dfX0=&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1IiwgIjIwMjYiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMjcsIDExOSwgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDM5LCAzXSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX0sIHsibGFiZWwiOiAiXHUwNDIxXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNkXHUwNDM1XHUwNDM1IiwgImJhY2tncm91bmRDb2xvciI6ICJibHVlIiwgImJvcmRlckNvbG9yIjogImJsdWUiLCAiZGF0YSI6IFsxLCAyLCAyLCA0LCAxMCwgOSwgMTMsIDgsIDEyLCA5LCA0LCA2LCA1LCAzXSwgImZpbGwiOiBmYWxzZSwgInBvaW50UmFkaXVzIjogMX1dfX0=&devicePixelRatio=1&encoding=base64)
 
 ```
 ===================================================
@@ -301,7 +302,7 @@
 2015          22                  40           1.82
 2016          60                 222           3.70
 2017          23                 227           9.87
-2018          12                 108           9.00
+2018          13                 119           9.15
 2019          13                 168          12.92
 2020          23                 185           8.04
 2021          14                 172          12.29
