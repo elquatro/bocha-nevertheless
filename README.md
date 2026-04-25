@@ -1,9 +1,10 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"` (Есть определенное утверждение, однако, не смотря на него, бла-бла-бла)
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1666-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1670-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| [![Меняем привод PlayStation на SD-карту](https://img.youtube.com/vi/hKts8jjQTMI/default.jpg)](https://www.youtube.com/watch?v=hKts8jjQTMI) | [Меняем привод PlayStation на SD-карту](https://www.youtube.com/watch?v=hKts8jjQTMI) | 24.04.2026 | 4 |
 | [![Файлсервер на ZFS, в этот раз на Linux и, внезапно, на Эльбрусе](https://img.youtube.com/vi/hSd3GxlIF14/default.jpg)](https://www.youtube.com/watch?v=hSd3GxlIF14) | [Файлсервер на ZFS, в этот раз на Linux и, внезапно, на Эльбрусе](https://www.youtube.com/watch?v=hSd3GxlIF14) | 11.03.2026 | 10 |
 | [![Sega Dreamcast: в интернет по модему](https://img.youtube.com/vi/ew4NUgoiVfI/default.jpg)](https://www.youtube.com/watch?v=ew4NUgoiVfI) | [Sega Dreamcast: в интернет по модему](https://www.youtube.com/watch?v=ew4NUgoiVfI) | 27.02.2026 | 1 |
 | [![Мышь для SuperNintendo, ЭльбрусОС 9.3 и тетрис на гирлянде](https://img.youtube.com/vi/IMXV6xJvgQQ/default.jpg)](https://www.youtube.com/watch?v=IMXV6xJvgQQ) | [Мышь для SuperNintendo, ЭльбрусОС 9.3 и тетрис на гирлянде](https://www.youtube.com/watch?v=IMXV6xJvgQQ) | 24.01.2026 | 3 |
@@ -294,9 +295,9 @@
 | [![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg)](https://www.youtube.com/watch?v=LNDIG8RcTQM) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | [![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg)](https://www.youtube.com/watch?v=_K0tYmuqZLk) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | [![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg)](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1666** |
+| **ИТОГО** |  |  | **1670** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1IiwgIjIwMjYiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMjcsIDE2NywgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDM5LCAxNF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMSwgMiwgMiwgNCwgMTAsIDEwLCAxMywgOCwgMTIsIDksIDQsIDYsIDUsIDVdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1IiwgIjIwMjYiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMjcsIDE2NywgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDM5LCAxOF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMSwgMiwgMiwgNCwgMTAsIDEwLCAxMywgOCwgMTIsIDksIDQsIDYsIDUsIDRdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
 
 ```
 ===================================================
@@ -316,6 +317,6 @@
 2023          22                  96           4.36
 2024          13                  72           5.54
 2025           8                  39           4.88
-2026           3                  14           4.67
+2026           4                  18           4.50
 ===================================================
 ```
