@@ -1,9 +1,10 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"` (Есть определенное утверждение, однако, не смотря на него, бла-бла-бла)
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1676-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1679-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| [![Чипуем Megadrive и подключаем Sega CD](https://img.youtube.com/vi/xMqnXa_MVeM/default.jpg)](https://www.youtube.com/watch?v=xMqnXa_MVeM) | [Чипуем Megadrive и подключаем Sega CD](https://www.youtube.com/watch?v=xMqnXa_MVeM) | 06.07.2026 | 3 |
 | [![Кремниевые титаны #47: Sega CD](https://img.youtube.com/vi/7GxGIseIND0/default.jpg)](https://www.youtube.com/watch?v=7GxGIseIND0) | [Кремниевые титаны #47: Sega CD](https://www.youtube.com/watch?v=7GxGIseIND0) | 17.06.2026 | 2 |
 | [![Световой пистолет своими руками](https://img.youtube.com/vi/TKC1c2_Vv5A/default.jpg)](https://www.youtube.com/watch?v=TKC1c2_Vv5A) | [Световой пистолет своими руками](https://www.youtube.com/watch?v=TKC1c2_Vv5A) | 10.05.2026 | 4 |
 | [![Меняем привод PlayStation на SD-карту](https://img.youtube.com/vi/hKts8jjQTMI/default.jpg)](https://www.youtube.com/watch?v=hKts8jjQTMI) | [Меняем привод PlayStation на SD-карту](https://www.youtube.com/watch?v=hKts8jjQTMI) | 24.04.2026 | 4 |
@@ -297,9 +298,9 @@
 | [![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg)](https://www.youtube.com/watch?v=LNDIG8RcTQM) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | [![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg)](https://www.youtube.com/watch?v=_K0tYmuqZLk) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | [![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg)](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1676** |
+| **ИТОГО** |  |  | **1679** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1IiwgIjIwMjYiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMjcsIDE2NywgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDM5LCAyNF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMSwgMiwgMiwgNCwgMTAsIDEwLCAxMywgOCwgMTIsIDksIDQsIDYsIDUsIDRdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1IiwgIjIwMjYiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMjcsIDE2NywgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDM5LCAyN10sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMSwgMiwgMiwgNCwgMTAsIDEwLCAxMywgOCwgMTIsIDksIDQsIDYsIDUsIDRdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
 
 ```
 ===================================================
@@ -319,6 +320,6 @@
 2023          22                  96           4.36
 2024          13                  72           5.54
 2025           8                  39           4.88
-2026           6                  24           4.00
+2026           7                  27           3.86
 ===================================================
 ```
