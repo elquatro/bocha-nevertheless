@@ -1,9 +1,10 @@
 Сколько раз Дмитрий Бачило произнес фразу `"тем не менее"` (Есть определенное утверждение, однако, не смотря на него, бла-бла-бла)
 ----------------------------------------------------------
-![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1700-green)
+![Всего](https://img.shields.io/badge/%D0%A2%D0%95%D0%9C%20%D0%9D%D0%95%20%D0%9C%D0%95%D0%9D%D0%95%D0%95-1703-green)
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| [![Крутые WADы Doom-а: MyHouse.wad. Экспедиция 2-ая.](https://img.youtube.com/vi/OLbFuLcDS38/default.jpg)](https://www.youtube.com/watch?v=OLbFuLcDS38) | [Крутые WADы Doom-а: MyHouse.wad. Экспедиция 2-ая.](https://www.youtube.com/watch?v=OLbFuLcDS38) | 25.09.2026 | 3 |
 | [![Крутые WADы Doom-а: MyHouse.wad. Экспедиция 1-ая.](https://img.youtube.com/vi/FRjaTYXk4So/default.jpg)](https://www.youtube.com/watch?v=FRjaTYXk4So) | [Крутые WADы Doom-а: MyHouse.wad. Экспедиция 1-ая.](https://www.youtube.com/watch?v=FRjaTYXk4So) | 18.09.2026 | 4 |
 | [![Аркадный автомат, часть 1, выбор "мозга". Repka Pi 4 и 5.](https://img.youtube.com/vi/2V2nXOlijVY/default.jpg)](https://www.youtube.com/watch?v=2V2nXOlijVY) | [Аркадный автомат, часть 1, выбор "мозга". Repka Pi 4 и 5.](https://www.youtube.com/watch?v=2V2nXOlijVY) | 03.08.2026 | 12 |
 | [![Видеокарта NVidia в Эльбрусе](https://img.youtube.com/vi/0FHTOYmlaoI/default.jpg)](https://www.youtube.com/watch?v=0FHTOYmlaoI) | [Видеокарта NVidia в Эльбрусе](https://www.youtube.com/watch?v=0FHTOYmlaoI) | 23.07.2026 | 5 |
@@ -301,9 +302,9 @@
 | [![16 бит тому назад - ZX Spectrum](https://img.youtube.com/vi/LNDIG8RcTQM/default.jpg)](https://www.youtube.com/watch?v=LNDIG8RcTQM) | [16 бит тому назад - ZX Spectrum](https://www.youtube.com/watch?v=LNDIG8RcTQM) | 21.06.2012 | 0 |
 | [![16 бит тому назад - Philips CD-i](https://img.youtube.com/vi/_K0tYmuqZLk/default.jpg)](https://www.youtube.com/watch?v=_K0tYmuqZLk) | [16 бит тому назад - Philips CD-i](https://www.youtube.com/watch?v=_K0tYmuqZLk) | 16.06.2012 | 0 |
 | [![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg)](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
-| **ИТОГО** |  |  | **1700** |
+| **ИТОГО** |  |  | **1703** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1IiwgIjIwMjYiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMjcsIDE2NywgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDM5LCA0OF0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMSwgMiwgMiwgNCwgMTAsIDEwLCAxMywgOCwgMTIsIDksIDQsIDYsIDUsIDVdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1IiwgIjIwMjYiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMjcsIDE2NywgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDM5LCA1MV0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMSwgMiwgMiwgNCwgMTAsIDEwLCAxMywgOCwgMTIsIDksIDQsIDYsIDUsIDVdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
 
 ```
 ===================================================
@@ -323,6 +324,6 @@
 2023          22                  96           4.36
 2024          13                  72           5.54
 2025           8                  39           4.88
-2026          10                  48           4.80
+2026          11                  51           4.64
 ===================================================
 ```
