@@ -4,6 +4,7 @@
 
 |   | Название видео | Дата | Тем не менее |
 | - | -------------- | ---- | ------------:|
+| [![Крутые WADы Doom-а: MyHouse.wad. Экспедиция 3 и 4.](https://img.youtube.com/vi/6Y1_xoncldQ/default.jpg)](https://www.youtube.com/watch?v=6Y1_xoncldQ) | [Крутые WADы Doom-а: MyHouse.wad. Экспедиция 3 и 4.](https://www.youtube.com/watch?v=6Y1_xoncldQ) | 02.10.2026 | 0 |
 | [![Крутые WADы Doom-а: MyHouse.wad. Экспедиция 2-ая.](https://img.youtube.com/vi/OLbFuLcDS38/default.jpg)](https://www.youtube.com/watch?v=OLbFuLcDS38) | [Крутые WADы Doom-а: MyHouse.wad. Экспедиция 2-ая.](https://www.youtube.com/watch?v=OLbFuLcDS38) | 25.09.2026 | 3 |
 | [![Крутые WADы Doom-а: MyHouse.wad. Экспедиция 1-ая.](https://img.youtube.com/vi/FRjaTYXk4So/default.jpg)](https://www.youtube.com/watch?v=FRjaTYXk4So) | [Крутые WADы Doom-а: MyHouse.wad. Экспедиция 1-ая.](https://www.youtube.com/watch?v=FRjaTYXk4So) | 18.09.2026 | 4 |
 | [![Аркадный автомат, часть 1, выбор "мозга". Repka Pi 4 и 5.](https://img.youtube.com/vi/2V2nXOlijVY/default.jpg)](https://www.youtube.com/watch?v=2V2nXOlijVY) | [Аркадный автомат, часть 1, выбор "мозга". Repka Pi 4 и 5.](https://www.youtube.com/watch?v=2V2nXOlijVY) | 03.08.2026 | 12 |
@@ -304,7 +305,7 @@
 | [![16 бит тому назад - Rad Game Tools](https://img.youtube.com/vi/pF_Hz-xfHiQ/default.jpg)](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | [16 бит тому назад - Rad Game Tools](https://www.youtube.com/watch?v=pF_Hz-xfHiQ) | 16.06.2012 | 1 |
 | **ИТОГО** |  |  | **1703** |
 
-![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1IiwgIjIwMjYiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMjcsIDE2NywgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDM5LCA1MV0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMSwgMiwgMiwgNCwgMTAsIDEwLCAxMywgOCwgMTIsIDksIDQsIDYsIDUsIDVdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
+![Nevertheless Chart](https://quickchart.io/chart?c=eyJ0eXBlIjogImxpbmUiLCAiZGF0YSI6IHsibGFiZWxzIjogWyIyMDEyIiwgIjIwMTMiLCAiMjAxNSIsICIyMDE2IiwgIjIwMTciLCAiMjAxOCIsICIyMDE5IiwgIjIwMjAiLCAiMjAyMSIsICIyMDIyIiwgIjIwMjMiLCAiMjAyNCIsICIyMDI1IiwgIjIwMjYiXSwgImRhdGFzZXRzIjogW3sibGFiZWwiOiAiXHUwNDIxXHUwNDQzXHUwNDNjXHUwNDNjXHUwNDMwIiwgImJhY2tncm91bmRDb2xvciI6ICJyZWQiLCAiYm9yZGVyQ29sb3IiOiAicmVkIiwgImRhdGEiOiBbMjcsIDQwLCA0MCwgMjIyLCAyMjcsIDE2NywgMTY4LCAxODUsIDE3MiwgMTk3LCA5NiwgNzIsIDM5LCA1MV0sICJmaWxsIjogZmFsc2UsICJwb2ludFJhZGl1cyI6IDF9LCB7ImxhYmVsIjogIlx1MDQyMVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQzZFx1MDQzNVx1MDQzNSIsICJiYWNrZ3JvdW5kQ29sb3IiOiAiYmx1ZSIsICJib3JkZXJDb2xvciI6ICJibHVlIiwgImRhdGEiOiBbMSwgMiwgMiwgNCwgMTAsIDEwLCAxMywgOCwgMTIsIDksIDQsIDYsIDUsIDRdLCAiZmlsbCI6IGZhbHNlLCAicG9pbnRSYWRpdXMiOiAxfV19fQ==&devicePixelRatio=1&encoding=base64)
 
 ```
 ===================================================
@@ -324,6 +325,6 @@
 2023          22                  96           4.36
 2024          13                  72           5.54
 2025           8                  39           4.88
-2026          11                  51           4.64
+2026          12                  51           4.25
 ===================================================
 ```
